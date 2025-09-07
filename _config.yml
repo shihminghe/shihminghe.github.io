@@ -41,7 +41,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Shih-Ming-He" # URL
-  scopus           : "www.scopus.com/authid/detail.uri?authorId=57104158200" # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57104158200" # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
