@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "I am Shih-Ming He, currently an Assistant Professor at the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan."
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,14 +7,8 @@ redirect_from:
 ---
 
 
+I am **Shih-Ming He**, currently an Assistant Professor at the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan. 
 My research focuses on **2D semiconductor materials**, **scalable CVD/MOCVD process development**, and **large-area transfer techniques for device applications**.
-
-
-## Research Interests
-- 2D materials: Graphene, TMD (MoS₂, WS₂, etc), hBN, Janus materials
-- Scalable transfer and integration
-- CVD/MOCVD platforms
-- AI-driven synthesis & autonomous process optimization
 
 ## Life Timeline
 - **2025.08&nbsp;&nbsp;&nbsp;**　Joined the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan as Assistant Professor
