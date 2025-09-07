@@ -6,8 +6,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include figure image_path="/images/profile.jpg" alt="Shih-Ming He" caption="Assistant Professor, CYCU EE" width="220" %}
-
 ## About Me
 I’m **Shih-Ming He**, an Assistant Professor at CYCU (Electronic Engineering, Taiwan).  
 My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process development**, and **large-area transfer techniques** toward reliable device integration.
