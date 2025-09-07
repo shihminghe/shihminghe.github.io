@@ -23,13 +23,13 @@ repository               : "shihminghe/shihminghe.github.io"
 author:
   # Biographic information
   avatar           : "{{ '/assets/images/profile.jpg' | relative_url }}"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Shih-Ming He"
+  pronouns         : "he/his" # example: "she/her"  
+  bio              : "Assistant Professor at Electronic Engineering"
+  location         : "Taoyuan, Taiwan"
+  employer         : "Chung Yuan Christian University"
+  uri              : "https://el.cycu.edu.tw/en/portfolio-item/shih-ming-he/" # URL
+  email            : "smhe@cycu.edu.tw" 
 
   # Academic websites
   academia         : # URL
