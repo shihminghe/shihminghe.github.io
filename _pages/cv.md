@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,35 +11,63 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Energy Engineering, National Cental University, Taiwan, 2011
+* B.S. in Physics, Fu Jen Catholic University, Taiwan, 2014
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2025. 08 - present: Assistant Proffesor
+  * Department of Electronic Engineering, Chung Yuan Christian University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023. 10 - 2025. 04: Postdoctoral Associate
+  * Research Laborotary of Electronics, Massachusetts Institute of Technology
+  * Supervisor: Professor Jing Kong
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023. 04 - 2023. 09: Postoctoral Research Fellow
+  * Optical Sciences Center, National Central University
+  * Supervisor: Professor Ching-Yuan Su
+ 
+Visiting Research and Academic Exchanges
+======
+* 2017. 07. 17 - 2017. 07. 26 
+  * Visiting Researcher, Rutherford Appleton Laboratory for experiment cooperation, Didcot, United Kingdom
+
+* 2016. 11. 15 - 2016. 11. 23
+  * Academic Exchange to Shizuoka University, Shizuoka, Japan
+
+* 2015. 07. 13 - 2015. 07. 24
+  * Academic exchange to Hiroshima University, Hiroshima, Japan
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Chemical Vapor Deposition (CVD / MOCVD)
+  * Process design & reactor setup
+  * Plasma-enhanced & low-temperature methods
+* Growth of 2D materials
+  * MoS₂, WS₂, hBN, graphene
+  * Janus 2D materials
+* 2D Materials Transfer
+  * Wet and dry transfer methods
+  * Layer stacking & heterostructure assembly
+  * Suspended structures
+  * Large-area wafer-scale transfer
+* Materials Characterization
+  * Raman spectroscopy
+  * Atomic Force Microscopy (AFM)
+  * Scanning Electron Microscopy (SEM)
+  * X-ray Photoelectron Spectroscopy (XPS)
+* Device Fabrication
+  * Photolithography & e-beam lithography
+  * Thin-film deposition (PVD, sputtering)
+  * Electrical transport measurement
+* Computational & Data Skills
+  * Python (data analysis)
+  * COMSOL Multiphysics (thermal & fluid simulations)
+  * C & C++
+* Research & Communication
+  * Manuscript writing and peer-review process
+  * Conference presentations & invited talks
+  * International collaboration & project coordination
 
 Publications
 ======
