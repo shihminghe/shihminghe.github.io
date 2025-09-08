@@ -7,13 +7,15 @@ redirect_from:
   - /resume
 ---
 
-
-{% include base_path %}
+<hr class="bold">
 
 Education
-======
+===
 * Ph.D in Energy Engineering, National Cental University, Taiwan, 2011
 * B.S. in Physics, Fu Jen Catholic University, Taiwan, 2014
+  
+<hr class="bold">
+
 
 Work experience
 ======
