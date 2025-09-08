@@ -76,53 +76,76 @@ Skills
 
 Publications
 ======
-
 **2025**  
-- Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh
-  *A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures*
-  *Chemical Engineering Journal*, 522, 166830 (2025).
+- Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang,  
+  Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh.  
+  *A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures*.  
+  *Chemical Engineering Journal*, 522, 166830 (2025).  
+  [https://doi.org/10.1016/j.cej.2025.166830](https://doi.org/10.1016/j.cej.2025.166830)  
+
+---
 
 **2024**  
-- **Shih-Ming He**, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su
-  *Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials*
-  *Small Methods*, 8, 2400150 (2024). *Selected as Front Cover*
+- **Shih-Ming He**, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su.  
+  *Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials*.  
+  *Small Methods*, 8, 2400150 (2024). *Selected as Front Cover*  
+  [https://doi.org/10.1002/smtd.202400150](https://doi.org/10.1002/smtd.202400150)  
+
+---
 
 **2022**  
-- **Shih-Ming He**, Hsin-Yin Lin, Chia-Jou Shen, Ching-Yuan Su
-  *Wrinkle-Free Graphene Films on Fluorinated Self-Assembled Monolayer-Modified Substrates for Enhancing the Electrical Performance of Transistors*
-  *ACS Applied Nano Materials*, 5 (4), 5793–5802 (2022).
+- **Shih-Ming He**, Hsin-Yin Lin, Chia-Jou Shen, Ching-Yuan Su.  
+  *Wrinkle-Free Graphene Films on Fluorinated Self-Assembled Monolayer-Modified Substrates for Enhancing the Electrical Performance of Transistors*.  
+  *ACS Applied Nano Materials*, 5 (4), 5793–5802 (2022).  
+  [https://doi.org/10.1021/acsanm.2c00918](https://doi.org/10.1021/acsanm.2c00918)  
 
-- Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. D ̈ohl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu, **S.M. He**, C.Y. Su, D. Farley, et al.
-  *Robustness of large-area suspended graphene under interaction with intense laser*
-  *Scientific Reports*, 12 (1), 2346 (2022).
+- Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. Döhl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu,  
+  **S.M. He**, C.Y. Su, D. Farley, et al.  
+  *Robustness of large-area suspended graphene under interaction with intense laser*.  
+  *Scientific Reports*, 12 (1), 2346 (2022).  
+  [https://doi.org/10.1038/s41598-022-06055-4](https://doi.org/10.1038/s41598-022-06055-4)  
+
+---
 
 **2021**  
-- **Shih-Ming He**, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su
-  *Toward large-scale CVD graphene growth by enhancing reaction kinetics via an efficient interdiffusion mediator and mechanism study utilizing CFD simulations*
-  *Journal of the Taiwan Institute of Chemical Engineers*, 128, 400–408 (2021).
+- **Shih-Ming He**, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su.  
+  *Toward large-scale CVD graphene growth by enhancing reaction kinetics via an efficient interdiffusion mediator and mechanism study utilizing CFD simulations*.  
+  *Journal of the Taiwan Institute of Chemical Engineers*, 128, 400–408 (2021).  
+  [https://doi.org/10.1016/j.jtice.2021.08.035](https://doi.org/10.1016/j.jtice.2021.08.035)  
+
+---
 
 **2020**  
-- Wei-Ting Chen, Dipak Dutta, Yu-Han Hung, Yu-Yu Sin, **Shih-Ming He**, Jeng-Kuei Chang, Ching-Yuan Su
-  *Designed catalytic protocol for enhancing HER performance of P, N-co-doped graphene: The correlation of manipulating the dopants allocations and heteroatomic structure*
-  *Journal of Physical Chemistry C*, 124 (47), 25701–25711 (2020).
+- Wei-Ting Chen, Dipak Dutta, Yu-Han Hung, Yu-Yu Sin, **Shih-Ming He**, Jeng-Kuei Chang, Ching-Yuan Su.  
+  *Designed catalytic protocol for enhancing HER performance of P, N-co-doped graphene: The correlation of manipulating the dopants allocations and heteroatomic structure*.  
+  *Journal of Physical Chemistry C*, 124 (47), 25701–25711 (2020).  
+  [https://doi.org/10.1021/acs.jpcc.0c07467](https://doi.org/10.1021/acs.jpcc.0c07467)  
+
+---
 
 **2019**  
-- **Shih-Ming He**, Cheng-Chun Huang, Jhe-Wei Liou, Wei-Yen Woon, Chin-Yuan Su
-  *Spectroscopic and electrical characterizations of low-damage phosphorous-doped graphene via ion implantation*
-  *ACS Applied Materials & Interfaces*, 11 (50), 47289–47298 (2019).
+- **Shih-Ming He**, Cheng-Chun Huang, Jhe-Wei Liou, Wei-Yen Woon, Chin-Yuan Su.  
+  *Spectroscopic and electrical characterizations of low-damage phosphorous-doped graphene via ion implantation*.  
+  *ACS Applied Materials & Interfaces*, 11 (50), 47289–47298 (2019).  
+  [https://doi.org/10.1021/acsami.9b18479](https://doi.org/10.1021/acsami.9b18479)  
 
-- Dipak Dutta, Jian-Yong Jiang, Anif Jamaluddin, **Shih-Ming He**, Yu-Han Hung, Fuming Chen, Jeng-Kuei Chang, Ching-Yuan Su
-  *Nano-Catalyst Assisted Pore-structure Fine Tailoring of Holey-graphene for High Performance Energy Storage*
-  *ACS Applied Materials & Interfaces*, 11 (40), 36560–36570 (2019).
+- Dipak Dutta, Jian-Yong Jiang, Anif Jamaluddin, **Shih-Ming He**, Yu-Han Hung, Fuming Chen, Jeng-Kuei Chang, Ching-Yuan Su.  
+  *Nano-Catalyst Assisted Pore-structure Fine Tailoring of Holey-graphene for High Performance Energy Storage*.  
+  *ACS Applied Materials & Interfaces*, 11 (40), 36560–36570 (2019).  
+  [https://doi.org/10.1021/acsami.9b09927](https://doi.org/10.1021/acsami.9b09927)  
+
+---
 
 **2016**  
-- Yu-Min Chen, **Shih-Ming He**, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su
-  *Ultra-large suspended graphene as highly elastic membrane for capacitive pressure sensor*
-  *Nanoscale*, 8 (6), 3555–3564 (2016).
+- Yu-Min Chen, **Shih-Ming He**, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su.  
+  *Ultra-large suspended graphene as highly elastic membrane for capacitive pressure sensor*.  
+  *Nanoscale*, 8 (6), 3555–3564 (2016).  
+  [https://doi.org/10.1039/C5NR08668J](https://doi.org/10.1039/C5NR08668J)  
 
-- Jheng-Yuan Syu, Yu-Min Chen, Kai-Xiang Xu, **Shih-Ming He**, Wu-Ching Hung, Chien-Liang Chang, Ching-Yuan Su
-  *Wide-range work-function tuning of active graphene transparent electrodes via hole doping*
-  *RSC Advances*, 6 (39), 32746–32756 (2016).
+- Jheng-Yuan Syu, Yu-Min Chen, Kai-Xiang Xu, **Shih-Ming He**, Wu-Ching Hung, Chien-Liang Chang, Ching-Yuan Su.  
+  *Wide-range work-function tuning of active graphene transparent electrodes via hole doping*.  
+  *RSC Advances*, 6 (39), 32746–32756 (2016).  
+  [https://doi.org/10.1039/C6RA04449B](https://doi.org/10.1039/C6RA04449B)  
 
 ### Conference Paper
 - Muzafar Rather, Loganathan Ravi, **Shih-Ming He**, Chao-Chia Cheng, Ching-Yuan Su, Jen-Inn Chyi  
@@ -197,7 +220,6 @@ Awards
 
 Technical Reports
 ======
-## Technical Reports
 - **Shih-Ming He**, Ching-Yuan Su
   *Application and Prospect of Graphene Nanoribbon*, NDL Communications, 2016.  
 
