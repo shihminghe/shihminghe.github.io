@@ -6,9 +6,7 @@ permalink: /publication/2025-10-15-SERS
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-10-15
 venue: 'Chemical Engineering Journal'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
+paperurl: 'https://doi.org/10.1016/j.cej.2025.166830'
 citation: 'Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, Shih-Ming He, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, and Yu-Lun Chueh, &quot;A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS2 Heterostructures&quot; <i>Chemical Engineering Journal<i>, 522, 166830 (2025)
 
 ---
