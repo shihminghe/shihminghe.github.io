@@ -16,26 +16,27 @@ Education
 
 Work experience
 ======
-* 2025. 08 - present: Assistant Proffesor
+
+**2025. 08 - present: Assistant Proffesor**
   * Department of Electronic Engineering, Chung Yuan Christian University
 
-* 2023. 10 - 2025. 04: Postdoctoral Associate
+**2023. 10 - 2025. 04: Postdoctoral Associate**
   * Research Laborotary of Electronics, Massachusetts Institute of Technology
   * Supervisor: Professor Jing Kong
 
-* 2023. 04 - 2023. 09: Postoctoral Research Fellow
+**2023. 04 - 2023. 09: Postoctoral Research Fellow**
   * Optical Sciences Center, National Central University
   * Supervisor: Professor Ching-Yuan Su
  
 Visiting Research and Academic Exchanges
 ======
-* 2017. 07. 17 - 2017. 07. 26 
+**2017. 07. 17 - 2017. 07. 26**
   * Visiting Researcher, Rutherford Appleton Laboratory for experiment cooperation, Didcot, United Kingdom
 
-* 2016. 11. 15 - 2016. 11. 23
+**2016. 11. 15 - 2016. 11. 23**
   * Academic Exchange to Shizuoka University, Shizuoka, Japan
 
-* 2015. 07. 13 - 2015. 07. 24
+**2015. 07. 13 - 2015. 07. 24**
   * Academic exchange to Hiroshima University, Hiroshima, Japan
   
 Skills
