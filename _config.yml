@@ -22,7 +22,7 @@ repository               : "shihminghe/shihminghe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/headshot.jpg"
+  avatar           : "/images/headshot.png"
   name             : "Shih-Ming He"
   pronouns         : "he/his" # example: "she/her"  
   bio              : "Assistant Professor at Electronic Engineering"
@@ -220,16 +220,16 @@ kramdown:
 collections:
   teaching:
     output: true
-    permalink: /:teaching/:name/
+    permalink: /teaching/:name/
   publications:
     output: true
-    permalink: /:publications/:name/
+    permalink: /publications/:name/
   portfolio:
     output: true
-    permalink: /:portfolio/:name/
+    permalink: /portfolio/:name/
   talks:
     output: true
-    permalink: /:talks/:name/
+    permalink: /talks/:name/
 
 
 # These settings control how pages and collections are included in the site
