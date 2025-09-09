@@ -131,7 +131,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 .tl-content { line-height: 1.7; }
 </style>
 
-## Beyond Academia
-Never say never; Everything happened with meaning.
+
+> Never say never. Everything happened with meaning.
 
 ---
