@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Professional Record"
-permalink: /Professional Record/
+permalink: /pr/
 author_profile: true
 redirect_from:
   - /resume
