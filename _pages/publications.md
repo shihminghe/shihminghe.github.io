@@ -13,8 +13,6 @@ Publications
     <a href="https://doi.org/10.1016/j.cej.2025.166830" target="_blank">
       https://doi.org/10.1016/j.cej.2025.166830
     </a>
-  </div>
-</div>
 
 **2024**  
 - <div style="display: flex; justify-content: space-between; align-items: flex-start;">
