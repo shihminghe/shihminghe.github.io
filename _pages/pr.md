@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Professional Record"
 permalink: /pr/
 author_profile: true
