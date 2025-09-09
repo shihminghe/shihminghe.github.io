@@ -7,7 +7,10 @@ redirect_from:
 ---
 
 ## About Me
-I’m **Shih-Ming He**, an Assistant Professor at CYCU (Electronic Engineering, Taiwan).  
+I’m **Shih-Ming He**, an Assistant Professor at CYCU (Electronic Engineering, Taiwan),  
+where I lead the **2D Semiconductor Materials with AI-driven Research & Transfer (2SMART) Lab**.
+
+
 My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process development**, and **large-area transfer techniques** toward reliable device integration.
 
 ### At a glance
