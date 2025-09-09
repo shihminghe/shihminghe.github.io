@@ -12,12 +12,16 @@ I’m **Shih-Ming He**, an Assistant Professor at Department of Electronic Engin
 
 My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process development**, and **large-area transfer techniques** toward reliable device integration.
 
+---
+
 ### At a glance
 - Built and tuned **CVD/MOCVD** platforms for **wafer-scale 2D materials**
 - Focus on **transfer reliability** & **process reproducibility** for manufacturing
 - Interested in **AI-driven synthesis** and **autonomous process optimization**
 
 > I care about turning lab-scale breakthroughs into **robust, scalable processes** that teams can actually build on.
+
+---
 
 ## Life Timeline
 <div class="timeline">
@@ -132,6 +136,6 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
 ---
 
-> Never say never. Everything happened with meaning.
+>> Never say never. Everything happened with meaning. 
 
 ---
