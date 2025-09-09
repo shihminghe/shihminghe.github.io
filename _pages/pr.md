@@ -3,8 +3,6 @@ layout: archive
 title: "Professional Record"
 permalink: /pr/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 <hr class="bold">
