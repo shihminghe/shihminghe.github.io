@@ -10,8 +10,7 @@ author_profile: true
 Publications
 ======
 **2025**  
-- Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang,  
-  Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh.  
+- Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh.  
   *A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures*.  
   *Chemical Engineering Journal*, 522, 166830 (2025).  
   [https://doi.org/10.1016/j.cej.2025.166830](https://doi.org/10.1016/j.cej.2025.166830)  
