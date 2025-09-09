@@ -4,8 +4,6 @@ permalink: /pr/
 author_profile: true
 ---
 
-<hr class="bold">
-
 Education
 ===
 
