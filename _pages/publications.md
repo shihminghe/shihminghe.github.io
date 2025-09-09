@@ -7,22 +7,21 @@ author_profile: true
 Publications
 ======
 **2025**  
-- Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh.  
-  *A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures*.  
-  *Chemical Engineering Journal*, 522, 166830 (2025).  
-  [https://doi.org/10.1016/j.cej.2025.166830](https://doi.org/10.1016/j.cej.2025.166830)  
+- <b>Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, **Shih-Ming He**, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong, Yu-Lun Chueh<br>
+    <i>A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures</i><br>
+    <i>Chemical Engineering Journal</i>, 522, 166830 (2025)<br>
+    <a href="https://doi.org/10.1016/j.cej.2025.166830" target="_blank">
+      https://doi.org/10.1016/j.cej.2025.166830
+    </a>
+  </div>
+</div>
 
 **2024**  
-- **Shih-Ming He**, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su.  
-  *Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials*.  
-  *Small Methods*, 8, 2400150 (2024). *Selected as Front Cover*  
-  [https://doi.org/10.1002/smtd.202400150](https://doi.org/10.1002/smtd.202400150)
-
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+- <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   <div style="flex: 1; padding-right: 10px;">
-    • **Shih-Ming He**, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su.
-    <i>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials.</i>  
-    <i>*Small Methods*</i>, 8, 2400150 (2024).  
+    <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su<br>
+    <i>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</i><br>
+    <i>Small Methods</i>, 8, 2400150 (2024)<br>
     <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">
       https://doi.org/10.1002/smtd.202400150
     </a>
