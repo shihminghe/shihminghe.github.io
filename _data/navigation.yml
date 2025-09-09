@@ -10,7 +10,7 @@
 main:
   
   - title: "Professional Record"
-    url: /professional-record/
+    url: /pr/
     
   - title: "Publications"
     url: /publications/
