@@ -234,6 +234,10 @@ collections:
 
 # These settings control how pages and collections are included in the site
 defaults:
+  - scope: { path: "images", type: "" }
+    values: { layout: null }
+  - scope: { path: "assets", type: "" }
+    values: { layout: null }
   # _posts
   - scope:
       path: ""
@@ -287,6 +291,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      
 
 
 # Sass/SCSS
