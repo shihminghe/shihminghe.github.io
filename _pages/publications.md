@@ -27,7 +27,6 @@ Publications
   <div style="flex:0 0 150px;">
     <img src="/images/sm.jpg" alt="Front Cover" style="max-width: 100%;">
   </div>
-</div>
 
 **2022**  
 - <b>**Shih-Ming He**, Hsin-Yin Lin, Chia-Jou Shen, Ching-Yuan Su<br>
@@ -36,8 +35,6 @@ Publications
     <a href="https://doi.org/10.1021/acsanm.2c00918" target="_blank">
       https://doi.org/10.1021/acsanm.2c00918
     </a>
-  </div>
-</div>
 
 - <b>Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. Döhl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu,  
   **S.M. He**, C.Y. Su, D. Farley, et al. <br>
@@ -46,8 +43,6 @@ Publications
     <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">
       https://doi.org/10.1038/s41598-022-06055-4
     </a>
-  </div>
-</div>
 
 **2021**  
 - <b>**Shih-Ming He**, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su<br>
@@ -56,8 +51,6 @@ Publications
     <a href="https://doi.org/10.1016/j.jtice.2021.08.035" target="_blank">
       https://doi.org/10.1016/j.jtice.2021.08.035
     </a>
-  </div>
-</div>
 
 **2020**  
 - <b>Wei-Ting Chen, Dipak Dutta, Yu-Han Hung, Yu-Yu Sin, **Shih-Ming He**, Jeng-Kuei Chang, Ching-Yuan Su<br>
@@ -66,8 +59,6 @@ Publications
     <a href="https://doi.org/10.1021/acs.jpcc.0c07467" target="_blank">
       https://doi.org/10.1021/acs.jpcc.0c07467
     </a>
-  </div>
-</div>
 
 **2019**  
 - <b>**Shih-Ming He**, Cheng-Chun Huang, Jhe-Wei Liou, Wei-Yen Woon, Chin-Yuan Su<br>
@@ -76,8 +67,6 @@ Publications
     <a href="https://doi.org/10.1021/acsami.9b18479" target="_blank">
       https://doi.org/10.1021/acsami.9b18479
     </a>
-  </div>
-</div>
 
 - <b>Dipak Dutta, Jian-Yong Jiang, Anif Jamaluddin, **Shih-Ming He**, Yu-Han Hung, Fuming Chen, Jeng-Kuei Chang, Ching-Yuan Su<br>
     <i>Nano-Catalyst Assisted Pore-structure Fine Tailoring of Holey-graphene for High Performance Energy Storage</i><br>
@@ -85,9 +74,7 @@ Publications
     <a href="https://doi.org/10.1021/acsami.9b09927" target="_blank">
       https://doi.org/10.1021/acsami.9b09927
     </a>
-  </div>
-</div>
-
+    
 **2016**  
 - <b>Yu-Min Chen, **Shih-Ming He**, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su<br>
     <i>Ultra-large suspended graphene as highly elastic membrane for capacitive pressure sensor</i><br>
@@ -95,8 +82,6 @@ Publications
     <a href="doi.org/10.1039/C5NR08668J" target="_blank">
       https://doi.org/10.1039/C5NR08668J
     </a>
-  </div>
-</div>
 
 - <b>Jheng-Yuan Syu, Yu-Min Chen, Kai-Xiang Xu, **Shih-Ming He**, Wu-Ching Hung, Chien-Liang Chang, Ching-Yuan Su<br>
     <i>Wide-range work-function tuning of active graphene transparent electrodes via hole doping</i><br>
@@ -104,8 +89,6 @@ Publications
     <a href="https://doi.org/10.1039/C6RA04449B" target="_blank">
       https://doi.org/10.1039/C6RA04449B
     </a>
-  </div>
-</div>
 
 ### Conference Paper
 
@@ -116,8 +99,6 @@ Publications
     <a href="https://doi.org/10.1117/12.2608062" target="_blank">
       https://doi.org/10.1117/12.2608062
     </a>
-  </div>
-</div>
 
 <hr class="bold">
 
@@ -128,14 +109,10 @@ Technical Reports
     <i>Application and Prospect of Graphene Nanoribbon</i><br>
     <i>NDL Communications* (2016)</i><br>
     </a>
-  </div>
-</div>
 
 - <b>**Shih-Ming He**, Ching-Yuan Suh<br>
     <i>The Synthesis Technology for Large-Area and High-Quality Graphene Film</i><br>
     <i>Journal of the Vacuum Society of the R.O.C.</i> (2015)<br>
     </a>
-  </div>
-</div>
 
 <hr class="bold">
