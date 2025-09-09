@@ -11,28 +11,35 @@ redirect_from:
 
 Education
 ===
-* Ph.D in Energy Engineering, National Cental University, Taiwan, 2011
-* B.S. in Physics, Fu Jen Catholic University, Taiwan, 2014
-  
-<hr class="bold">
 
+<ul class="cv-list">
+  <li>
+    <span class="cv-degree">Ph.D. in Energy Engineering, National Central University (NCU), Taiwan</span>
+    <span class="cv-year">2021</span>
+  </li>
+  <li>
+    <span class="cv-degree">B.S. in Physics, Fu Jen Catholic University (FJU), Taiwan</span>
+    <span class="cv-year">2014</span>
+  </li>
+</ul>
+
+<hr class="bold">
 
 Work experience
 ======
 
-**2025.08 – present**  
-*Assistant Professor*  
-Department of Electronic Engineering, Chung Yuan Christian University  
+**2025.08.01 – present**
+  * Assistant Professor, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan  
 
-**2023.10 – 2025.04**  
-*Postdoctoral Associate*  
-Research Laboratory of Electronics, MIT  
-Supervisor: Prof. Jing Kong  
+**2023.10.01 – 2025.04.30**
+  * Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology (MIT), United States of America
+  * Supervisor: Prof. Jing Kong
 
-**2023.04 – 2023.09**  
-*Postdoctoral Research Fellow*  
-Optical Sciences Center, NCU  
-Supervisor: Prof. Ching-Yuan Su  
+**2023.04.27 – 2023.09.30**
+  * Postdoctoral Research Fellow, Optical Sciences Center, National Central University, Taiwan
+  * Supervisor: Prof. Ching-Yuan Su  
+
+<hr class="bold">
 
 Visiting Research and Academic Exchanges
 ======
@@ -40,11 +47,13 @@ Visiting Research and Academic Exchanges
   * Visiting Researcher, Rutherford Appleton Laboratory for experiment cooperation, Didcot, United Kingdom
 
 **2016.11.15 - 2016.11.23**
-  * Academic Exchange to Shizuoka University, Shizuoka, Japan
+  * Academic Exchange, Shizuoka University, Shizuoka, Japan
 
 **2015.07.13 - 2015.07.24**
-  * Academic exchange to Hiroshima University, Hiroshima, Japan
-  
+  * Academic exchange, Hiroshima University, Hiroshima, Japan
+
+ <hr class="bold">
+ 
 Skills
 ======
 * Chemical Vapor Deposition (CVD / MOCVD)
@@ -64,7 +73,7 @@ Skills
   * Scanning Electron Microscopy (SEM)
   * X-ray Photoelectron Spectroscopy (XPS)
 * Device Fabrication
-  * Photolithography & e-beam lithography
+  * Photolithography
   * Thin-film deposition (PVD, sputtering)
   * Electrical transport measurement
 * Computational & Data Skills
@@ -76,6 +85,8 @@ Skills
   * Conference presentations & invited talks
   * International collaboration & project coordination
 
+<hr class="bold">
+
 Publications
 ======
 **2025**  
@@ -85,15 +96,11 @@ Publications
   *Chemical Engineering Journal*, 522, 166830 (2025).  
   [https://doi.org/10.1016/j.cej.2025.166830](https://doi.org/10.1016/j.cej.2025.166830)  
 
----
-
 **2024**  
 - **Shih-Ming He**, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su.  
   *Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials*.  
   *Small Methods*, 8, 2400150 (2024). *Selected as Front Cover*  
   [https://doi.org/10.1002/smtd.202400150](https://doi.org/10.1002/smtd.202400150)  
-
----
 
 **2022**  
 - **Shih-Ming He**, Hsin-Yin Lin, Chia-Jou Shen, Ching-Yuan Su.  
@@ -107,23 +114,17 @@ Publications
   *Scientific Reports*, 12 (1), 2346 (2022).  
   [https://doi.org/10.1038/s41598-022-06055-4](https://doi.org/10.1038/s41598-022-06055-4)  
 
----
-
 **2021**  
 - **Shih-Ming He**, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su.  
   *Toward large-scale CVD graphene growth by enhancing reaction kinetics via an efficient interdiffusion mediator and mechanism study utilizing CFD simulations*.  
   *Journal of the Taiwan Institute of Chemical Engineers*, 128, 400–408 (2021).  
-  [https://doi.org/10.1016/j.jtice.2021.08.035](https://doi.org/10.1016/j.jtice.2021.08.035)  
-
----
-
+  [https://doi.org/10.1016/j.jtice.2021.08.035](https://doi.org/10.1016/j.jtice.2021.08.035)
+  
 **2020**  
 - Wei-Ting Chen, Dipak Dutta, Yu-Han Hung, Yu-Yu Sin, **Shih-Ming He**, Jeng-Kuei Chang, Ching-Yuan Su.  
   *Designed catalytic protocol for enhancing HER performance of P, N-co-doped graphene: The correlation of manipulating the dopants allocations and heteroatomic structure*.  
   *Journal of Physical Chemistry C*, 124 (47), 25701–25711 (2020).  
   [https://doi.org/10.1021/acs.jpcc.0c07467](https://doi.org/10.1021/acs.jpcc.0c07467)  
-
----
 
 **2019**  
 - **Shih-Ming He**, Cheng-Chun Huang, Jhe-Wei Liou, Wei-Yen Woon, Chin-Yuan Su.  
@@ -135,8 +136,6 @@ Publications
   *Nano-Catalyst Assisted Pore-structure Fine Tailoring of Holey-graphene for High Performance Energy Storage*.  
   *ACS Applied Materials & Interfaces*, 11 (40), 36560–36570 (2019).  
   [https://doi.org/10.1021/acsami.9b09927](https://doi.org/10.1021/acsami.9b09927)  
-
----
 
 **2016**  
 - Yu-Min Chen, **Shih-Ming He**, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su.  
@@ -154,9 +153,10 @@ Publications
   *Heteroepitaxy of III-nitrides on polycrystalline and amorphous substrates*.  
   **SPIE Gallium Nitride Materials and Devices XVII**, Jan. 22–27, 2022, San Francisco, USA.  
   Proceedings Volume PC12001; PC1200108 (2022).  
-  [https://doi.org/10.1117/12.2608062](https://doi.org/10.1117/12.2608062)  
+  [https://doi.org/10.1117/12.2608062](https://doi.org/10.1117/12.2608062)
 
----
+<hr class="bold">
+
 Conference Presentations
 ======
 
@@ -178,8 +178,6 @@ Conference Presentations
   *The tunable work-function of graphene transparent conductive thin-film by chemical functionalization*.  
   **IC3MT 2016**, Oct. 7–11, Matsue, Japan.  
 
----
-
 ### International – Poster
 
 - **Shih-Ming He**, Cheng-Chun Huang, Wei-Yuan Woon, Ching-Yuan Su.  
@@ -194,13 +192,7 @@ Conference Presentations
   *The investigation of highly elastic and large-area suspended 2D membrane and their sensing applications*.  
   **IUMRS-ICA 2017**, Nov. 5–9, Taipei, Taiwan.  
 
----
-
 ### Domestic Presentation and Technical Presentations
-
-- Zhien Wang, **Shih-Ming He**, Jing Kong.  
-  *Artificial Intelligence-Assisted Synthesis and Integration Optimization of 2D materials*.  
-  **SUPREME 2024**, Jun. 10–12, Cambridge, MA, USA.  
 
 - **Shih-Ming He**, Zachariah Hennighausen, Jing Kong.  
   *Universal Transfer Process for 2D Materials*.  
@@ -214,7 +206,7 @@ Conference Presentations
   *Synthesis of phosphorous-doped graphene by using tens keV ion implantation and their application on FET*.  
   **TVS-2019**, Nov. 1, 2019, Hsinchu, Taiwan.  
 
----
+<hr class="bold">
   
 Awards
 ======
@@ -224,7 +216,7 @@ Awards
 - **Taipei Invention Bronze Award**, Taiwan Innotech Expo, Sep. 2019  
 - **Best Presentation Award**, IC3MT, Oct. 2016  
 
----
+<hr class="bold">
 
 Technical Reports
 ======
@@ -235,3 +227,5 @@ Technical Reports
 - **Shih-Ming He**, Ching-Yuan Su.  
   *The Synthesis Technology for Large-Area and High-Quality Graphene Film*.  
   *Journal of the Vacuum Society of the R.O.C.*, 2015.  
+
+<hr class="bold">
