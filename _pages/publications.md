@@ -1,11 +1,8 @@
 ---
 layout: single
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-<hr class="bold">
 
 Publications
 ======
@@ -73,5 +70,17 @@ Publications
   **SPIE Gallium Nitride Materials and Devices XVII**, Jan. 22–27, 2022, San Francisco, USA.  
   Proceedings Volume PC12001; PC1200108 (2022).  
   [https://doi.org/10.1117/12.2608062](https://doi.org/10.1117/12.2608062)
+
+<hr class="bold">
+
+Technical Reports
+======
+- **Shih-Ming He**, Ching-Yuan Su.  
+  *Application and Prospect of Graphene Nanoribbon*.  
+  *NDL Communications*, 2016.  
+
+- **Shih-Ming He**, Ching-Yuan Su.  
+  *The Synthesis Technology for Large-Area and High-Quality Graphene Film*.  
+  *Journal of the Vacuum Society of the R.O.C.*, 2015.  
 
 <hr class="bold">
