@@ -9,8 +9,8 @@
 
 main:
   
-  - title: "CV"
-    url: /cv/
+  - title: "Professional Record"
+    url: /professional-record/
     
   - title: "Publications"
     url: /publications/
