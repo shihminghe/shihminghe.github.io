@@ -27,7 +27,7 @@ Publications
       https://doi.org/10.1002/smtd.202400150
     </a>
   </div>
-  <div style="flex:0 0 10%;">
+  <div style="flex:0 0 150px;">
     <img src="/images/sm.jpg" alt="Front Cover" style="max-width: 100%;">
   </div>
 </div>
