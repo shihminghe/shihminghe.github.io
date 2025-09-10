@@ -2,6 +2,8 @@
 layout: archive
 permalink: /about/
 author_profile: true
+redirect_from:
+  - /about.html
 ---
 
 ## About Me
