@@ -1,7 +1,6 @@
 ---
 layout: single
-permalink: /certification/
+permalink: /portfolio/
 author_profile: true
 ---
 
-Certification
