@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Teaching/
+permalink: /teaching/
 author_profile: true
 ---
 
