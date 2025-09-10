@@ -24,7 +24,7 @@ author_profile: true
 
 <hr class="bold">
 
-## International – Poster
+# International – Poster
 
 - **Shih-Ming He**, Cheng-Chun Huang, Wei-Yuan Woon, Ching-Yuan Su.  
   *The electrical transportation and transistor performance of phosphorous-doped graphene via keV ion implanter*.  
@@ -40,7 +40,7 @@ author_profile: true
 
 <hr class="bold">
 
-## Domestic Presentation and Technical Presentations
+# Domestic Presentation and Technical Presentations
 
 - **Shih-Ming He**, Zachariah Hennighausen, Jing Kong.  
   *Universal Transfer Process for 2D Materials*.  
