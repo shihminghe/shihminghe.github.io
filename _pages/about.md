@@ -96,7 +96,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2015.07/13</div>
+    <div class="tl-date">2015.07.13</div>
     <div class="tl-content">Two-week academic exchange program at Hiroshima University, Japan </div>
   </div>
 
