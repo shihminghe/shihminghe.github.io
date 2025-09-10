@@ -6,7 +6,7 @@ author_profile: true
 
 # International – Oral
 
-- **Shih-Ming He**, Hsin-Yin Lin, Ching-Yuan Su</br>
+- **Shih-Ming He**, Hsin-Yin Lin, Ching-Yuan Su </br>
   *Fluoric self-assembled monolayer (FSAM) for enhancing electrical properties of graphene on arbitrary substrates*</br>
   **MRS Fall**, Nov. 28–Dec. 4, 2020, Online
 
