@@ -37,7 +37,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2024.12</div>
-    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council (NSTC), Taiwan (113-2917-I-564-001)</div>
+    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council (NSTC), Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -77,7 +77,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2019.11</div>
-    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan (109-2917-I-008-006); hosted by MIT EECS</div>
+    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by MIT EECS</div>
   </div>
 
   <div class="tl-item">
