@@ -112,5 +112,3 @@ Technical Reports
 - **Shih-Ming He**, Ching-Yuan Suh<br>
     <i>The Synthesis Technology for Large-Area and High-Quality Graphene Film</i><br>
     <i>Journal of the Vacuum Society of the R.O.C.</i> (2015)<br>
-
-<hr class="bold">
