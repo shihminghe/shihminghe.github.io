@@ -41,6 +41,3 @@ Teaching Assistant
   - *Experiment of Manufacture I, Department of Mechanical Engineering, NCU* 
 
 <hr class="bold">
-ure II* — Teaching Assistant, NCU ME (2015)  
-- *Seminar* — Teaching Assistant, NCU ME (2015)  
-- *Intelligent Manufacturing in Practice II* — Teaching Assistant, NCU ME (2016)  
