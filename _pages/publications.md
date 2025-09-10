@@ -36,8 +36,7 @@ Publications
       https://doi.org/10.1021/acsanm.2c00918
     </a>
 
-- Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. Döhl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu,  
-  **S.M. He**, C.Y. Su, D. Farley, et al. <br>
+- Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. Döhl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu, **S.M. He**, C.Y. Su, D. Farley, et al. <br>
     <i>Robustness of large-area suspended graphene under interaction with intense laser</i><br>
     <i>Scientific Reports</i>, 12 (1), 2346 (2022)<br>
     <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">
