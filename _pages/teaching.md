@@ -21,7 +21,6 @@ Courses Taught
 ### National Central University (NCU)
 
 *Teaching Assistant*
-
 - 106-2 (Spring 2018)
   - *Intelligent Manufacturing in Practice II, Department of Mechanical Engineering, NCU* 
 
