@@ -9,6 +9,7 @@ Courses Taught
 
 ### Chung Yuan Christian University (CYCU)
 
+*Assistant Professor*
 - 114-1 (Fall 2025)
   - *Computer Science Laboratory (I), Department of Electronic Engineering, CYCU*
   - *Introduction to Computer Science (I), Department of Electronic Engineering, CYCU*
