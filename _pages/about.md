@@ -26,103 +26,102 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 # Life Timeline
 <div class="timeline">
   <div class="tl-item">
-    <div class="tl-date">2025.08</div>
+    <div class="tl-date">2025.08.01</div>
     <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan as Assistant Professor</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2025.05</div>
+    <div class="tl-date">2025.05.01</div>
     <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology (MIT), USA</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2024.12</div>
+    <div class="tl-date">2024.12.01</div>
     <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council (NSTC), Taiwan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2023.10</div>
+    <div class="tl-date">2023.10.01</div>
     <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), MIT, USA as a Postdoctoral Associate</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2023.09</div>
+    <div class="tl-date">2023.09.01</div>
     <div class="tl-content">Left the Optical Sciences Center, National Central University (NCU), Taiwan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2023.04</div>
-    <div class="tl-content">Joined the Optical Sciences Center, National Centrl University (NCU), Taiwan, as Postdoctoral Research Fellow</div>
+    <div class="tl-date">2023.04.27</div>
+    <div class="tl-content">Joined the Optical Sciences Center, NCU, Taiwan, as Postdoctoral Research Fellow</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2022.12</div>
+    <div class="tl-date">2022.12.06</div>
     <div class="tl-content">Completed one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2022.01</div>
+    <div class="tl-date">2022.01.04</div>
     <div class="tl-content">Began one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
   </div>
   
   <div class="tl-item">
-    <div class="tl-date">2021.11</div>
+    <div class="tl-date">2021.11.27</div>
     <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University (NCU), Taiwan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2019.12</div>
-    <div class="tl-content">Global COVID-19 pandemic began, profoundly impacting research and academic exchange worldwide</div>
+    <div class="tl-date">2019.12.01</div>
+    <div class="tl-content">Global COVID-19 pandemic began, impacting research and academic exchange worldwide</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2019.11</div>
+    <div class="tl-date">2019.11.29</div>
     <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by MIT EECS</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2017.07.17</div>
-    <div class="tl-content">Invited to Rutherford Appleton Laboratory (UK) for a two-week collaborative research visit</div>
+    <div class="tl-content">Visited Rutherford Appleton Laboratory (UK) for a two-week collaboration</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2016.11.15</div>
-    <div class="tl-content">One-week academic exchange at Shizuoka University, Japan</div>
+    <div class="tl-content">Visited Shizuoka University, Japan, for a one-week academic exchange</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2016.09</div>
-    <div class="tl-content">Admitted to direct Ph.D. program in Energy Engineering, National Central University (NCU), Taiwan</div>
+    <div class="tl-date">2016.09.01</div>
+    <div class="tl-content">Admitted to direct Ph.D. program in Energy Engineering, NCU, Taiwan</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2015.07.13</div>
-    <div class="tl-content">Two-week academic exchange program at Hiroshima University, Japan </div>
+    <div class="tl-content">Participated in a two-week academic exchange program at Hiroshima University, Japan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2014.09</div>
-    <div class="tl-content">Began M.S. studies in Energy Engineering at National Central University (NCU), Taiwan</div>
+    <div class="tl-date">2014.09.01</div>
+    <div class="tl-content">Began M.S. studies in Energy Engineering at NCU, Taiwan</div>
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2014.07</div>
-    <div class="tl-content">Completed round-island cycling trip in Taiwan within 18 days</div>
+    <div class="tl-date">2014.07.01</div>
+    <div class="tl-content">Completed an 18-day round-island cycling trip in Taiwan</div>
   </div>
 
-   <div class="tl-item">
-    <div class="tl-date">2014.06</div>
+  <div class="tl-item">
+    <div class="tl-date">2014.06.30</div>
     <div class="tl-content">Graduated with B.S. in Physics, Fu Jen Catholic University (FJU), Taiwan</div>
   </div>
   
-   <div class="tl-item">
-    <div class="tl-date">2010.09</div>
-    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University (FJU), Taiwan </div>
+  <div class="tl-item">
+    <div class="tl-date">2010.09.01</div>
+    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University (FJU), Taiwan</div>
   </div>
-  
 </div>
 
-<!-- Inline style (最快看到效果)。若你要做成全站樣式，請看下方做法 B。 -->
+<!-- Style -->
 <style>
 .timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
 .tl-item { margin: 16px 0; position: relative; }
