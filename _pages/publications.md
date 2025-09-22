@@ -91,7 +91,11 @@ Publications
       https://doi.org/10.1039/C6RA04449B
     </a>
 
-### Conference Paper
+<hr class="bold">
+
+Conference Paper
+======
+
 
 - Muzafar Rather, Loganathan Ravi, **Shih-Ming He**, Chao-Chia Cheng, Ching-Yuan Su, Jen-Inn Chyi<br>
     <i>Heteroepitaxy of III-nitrides on polycrystalline and amorphous substrates</i><br>
