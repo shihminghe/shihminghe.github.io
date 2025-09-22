@@ -112,7 +112,7 @@ Technical Reports
 
 - **Shih-Ming He**, Ching-Yuan Su<br>
     <i>Application and Prospect of Graphene Nanoribbon</i><br>
-    <i>NDL Communications* (2016)</i><br>
+    <i>NDL Communications (2016)</i><br>
 
 - **Shih-Ming He**, Ching-Yuan Suh<br>
     <i>The Synthesis Technology for Large-Area and High-Quality Graphene Film</i><br>
