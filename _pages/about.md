@@ -61,7 +61,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2022.01.04</div>
+    <div class="tl-date">2022.01.03</div>
     <div class="tl-content">Began one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
   </div>
   
@@ -76,7 +76,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2019.11.29</div>
+    <div class="tl-date">2019.12.01</div>
     <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by MIT EECS</div>
   </div>
 
@@ -106,8 +106,13 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
   </div>
 
   <div class="tl-item">
-    <div class="tl-date">2014.07.01</div>
+    <div class="tl-date">2014.07.24</div>
     <div class="tl-content">Completed an 18-day round-island cycling trip in Taiwan</div>
+  </div>
+  
+  <div class="tl-item">
+    <div class="tl-date">2014.07.07</div>
+    <div class="tl-content">Began round-island cycling trip in Taiwan</div>
   </div>
 
   <div class="tl-item">
