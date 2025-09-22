@@ -8,11 +8,11 @@ author_profile: true
 
 - **Shih-Ming He**, Hsin-Yin Lin, Ching-Yuan Su <br>
   *Fluoric self-assembled monolayer (FSAM) for enhancing electrical properties of graphene on arbitrary substrates*<br>
-  **MRS Fall**, Nov. 28–Dec. 4, 2020, Online
+  **Material Research Society (MRS) Fall**, Nov. 28–Dec. 4, 2020, Online
 
 - **Shih-Ming He**, Cheng-Chun Huang, Wei-Yuan Woon, Ching-Yuan Su<br>
   *Spectroscopic and electrical characterizations of phosphorous-doped CVD graphene via low-damage ion implantation*<br>  
-  **NDNC 2019**, May 12–17, Hualien, Taiwan
+  **New Diamond and Nano Carbons (NDNC) 2019**, May 12–17, Hualien, Taiwan
 
 - **Shih-Ming He**, Ching-Yuan Su<br>
   *Ultra-large suspended graphene for pressure sensors*<br>
@@ -20,7 +20,7 @@ author_profile: true
 
 - **Shih-Ming He**, Jheng-Yuan Syu, Yu-Min Chen, Wu-Ching Hung, Chien-Liang Chang, Ching-Yuan Su<br>
   *The tunable work-function of graphene transparent conductive thin-film by chemical functionalization*<br>
-  **IC3MT 2016**, Oct. 7–11, Matsue, Japan
+  **International Conference on Machining, Materials and Mechanical Technologies (IC3MT) 2016**, Oct. 7–11, Matsue, Japan
 
 <hr class="bold">
 
@@ -36,7 +36,7 @@ author_profile: true
 
 - **Shih-Ming He**, Yu-Min Chen, Ching-Yuan Su<br> 
   *The investigation of highly elastic and large-area suspended 2D membrane and their sensing applications*<br>
-  **IUMRS-ICA 2017**, Nov. 5–9, Taipei, Taiwan 
+  **International Union of Materials Research Societies International Conference in Asia (IUMRS-ICA) 2017**, Nov. 5–9, Taipei, Taiwan 
 
 <hr class="bold">
 
@@ -52,7 +52,7 @@ author_profile: true
 
 - **Shih-Ming He**, Wei-Yuan Woon, Ching-Yuan Su<br>
   *Synthesis of phosphorous-doped graphene by using tens keV ion implantation and their application on FET*<br>
-  **TVS-2019**, Nov. 1, 2019, Hsinchu, Taiwan  
+  **Taiwan Vacuum Society Workshop (TVS-2019)**, Nov. 1, 2019, Hsinchu, Taiwan  
 
 <hr class="bold">
   
