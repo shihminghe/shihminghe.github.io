@@ -19,8 +19,8 @@ Publications
   <div style="flex: 1; padding-right: 10px;">
     <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin, Ching-Yuan Su<br>
     <i>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</i> <br>
+    <i>Small Methods</i>, 8, 2400150 (2024)<br>
     <b>*Selected as Front Cover</b> <br>  
-    <i>Small Methods</i>, 8, 2400150 (2024)<br> 
     <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">
       https://doi.org/10.1002/smtd.202400150
     </a> 
@@ -39,8 +39,8 @@ Publications
 
 - Y. Kuramitsu, T. Minami, K. Sakai, T. Hihara, L. N. K. Döhl, S. Isayama, Y.T. Liao, W.Y. Woon, S.H. Chen, Y.L. Liu, **S.M. He**, C.Y. Su, D. Farley, et al. <br>
     <i>Robustness of large-area suspended graphene under interaction with intense laser</i><br>
-    <b>*Top 100 most downloaded papers in Physics in 2022, 11/100 <b> <br>
     <i>Scientific Reports</i>, 12 (1), 2346 (2022)<br>
+    <b>*Top 100 most downloaded papers in Physics in 2022, 11/100 <b> <br>
     <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">
       https://doi.org/10.1038/s41598-022-06055-4
     </a>
