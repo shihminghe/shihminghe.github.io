@@ -15,7 +15,8 @@ Publications
 
 **2024**  
 - <b>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</b><br>
-  <i>Small Methods</i>, 8, 2400150 (2024) <b>*Selected as Front Cover</b><br>
+  <i>Small Methods</i>, 8, 2400150 (2024) </br>
+  <span style="color:#e67e22; font-weight:600">→ Selected as Front Cover</span><br>
   <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin*, Ching-Yuan Su*<br>
   <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">https://doi.org/10.1002/smtd.202400150</a><br>
   <img src="/images/sm.jpg" alt="Front Cover" style="max-width:150px; margin-top:6px;">
