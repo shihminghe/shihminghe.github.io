@@ -16,10 +16,10 @@ Publications
 **2024**  
 - <b>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</b><br>
   <i>Small Methods</i>, 8, 2400150 (2024) </br>
-  <span style="color:#e67e22; font-weight:600">→ Selected as Front Cover</span><br>
   <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin*, Ching-Yuan Su*<br>
+  <span style="color:#e67e22; font-weight:600">&#9733; Selected as Front Cover</span><br>
   <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">https://doi.org/10.1002/smtd.202400150</a><br>
-  <img src="/images/sm.jpg" alt="Front Cover" style="max-width:150px; margin-top:6px;">
+  <img src="/images/sm.jpg" alt="Front Cover" style="max-width:250px; margin-top:6px;">
 
 **2022**  
 - <b>Wrinkle-Free Graphene Films on Fluorinated Self-Assembled Monolayer-Modified Substrates for Enhancing the Electrical Performance of Transistors</b><br>
@@ -28,8 +28,10 @@ Publications
   <a href="https://doi.org/10.1021/acsanm.2c00918" target="_blank">https://doi.org/10.1021/acsanm.2c00918</a>
 
 - <b>Robustness of large-area suspended graphene under interaction with intense laser</b><br>
-  <i>Scientific Reports</i>, 12 (1), 2346 (2022) <b>*Top 100 most downloaded papers in Physics in 2022, 11/100</b><br>
+  <i>Scientific Reports</i>, 12 (1), 2346 (2022) <br>
   Y. Kuramitsu*, T. Minami, T. Hihara, K. Sakai, T. Nishimoto, S. Isayama, Y. T. Liao, K. T. Wu, W. Y. Woon*, S. H. Chen, Y. L. Liu, <b>S. M. He</b>, C. Y. Su, M. Ota, S. Egashira, A. Morace, Y. Sakawa, Y. Abe, H. Habara, R. Kodama, L. N. K. Döhl, N. Woolsey, M. Koenig, H. S. Kumar, N. Ohnishi, M. Kanasaki, T. Asai, T. Yamauchi, K. Oda, Ko. Kondo, H. Kiriyama & Y. Fukuda<br>
+  <span style="color:#e67e22; font-weight:600">&#9733; Top 100 most downloaded papers in Physics in 2022, 11/100</span><br>
+
   <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">https://doi.org/10.1038/s41598-022-06055-4</a>
 
 **2021**  
@@ -84,12 +86,12 @@ Technical Reports
 ======
 **2016**  
 - <b>Application and Prospect of Graphene Nanoribbon</b><br>
-  <i>NDL Communications</i> 
+  <i>NDL Communications</i> <br>
   <b>Shih-Ming He</b>, Ching-Yuan Su  
 
 **2015**  
 - <b>The Synthesis Technology for Large-Area and High-Quality Graphene Film</b><br>
-  <i>Journal of the Vacuum Society of the R.O.C.</i>
+  <i>Journal of the Vacuum Society of the R.O.C.</i><br>
   <b>Shih-Ming He</b>, Ching-Yuan Su  
 
 <hr class="bold">
