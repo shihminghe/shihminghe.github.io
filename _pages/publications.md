@@ -9,13 +9,13 @@ Publications
 
 **2025**  
 - <b>A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures</b><br>
-  <i>Chemical Engineering Journal</i>, 522, 166830 (2025)<br>
+  <i>Chemical Engineering Journal</i>, 522, 166830 (2025) <br>
   Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, <b>Shih-Ming He</b>, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong*, Yu-Lun Chueh*<br>
   <a href="https://doi.org/10.1016/j.cej.2025.166830" target="_blank">https://doi.org/10.1016/j.cej.2025.166830</a>
 
 **2024**  
 - <b>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</b><br>
-  <i>Small Methods</i>, 8, 2400150 (2024) </br>
+  <i>Small Methods</i>, 8, 2400150 (2024) <br>
   <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin*, Ching-Yuan Su*<br>
   <span style="color:#e67e22; font-weight:600">&#9733; Selected as Front Cover</span><br>
   <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">https://doi.org/10.1002/smtd.202400150</a><br>
@@ -31,7 +31,6 @@ Publications
   <i>Scientific Reports</i>, 12 (1), 2346 (2022) <br>
   Y. Kuramitsu*, T. Minami, T. Hihara, K. Sakai, T. Nishimoto, S. Isayama, Y. T. Liao, K. T. Wu, W. Y. Woon*, S. H. Chen, Y. L. Liu, <b>S. M. He</b>, C. Y. Su, M. Ota, S. Egashira, A. Morace, Y. Sakawa, Y. Abe, H. Habara, R. Kodama, L. N. K. Döhl, N. Woolsey, M. Koenig, H. S. Kumar, N. Ohnishi, M. Kanasaki, T. Asai, T. Yamauchi, K. Oda, Ko. Kondo, H. Kiriyama & Y. Fukuda<br>
   <span style="color:#e67e22; font-weight:600">&#9733; Top 100 most downloaded papers in Physics in 2022, 11/100</span><br>
-
   <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">https://doi.org/10.1038/s41598-022-06055-4</a>
 
 **2021**  
@@ -77,7 +76,6 @@ Conference Paper
   <i>Proceedings Volume PC12001, Gallium Nitride Materials and Devices XVII; PC1200108 </i><br>
   <i>Event: Event: SPIE OPTO, 2022, San Francisco, California, USA<br>
   Muzafar Rather, Loganathan Ravi, <b>Shih-Ming He</b>, Chao-Chia Cheng, Ching-Yuan Su, Jen-Inn Chyi<br>
-  
   <a href="https://doi.org/10.1117/12.2608062" target="_blank">https://doi.org/10.1117/12.2608062</a>
 
 <hr class="bold">
