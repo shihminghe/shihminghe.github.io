@@ -71,9 +71,10 @@ Conference Paper
 ======
 **2022**  
 - <b>Heteroepitaxy of III-nitrides on polycrystalline and amorphous substrates</b><br>
-  <i>SPIE Gallium Nitride Materials and Devices XVII</i>, Jan. 22–27, 2022, San Francisco, USA<br>
+  <i>Proceedings Volume PC12001, Gallium Nitride Materials and Devices XVII; PC1200108 </i><br>
+  <i>Event: Event: SPIE OPTO, 2022, San Francisco, California, USA<br>
   Muzafar Rather, Loganathan Ravi, <b>Shih-Ming He</b>, Chao-Chia Cheng, Ching-Yuan Su, Jen-Inn Chyi<br>
-  <i>Proceedings Volume PC12001; PC1200108</i><br>
+  
   <a href="https://doi.org/10.1117/12.2608062" target="_blank">https://doi.org/10.1117/12.2608062</a>
 
 <hr class="bold">
