@@ -4,17 +4,6 @@ permalink: /pr/
 author_profile: true
 ---
 
-Education
-===
-
-**2021**  
-* Ph.D. in Energy Engineering, National Central University, Taiwan  
-
-**2014**  
-* B.S. in Physics, Fu Jen Catholic University, Taiwan
-
-<hr class="bold">
-
 Work Experience
 ======
 
@@ -28,6 +17,17 @@ Work Experience
 **2023.04 – 2023.09**  
 * Postdoctoral Research Fellow, Optical Sciences Center, National Central University, Taiwan  
   * Supervisor: Prof. Ching-Yuan Su  
+
+<hr class="bold">
+
+Education
+===
+
+**2021**  
+* Ph.D. in Energy Engineering, National Central University, Taiwan  
+
+**2014**  
+* B.S. in Physics, Fu Jen Catholic University, Taiwan
 
 <hr class="bold">
 
