@@ -27,7 +27,7 @@ Work experience
   * Assistant Professor, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan  
 
 **2023.10.01 – 2025.04.30**
-  * Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology (MIT), United States of America
+  * Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology, United States of America
   * Supervisor: Prof. Jing Kong
 
 **2023.04.27 – 2023.09.30**
