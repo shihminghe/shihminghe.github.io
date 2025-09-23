@@ -6,28 +6,34 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
-I’m **Shih-Ming He**, an Assistant Professor at Department of Electronic Engineering, CYCU, Taiwan, where I lead the **2D Semiconductor Materials with AI-driven Research & Transfer (2SMART) Lab**.
 
+<h1>About Me</h1>
+<p>
+I’m <strong>Shih-Ming He</strong>, an Assistant Professor in the <strong>Department of Electronic Engineering</strong>, Chung Yuan Christian University (CYCU), Taiwan, where I lead the <strong>2D Semiconductor Materials with AI-driven Research &amp; Transfer (2SMART) Lab</strong>.
+</p>
+<p>
+My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CVD/MOCVD process development</strong>, and <strong>large-area transfer techniques</strong> toward reliable device integration.
+</p>
 
-My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process development**, and **large-area transfer techniques** toward reliable device integration.
+<hr>
 
----
+<h1>At a glance</h1>
+<ul>
+  <li>Built and tuned <strong>CVD/MOCVD</strong> platforms for <strong>wafer-scale 2D materials</strong></li>
+  <li>Focus on <strong>transfer reliability</strong> &amp; <strong>process reproducibility</strong> for manufacturing</li>
+  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>autonomous process optimization</strong></li>
+</ul>
+<blockquote>
+  Caring about turning lab-scale breakthroughs into <strong>robust, scalable processes</strong> that teams can actually build on.
+</blockquote>
 
-# At a glance
-- Built and tuned **CVD/MOCVD** platforms for **wafer-scale 2D materials**
-- Focus on **transfer reliability** & **process reproducibility** for manufacturing
-- Interested in **AI-driven synthesis** and **autonomous process optimization**
+<hr>
 
-> I care about turning lab-scale breakthroughs into **robust, scalable processes** that teams can actually build on.
-
----
-
-# Life Timeline
+<h1>Life Timeline</h1>
 <div class="timeline">
   <div class="tl-item">
     <div class="tl-date">2025.08.01</div>
-    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan as Assistant Professor</div>
+    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan, as Assistant Professor</div>
   </div>
 
   <div class="tl-item">
@@ -42,7 +48,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2023.10.01</div>
-    <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), MIT, USA as a Postdoctoral Associate</div>
+    <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology (MIT), USA, as a Postdoctoral Associate</div>
   </div>
 
   <div class="tl-item">
@@ -52,7 +58,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2023.04.27</div>
-    <div class="tl-content">Joined the Optical Sciences Center, NCU, Taiwan, as Postdoctoral Research Fellow</div>
+    <div class="tl-content">Joined the Optical Sciences Center, National Central University (NCU), Taiwan, as Postdoctoral Research Fellow</div>
   </div>
 
   <div class="tl-item">
@@ -70,14 +76,15 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
     <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University (NCU), Taiwan</div>
   </div>
 
+  <!-- 若要保留疫情事件，建議改這樣；否則可刪除此項 -->
   <div class="tl-item">
-    <div class="tl-date">2019.12.01</div>
-    <div class="tl-content">Global COVID-19 pandemic began, impacting research and academic exchange worldwide</div>
+    <div class="tl-date">2020.03.11</div>
+    <div class="tl-content">WHO declared COVID-19 a global pandemic (major impact on research and academic exchanges)</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
-    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by MIT EECS</div>
+    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by the Department of Electrical Engineering and Computer Science, MIT</div>
   </div>
 
   <div class="tl-item">
@@ -102,7 +109,7 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2014.09.01</div>
-    <div class="tl-content">Began M.S. studies in Energy Engineering at NCU, Taiwan</div>
+    <div class="tl-content">Began M.S. studies in Energy Engineering at National Central University (NCU), Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -117,17 +124,18 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 
   <div class="tl-item">
     <div class="tl-date">2014.06.30</div>
-    <div class="tl-content">Graduated with B.S. in Physics, Fu Jen Catholic University (FJU), Taiwan</div>
+    <div class="tl-content">Graduated with B.S. in Physics, Fu Jen Catholic University (FJCU), Taiwan</div>
   </div>
   
   <div class="tl-item">
     <div class="tl-date">2010.09.01</div>
-    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University (FJU), Taiwan</div>
+    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University (FJCU), Taiwan</div>
   </div>
 </div>
 
 <!-- Style -->
 <style>
+/* Timeline */
 .timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
 .tl-item { margin: 16px 0; position: relative; }
 .tl-item::before {
@@ -136,10 +144,16 @@ My work bridges **2D semiconductor materials**, **scalable CVD/MOCVD process dev
 }
 .tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
 .tl-content { line-height: 1.7; }
+
+/* Spacing & mobile tweaks */
+blockquote { margin: 12px 0 0 0; }
+@media (max-width: 640px) {
+  .timeline { padding-left: 16px; }
+  .tl-item::before { left: -24px; }
+  .tl-date { display: block; margin-bottom: 2px; }
+}
 </style>
 
----
+<hr>
 
->> Never say never. Everything happened with meaning. 
-
----
+<blockquote><em>Never say never. Everything happened with meaning.</em></blockquote>
