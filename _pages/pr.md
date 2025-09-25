@@ -109,7 +109,7 @@ Fellowships
 ======
 
 <div class="cv-item">
-  <img src="/assets/images/logos/nstc.png" alt="NSTC" class="cv-logo">
+  <img src="/images/NSTC.png" alt="NSTC" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2024</div>
     <div>Postdoctoral Research Abroad Program, National Science and Technology Council, Taiwan</div>
@@ -117,7 +117,7 @@ Fellowships
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/most.png" alt="MOST" class="cv-logo">
+  <img src="/images/MOST.png" alt="MOST" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2020</div>
     <div>Graduate Students Study Abroad Program, Ministry of Science and Technology, Taiwan</div>
@@ -130,7 +130,9 @@ Conference Travel Grants
 ======
 
 <div class="cv-item">
-  <img src="/assets/images/logos/graphene.png" alt="Graphene Conference" class="cv-logo">
+ <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+    ✈️
+  </div>
   <div class="cv-text">
     <div class="cv-date">2019</div>
     <div>Graphene 2019, Rome, Italy</div>
@@ -138,7 +140,9 @@ Conference Travel Grants
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/graphene.png" alt="Graphene Conference" class="cv-logo">
+  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+    ✈️
+  </div>
   <div class="cv-text">
     <div class="cv-date">2018</div>
     <div>Graphene 2018, Dresden, Germany</div>
@@ -146,7 +150,7 @@ Conference Travel Grants
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/most.png" alt="MOST" class="cv-logo">
+  <img src="/images/MOST.png" alt="MOST" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2017</div>
     <div>Conference Travel Grant, Ministry of Science and Technology, Taiwan</div>
@@ -159,7 +163,9 @@ Awards
 ======
 
 <div class="cv-item">
-  <img src="/assets/images/logos/tvs.png" alt="Taiwan Vacuum Society" class="cv-logo">
+  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+    🏅
+  </div>
   <div class="cv-text">
     <div class="cv-date">2019</div>
     <div>Outstanding Paper Presentation Award, Taiwan Vacuum Society (TVS-2019)<br>
@@ -168,7 +174,9 @@ Awards
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/ic3mt.png" alt="IC3MT" class="cv-logo">
+  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+    🏅
+  </div>
   <div class="cv-text">
     <div class="cv-date">2016</div>
     <div>Best Presentation Award, International Conference on Machining, Materials and Mechanical Technologies (IC3MT)</div>
