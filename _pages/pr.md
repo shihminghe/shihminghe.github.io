@@ -36,7 +36,7 @@ Work Experience
 </div>
 
 <div class="cv-item">
-  <img src="/images/MI.png" alt="MIT" class="cv-logo">
+  <img src="/images/MIT.png" alt="MIT" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2023.10 – 2025.04</div>
     <div>Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology, USA<br>
