@@ -130,9 +130,7 @@ Conference Travel Grants
 ======
 
 <div class="cv-item">
- <div class="cv-logo" style="font-size:28px; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
-    ✈️
-  </div>
+ <img src="/images/con.ico" alt="graphene 2018" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2019</div>
     <div>Graphene 2019, Rome, Italy</div>
