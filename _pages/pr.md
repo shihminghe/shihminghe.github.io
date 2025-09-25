@@ -4,54 +4,117 @@ permalink: /pr/
 author_profile: true
 ---
 
+<style>
+/* 卡片式兩欄：左圖右文 */
+.cv-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  margin: 10px 0 16px;
+}
+.cv-item .cv-logo {
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  flex: 0 0 32px;
+  margin-top: 2px; /* 與日期上緣對齊 */
+}
+.cv-item .cv-text { flex: 1; line-height: 1.5; }
+.cv-item .cv-date { font-weight: 700; margin-bottom: 2px; }
+
+/* 可選：把圖片放右邊：<div class="cv-item right"> */
+.cv-item.right { flex-direction: row-reverse; }
+.cv-item.right .cv-logo { margin-right: 0; }
+
+/* 微調分隔線 */
+hr.bold { border: 0; border-top: 2px solid #ddd; margin: 18px 0; }
+</style>
+
 Work Experience
 ======
 
-**2025.08 – present**  
-* Assistant Professor, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan  
+<div class="cv-item">
+  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2025.08 – present</div>
+    <div>Assistant Professor, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+  </div>
+</div>
 
-**2023.10 – 2025.04**  
-* Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology, USA  
-  * Supervisor: Prof. Jing Kong  
+<div class="cv-item">
+  <img src="/images/mit.jpg" alt="MIT" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2023.10 – 2025.04</div>
+    <div>Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology, USA<br>
+    <span style="opacity:.8">Supervisor: Prof. Jing Kong</span></div>
+  </div>
+</div>
 
-**2023.04 – 2023.09**  
-* Postdoctoral Research Fellow, Optical Sciences Center, National Central University, Taiwan  
-  * Supervisor: Prof. Ching-Yuan Su  
+<div class="cv-item">
+  <img src="/images/NCU icon.JPG" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2023.04 – 2023.09</div>
+    <div>Postdoctoral Research Fellow, Optical Sciences Center, National Central University, Taiwan<br>
+    <span style="opacity:.8">Supervisor: Prof. Ching-Yuan Su</span></div>
+  </div>
+</div>
 
 <hr class="bold">
 
 Education
 ===
 
-**2021**  
-* Ph.D. in Energy Engineering, National Central University, Taiwan  
+<div class="cv-item">
+  <img src="/images/NCU icon.JPG" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2021</div>
+    <div>Ph.D. in Energy Engineering, National Central University, Taiwan</div>
+  </div>
+</div>
 
-**2014**  
-* B.S. in Physics, Fu Jen Catholic University, Taiwan
+<div class="cv-item">
+  <img src="/images/FJCU.jpg" alt="Fu Jen Catholic University" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2014</div>
+    <div>B.S. in Physics, Fu Jen Catholic University, Taiwan</div>
+  </div>
+</div>
 
 <hr class="bold">
 
 Visiting Research and Academic Exchanges
 ======
 
-**2017.07.17 – 2017.07.26**  
-* Visiting Researcher, Rutherford Appleton Laboratory, Didcot, United Kingdom  
+<div class="cv-item">
+  <div class="cv-text">
+    <div class="cv-date">2017.07.17 – 2017.07.26</div>
+    <div>Visiting Researcher, Rutherford Appleton Laboratory, Didcot, United Kingdom</div>
+  </div>
+</div>
 
-**2016.11.15 – 2016.11.23**  
-* Academic Exchange, Shizuoka University, Shizuoka, Japan  
+<div class="cv-item">
+  <div class="cv-text">
+    <div class="cv-date">2016.11.15 – 2016.11.23</div>
+    <div>Academic Exchange, Shizuoka University, Shizuoka, Japan</div>
+  </div>
+</div>
 
-**2015.07.13 – 2015.07.24**  
-* Academic Exchange, Hiroshima University, Hiroshima, Japan  
+<div class="cv-item">
+  <div class="cv-text">
+    <div class="cv-date">2015.07.13 – 2015.07.24</div>
+    <div>Academic Exchange, Hiroshima University, Hiroshima, Japan</div>
+  </div>
+</div>
 
 <hr class="bold">
   
 Fellowships
 ======
 
-**2024**
+**2024**  
 * Postdoctoral Research Abroad Program, National Science and Technology Council, Taiwan
 
-**2020**
+**2020**  
 * Graduate Students Study Abroad Program, Ministry of Science and Technology, Taiwan
 
 <hr class="bold">
@@ -59,13 +122,13 @@ Fellowships
 Conference Travel Grants
 ======
 
-**2019**
+**2019**  
 * Graphene 2019, Rome, Italy
 
-**2018**
+**2018**  
 * Graphene 2018, Dresden, Germany
 
-**2017**
+**2017**  
 * Conference Travel Grant, Ministry of Science and Technology, Taiwan
 
 <hr>
@@ -73,11 +136,11 @@ Conference Travel Grants
 Awards
 ======
 
-**2019**
-* Outstanding Paper Presentation Award, Taiwan Vacuum Society (TVS-2019)
+**2019**  
+* Outstanding Paper Presentation Award, Taiwan Vacuum Society (TVS-2019)  
 * Taipei Invention Bronze Award, Taiwan Innotech Expo
 
-**2016**
+**2016**  
 * Best Presentation Award, International Conference on Machining, Materials and Mechanical Technologies (IC3MT)
 
 <hr class="bold">
