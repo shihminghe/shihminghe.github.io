@@ -17,7 +17,7 @@ author_profile: true
   object-fit: contain;
   flex: 0 0 32px;
   margin-top: 2px;
-  border-radius: 75%; /* 自動裁圓，看起來一致 */
+  /* border-radius: 75%; /* 自動裁圓，看起來一致 */
 }
 .cv-item .cv-text { flex: 1; line-height: 1.5; }
 .cv-item .cv-date { font-weight: 700; margin-bottom: 2px; }
@@ -168,7 +168,7 @@ Awards
   </div>
   <div class="cv-text">
     <div class="cv-date">2019</div>
-    <div>Outstanding Paper Presentation Award, Taiwan Vacuum Society (TVS-2019)<br>
+    <div>Outstanding Paper Presentation Award, Taiwan Vacuum Society (TVS-2019)</div>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ Awards
   </div>
   <div class="cv-text">
     <div class="cv-date">2019</div>
-    <div>Taipei Invention Bronze Award, Taiwan Innotech Expo<br>
+    <div>Taipei Invention Bronze Award, Taiwan Innotech Expo</div>
   </div>
 </div>
 
