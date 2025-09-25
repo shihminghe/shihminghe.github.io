@@ -130,7 +130,7 @@ Conference Travel Grants
 ======
 
 <div class="cv-item">
- <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+ <div class="cv-logo" style="font-size:28px; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
     ✈️
   </div>
   <div class="cv-text">
@@ -140,7 +140,7 @@ Conference Travel Grants
 </div>
 
 <div class="cv-item">
-  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+  <div class="cv-logo" style="font-size:28px; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
     ✈️
   </div>
   <div class="cv-text">
@@ -163,7 +163,7 @@ Awards
 ======
 
 <div class="cv-item">
-  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+  <div class="cv-logo" style="font-size:28px; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
     🏅
   </div>
   <div class="cv-text">
@@ -174,7 +174,7 @@ Awards
 </div>
 
 <div class="cv-item">
-  <div class="cv-logo" style="font-size:28px; background:#005BAC; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
+  <div class="cv-logo" style="font-size:28px; color:white; border-radius:50%; width:32px; height:32px; display:flex; align-items:center; justify-content:center;">
     🏅
   </div>
   <div class="cv-text">
