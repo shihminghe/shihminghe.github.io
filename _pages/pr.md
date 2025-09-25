@@ -36,7 +36,7 @@ Work Experience
 </div>
 
 <div class="cv-item">
-  <img src="/images/MIT2.jpg" alt="MIT" class="cv-logo">
+  <img src="/images/MIT2.ai" alt="MIT" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2023.10 – 2025.04</div>
     <div>Postdoctoral Associate, Research Laboratory of Electronics, Massachusetts Institute of Technology, USA<br>
@@ -80,7 +80,7 @@ Visiting Research and Academic Exchanges
 ======
 
 <div class="cv-item">
-  <img src="/assets/images/logos/ral.png" alt="RAL" class="cv-logo">
+  <img src="/images/RAL.jpg" alt="RAL" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2017.07.17 – 2017.07.26</div>
     <div>Visiting Researcher, Rutherford Appleton Laboratory, Didcot, United Kingdom</div>
@@ -88,7 +88,7 @@ Visiting Research and Academic Exchanges
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/shizuoka.png" alt="Shizuoka University" class="cv-logo">
+  <img src="/images/shizuoka.jpg" alt="Shizuoka University" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2016.11.15 – 2016.11.23</div>
     <div>Academic Exchange, Shizuoka University, Shizuoka, Japan</div>
@@ -96,7 +96,7 @@ Visiting Research and Academic Exchanges
 </div>
 
 <div class="cv-item">
-  <img src="/assets/images/logos/hiroshima.png" alt="Hiroshima University" class="cv-logo">
+  <img src="/images/hiroshima.png" alt="Hiroshima University" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2015.07.13 – 2015.07.24</div>
     <div>Academic Exchange, Hiroshima University, Hiroshima, Japan</div>
