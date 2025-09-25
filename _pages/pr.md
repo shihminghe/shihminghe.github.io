@@ -157,7 +157,8 @@ Conference Travel Grants
   </div>
 </div>
 
-<hr>
+
+<hr class="bold">
 
 Awards
 ======
