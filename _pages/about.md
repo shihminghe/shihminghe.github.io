@@ -33,32 +33,32 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 <div class="timeline">
   <div class="tl-item">
     <div class="tl-date">2025.08.01</div>
-    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University (CYCU), Taiwan, as Assistant Professor</div>
+    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University, Taiwan, as Assistant Professor</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2025.05.01</div>
-    <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology (MIT), USA</div>
+    <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2024.12.01</div>
-    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council (NSTC), Taiwan</div>
+    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council, Taiwan</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2023.10.01</div>
-    <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology (MIT), USA, as a Postdoctoral Associate</div>
+    <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA, as a Postdoctoral Associate</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2023.09.01</div>
-    <div class="tl-content">Left the Optical Sciences Center, National Central University (NCU), Taiwan</div>
+    <div class="tl-content">Left the Optical Sciences Center, National Central University, Taiwan</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2023.04.27</div>
-    <div class="tl-content">Joined the Optical Sciences Center, National Central University (NCU), Taiwan, as Postdoctoral Research Fellow</div>
+    <div class="tl-content">Joined the Optical Sciences Center, National Central University, Taiwan, as Postdoctoral Research Fellow</div>
   </div>
 
   <div class="tl-item">
@@ -73,18 +73,12 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   
   <div class="tl-item">
     <div class="tl-date">2021.11.27</div>
-    <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University (NCU), Taiwan</div>
-  </div>
-
-  <!-- 若要保留疫情事件，建議改這樣；否則可刪除此項 -->
-  <div class="tl-item">
-    <div class="tl-date">2020.03.11</div>
-    <div class="tl-content">WHO declared COVID-19 a global pandemic (major impact on research and academic exchanges)</div>
+    <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University, Taiwan</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
-    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology (MOST), Taiwan; hosted by the Department of Electrical Engineering and Computer Science, MIT</div>
+    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan; hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology</div>
   </div>
 
   <div class="tl-item">
@@ -99,7 +93,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2016.09.01</div>
-    <div class="tl-content">Admitted to direct Ph.D. program in Energy Engineering, NCU, Taiwan</div>
+    <div class="tl-content">Admitted to direct Ph.D. program in Energy Engineering, National Central University, Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -109,7 +103,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2014.09.01</div>
-    <div class="tl-content">Began M.S. studies in Energy Engineering at National Central University (NCU), Taiwan</div>
+    <div class="tl-content">Began M.S. studies in Energy Engineering at National Central University, Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -124,12 +118,12 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2014.06.30</div>
-    <div class="tl-content">Graduated with B.S. in Physics, Fu Jen Catholic University (FJCU), Taiwan</div>
+    <div class="tl-content">Graduated with B.S. in Physics, Fu Jen Catholic University, Taiwan</div>
   </div>
   
   <div class="tl-item">
     <div class="tl-date">2010.09.01</div>
-    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University (FJCU), Taiwan</div>
+    <div class="tl-content">Began undergraduate studies in Physics at Fu Jen Catholic University, Taiwan</div>
   </div>
 </div>
 
