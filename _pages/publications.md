@@ -21,7 +21,7 @@ Publications
 **2024**  
 - <b>Plasma-Driven Selenization for Electrical Property Enhancement in Janus 2D Materials</b><br>
   <i><u>Small Methods</u></i>, 8, 2400150 (2024) <br>
-  <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin*, Ching-Yuan Su&#42;<br>
+  <b>Shih-Ming He</b>, Jia-Yung Zhuang, Ciao-Fen Chen, Ren-Kuei Liao, Shun-Tsung Lo, Yen-Fu Lin&#42;, Ching-Yuan Su&#42;<br>
   <span style="color:#e67e22; font-weight:600">&#9733; Selected as Front Cover</span><br>
   <a href="https://doi.org/10.1002/smtd.202400150" target="_blank">https://doi.org/10.1002/smtd.202400150</a><br>
   <img src="/images/sm.jpg" alt="Front Cover" style="max-width:250px; margin-top:6px;">
@@ -64,7 +64,7 @@ Publications
 **2016**  
 - <b>Ultra-large suspended graphene as highly elastic membrane for capacitive pressure sensor</b><br>
   <i><u>Nanoscale</u></i>, 8 (6), 3555–3564 (2016)<br>
-  Yu-Min Chen, <b>Shih-Ming He</b>, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su&42;<br>
+  Yu-Min Chen, <b>Shih-Ming He</b>, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su&#42;<br>
   <a href="https://doi.org/10.1039/C5NR08668J" target="_blank">https://doi.org/10.1039/C5NR08668J</a>
 
 - <b>Wide-range work-function tuning of active graphene transparent electrodes via hole doping</b><br>
