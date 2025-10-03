@@ -9,7 +9,7 @@ Publications
 
 **2025**  
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
-  <i><u>arXiv</u></i>:2509.21908 (2025)<br>
+  <i><u>arXiv</u></i>:2509.21908 [cond-mat.mtrl-sci] (2025)<br>
   Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
   <a href="https://doi.org/10.48550/arXiv.2509.21908" target="_blank">https://doi.org/10.48550/arXiv.2509.21908</a>
 
