@@ -8,6 +8,11 @@ Publications
 ======
 
 **2025**  
+- <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
+  <i>arXiv:2509.21908 (2025) <br>
+  Zhien Wang, Jiangtao Wang&#42, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42, Jing Kong&#42;<br>
+  <a href="https://doi.org/10.48550/arXiv.2509.21908" target="_blank">https://doi.org/10.48550/arXiv.2509.21908</a>
+
 - <b>A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures</b><br>
   <i>Chemical Engineering Journal</i>, 522, 166830 (2025) <br>
   Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, <b>Shih-Ming He</b>, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong&#42;, Yu-Lun Chueh&#42;<br>
