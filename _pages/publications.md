@@ -64,7 +64,7 @@ Publications
 **2016**  
 - <b>Ultra-large suspended graphene as highly elastic membrane for capacitive pressure sensor</b><br>
   <i><u>Nanoscale</u></i>, 8 (6), 3555–3564 (2016)<br>
-  Yu-Min Chen, <b>Shih-Ming He</b>, Chi-Hsien Huang, ...<br>
+  Yu-Min Chen, <b>Shih-Ming He</b>, Chi-Hsien Huang, Cheng-Chun Huang, Wen-Pin Shih, Chun-Lin Chu, Jing Kong, Ju Li, Ching-Yuan Su&42;<br>
   <a href="https://doi.org/10.1039/C5NR08668J" target="_blank">https://doi.org/10.1039/C5NR08668J</a>
 
 - <b>Wide-range work-function tuning of active graphene transparent electrodes via hole doping</b><br>
