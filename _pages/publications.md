@@ -44,6 +44,12 @@ Publications
   <b>Shih-Ming He</b>, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su&#42;<br>
   <a href="https://doi.org/10.1016/j.jtice.2021.08.035" target="_blank">https://doi.org/10.1016/j.jtice.2021.08.035</a>
 
+- <b>Graphene under extreme electromagnetic field: energetic ion acceleration by direct irradiation of ultra intense laser on few layer suspended graphene</b><br>
+  <i><u>Research Square</u></i>, Preprint, Version 1, posted 17 Jun. (2021)<br>
+  Yasuhiro Kuramitsu, Takumi Minami, Takamasa Hihara, Kentaro Sakai, Takahiro Nishimoto, Shogo Isayama, Yu-Tzu Liao, Kuan-Ting Wu, Wei-Yen Woon, Shih-Hung Chen, Yao-Li Liu, <b>Shih-Ming He</b>, Ching-Yuan Su, Masato Ota, Shunsuke Egashira, Alessio Morace, Youichi Sakawa, Hideaki Habara, Ryosuke Kodama, Leonard Dohl, Nigel Woolsey, Michel Koenig, Masato Kanasaki, Takafumi Asai, Tomoya Yamauchi, Keiji Oda, Kotaro Kondo, Hiromitsu Kiriyama, Yuji Fukuda<br>
+  <a href="https://doi.org/10.21203/rs.3.rs-373515/v1" target="_blank">https://doi.org/10.1016/j.jtice.2021.08.035</a>
+  
+
 **2020**  
 - <b>Designed catalytic protocol for enhancing HER performance of P, N-co-doped graphene: The correlation of manipulating the dopants allocations and heteroatomic structure</b><br>
   <i><u>Journal of Physical Chemistry C</u></i>, 124 (47), 25701–25711 (2020)<br>
