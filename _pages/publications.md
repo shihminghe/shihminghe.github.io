@@ -35,7 +35,7 @@ Publications
 - <b>Robustness of large-area suspended graphene under interaction with intense laser</b><br>
   <i><u>Scientific Reports</u></i>, 12 (1), 2346 (2022) <br>
   Y. Kuramitsu&#42;, T. Minami, T. Hihara, K. Sakai, T. Nishimoto, S. Isayama, Y. T. Liao, K. T. Wu, W. Y. Woon&#42;, S. H. Chen, Y. L. Liu, <b>S. M. He</b>, C. Y. Su, D. Farley, C. Baird, W. Trickey, C. Murphy, K. Lancaster, J. Green, J. Pasley, N. Booth, C. Spindloe, A. Hughes, R. Heathcote, T. Nishimoto, H. Habara, M. Ota, S. Egashira, A. Morace, Y. Sakawa, R. Kodama, M. Koenig, M. Kanasaki, K. Morii, T. Asai, K. Sakamoto, K. Shimizu, T. Yamauchi, K. Oda, K. Kondo, H. Kiriyama, Y. Fukuda, and N. Woolsey<br>
-  <span style="color:#e67e22; font-weight:600">&#9733; Collection of "Top 100 in Physics in 2022", 11/100</span><br>
+  <span style="color:#e67e22; font-weight:600">&#9733; Collection of "Top 100 in Physics in 2022" (Rank: 11/100)</span><br>
   <a href="https://doi.org/10.1038/s41598-022-06055-4" target="_blank">https://doi.org/10.1038/s41598-022-06055-4</a>
 
 **2021**  
