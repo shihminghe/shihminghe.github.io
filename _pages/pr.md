@@ -65,7 +65,7 @@ Education
     <div>Ph.D. in Energy Engineering, National Central University, Taiwan</div>
     <span style="opacity:.8">Advisor: Prof. Ching-Yuan Su</span></div>
   </div>
-</div>
+
 
 <div class="cv-item">
   <img src="/images/FJCU.png" alt="Fu Jen Catholic University" class="cv-logo">
