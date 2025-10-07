@@ -63,6 +63,7 @@ Education
   <div class="cv-text">
     <div class="cv-date">2021</div>
     <div>Ph.D. in Energy Engineering, National Central University, Taiwan</div>
+    <span style="opacity:.8">Advisor: Prof. Ching-Yuan Su</span></div>
   </div>
 </div>
 
