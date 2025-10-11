@@ -38,7 +38,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2025.05.01</div>
-    <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA</div>
+    <div class="tl-content">Left the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
@@ -83,7 +83,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2017.07.17</div>
-    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom for a two-week collaboration</div>
+    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom, for a two-week collaboration</div>
   </div>
 
   <div class="tl-item">
