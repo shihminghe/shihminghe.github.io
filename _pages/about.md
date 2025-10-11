@@ -28,19 +28,19 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-// 用 setTimeout 確保在 Jekyll DOM 完成後執行
 setTimeout(() => {
   const citationCtx = document.getElementById('citationChart')?.getContext('2d');
   const pubCtx = document.getElementById('pubChart')?.getContext('2d');
   if (!citationCtx || !pubCtx) return;
 
+  // === Citation Chart ===
   new Chart(citationCtx, {
     type: 'line',
     data: {
-      labels: ['2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
+      labels: ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
       datasets: [{
         label: 'Citations',
-        data: [0, 5, 12, 25, 40, 60, 95, 130, 180, 240, 300],
+        data: [4, 24, 19, 20, 31, 34, 43, 48, 37, 39],
         borderColor: '#4A90E2',
         backgroundColor: 'rgba(74,144,226,0.15)',
         fill: true,
@@ -53,10 +53,14 @@ setTimeout(() => {
         y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
         x: { title: { display: true, text: 'Year' } }
       },
-      plugins: { legend: { display: false } }
+      plugins: {
+        legend: { display: false },
+        tooltip: { enabled: true }
+      }
     }
   });
 
+  // === Publications Chart ===
   new Chart(pubCtx, {
     type: 'bar',
     data: {
@@ -73,16 +77,16 @@ setTimeout(() => {
         y: { beginAtZero: true, title: { display: true, text: 'Publications' } },
         x: { title: { display: true, text: 'Year' } }
       },
-      plugins: { legend: { position: 'bottom' } }
+      plugins: {
+        legend: { position: 'bottom' },
+        tooltip: { enabled: true }
+      }
     }
   });
 }, 500);
 </script>
 
 <hr>
-
-
-
 
 <h1>At a glance</h1>
 <ul>
