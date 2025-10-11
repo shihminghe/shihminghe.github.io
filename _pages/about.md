@@ -37,20 +37,14 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 </div>
 
 <script>
-  // 你的實際資料（2016–2025）
+  // 實際數據（2016–2025）
   const years = ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'];
   const citesPerYear = [4, 24, 19, 20, 31, 34, 43, 48, 37, 39];
+  const cumulative = citesPerYear.reduce((a,v,i)=>{ a.push((a[i-1]||0)+v); return a; },[]);
 
-  // 產生累積引用
-  const cumulative = citesPerYear.reduce((acc, v, i) => {
-    acc.push(v + (acc[i-1] || 0));
-    return acc;
-  }, []);
-
-  // 畫圖函式（Chart.js 載入後會呼叫）
   function renderCitationCombo() {
     const el = document.getElementById('citationsCombo');
-    if (!el) return;
+    if (!el || !window.Chart) return;
     const ctx = el.getContext('2d');
     new Chart(ctx, {
       data: {
@@ -71,8 +65,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
             backgroundColor: 'rgba(74,144,226,0.10)',
             fill: true,
             tension: 0.3,
-            pointRadius: 3,
-            yAxisID: 'y' // 用同一座標即可；若想雙軸可把這行改成 'y1' 並在 options 加 y1
+            pointRadius: 3
           }
         ]
       },
@@ -82,8 +75,6 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
         scales: {
           y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
           x: { title: { display: true, text: 'Year' } }
-          // 若要雙 y 軸：
-          // y1: { position: 'right', grid: { drawOnChartArea:false }, beginAtZero:true, title:{display:true,text:'Cumulative'} }
         },
         plugins: { legend: { position: 'bottom' } }
       }
@@ -91,9 +82,9 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   }
 </script>
 
-<!-- 先載 Chart.js，載入完成後再畫 -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js"
-        onload="window.requestAnimationFrame(renderCitationCombo)"></script>
+<!-- 關鍵：載 UMD 版（非 ESM），載入完成後再呼叫 render -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"
+        onload="renderCitationCombo()"></script>
 
 <h1>Life Timeline</h1>
 <div class="timeline">
