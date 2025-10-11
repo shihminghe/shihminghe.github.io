@@ -29,88 +29,95 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <hr>
 
-<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:#fafafa;border:1px solid #eee;border-radius:12px;padding:8px;">
-  <style>
-    text { font-family: system-ui, sans-serif; fill: #444; font-size: 12px; }
-    .axis path, .axis line { stroke: #ccc; shape-rendering: crispEdges; }
-    .bar { fill: #cfd9f2; }
-    .line { fill: none; stroke: #4A90E2; stroke-width: 2; }
-    .dot { fill: #4A90E2; }
-  </style>
-  
-  <!-- 標題 -->
-  <text x="400" y="25" text-anchor="middle" font-size="16" font-weight="600">Citations per Year (bars) + Cumulative (line)</text>
+<!--Citation Chart starts here-->
 
-  <!-- 座標軸 -->
-  <g transform="translate(60,40)">
-    <!-- Y 軸線 -->
-    <line x1="0" y1="0" x2="0" y2="300" stroke="#ccc"/>
-    <!-- X 軸線 -->
-    <line x1="0" y1="300" x2="700" y2="300" stroke="#ccc"/>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+<script>
+  // 資料
+  const years = ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'];
+  const citesPerYear = [4,24,19,20,31,34,43,48,37,39];
+  const cumulative = citesPerYear.reduce((a,v,i)=>{ a.push((a[i-1]||0)+v); return a; }, []);
 
-    <!-- Y 軸標籤 -->
-  <g>
-      <text x="-10" y="305" text-anchor="end">0</text>
-      <text x="-10" y="255" text-anchor="end">50</text>
-      <text x="-10" y="205" text-anchor="end">100</text>
-      <text x="-10" y="155" text-anchor="end">150</text>
-      <text x="-10" y="105" text-anchor="end">200</text>
-      <text x="-10" y="55" text-anchor="end">250</text>
-      <text x="-10" y="5" text-anchor="end">300</text>
-    </g>
+  // 自訂：在柱上方（與可選的折線點）畫數字
+  const valueLabelPlugin = {
+    id: 'valueLabel',
+    afterDatasetsDraw(chart, args, opts) {
+      const {ctx} = chart;
+      ctx.save();
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'bottom';
+      ctx.fillStyle = opts.color || '#475569';
+      ctx.font = `${opts.fontSize || 12}px system-ui, -apple-system, Segoe UI, Arial`;
 
-    <!-- 年份 -->
-  <g>
-      <text x="25" y="320">2016</text>
-      <text x="95" y="320">2017</text>
-      <text x="165" y="320">2018</text>
-      <text x="235" y="320">2019</text>
-      <text x="305" y="320">2020</text>
-      <text x="375" y="320">2021</text>
-      <text x="445" y="320">2022</text>
-      <text x="515" y="320">2023</text>
-      <text x="585" y="320">2024</text>
-      <text x="655" y="320">2025</text>
-    </g>
+      chart.data.datasets.forEach((ds, dsIndex) => {
+        const meta = chart.getDatasetMeta(dsIndex);
+        // 只在柱子上方顯示；若也要線上顯示，把條件拿掉並在下面判斷
+        meta.data.forEach((elem, i) => {
+          if (!elem) return;
+          // bar
+          if ((ds.type || chart.config.type) === 'bar' && opts.showBarLabels !== false) {
+            const val = ds.data[i];
+            ctx.fillText(val, elem.x, elem.y - 4);
+          }
+          // line（可選）
+          if ((ds.type || chart.config.type) === 'line' && opts.showLineLabels) {
+            const val = ds.data[i];
+            ctx.fillText(val, elem.x, elem.y - 8);
+          }
+        });
+      });
+      ctx.restore();
+    }
+  };
 
-    <!-- 柱狀圖：每年引用 -->
-   <g>
-      <!-- [4,24,19,20,31,34,43,48,37,39] -->
-      <rect class="bar" x="20"  y="296" width="30" height="4"/>
-      <rect class="bar" x="90"  y="252" width="30" height="48"/>
-      <rect class="bar" x="160" y="262" width="30" height="38"/>
-      <rect class="bar" x="230" y="260" width="30" height="40"/>
-      <rect class="bar" x="300" y="238" width="30" height="62"/>
-      <rect class="bar" x="370" y="232" width="30" height="68"/>
-      <rect class="bar" x="440" y="214" width="30" height="86"/>
-      <rect class="bar" x="510" y="204" width="30" height="96"/>
-      <rect class="bar" x="580" y="226" width="30" height="74"/>
-      <rect class="bar" x="650" y="222" width="30" height="78"/>
-    </g>
+  Chart.register(valueLabelPlugin);
 
-    <!-- 折線：累積引用 [4,28,47,67,98,132,175,223,260,299] -->
-  <polyline class="line"
-      points="35,296 105,272 175,253 245,233 315,202 385,168 455,125 525,77 595,40 665,1"/>
-    <!-- 資料點 -->
-    <circle class="dot" cx="35" cy="296" r="3"/>
-    <circle class="dot" cx="105" cy="272" r="3"/>
-    <circle class="dot" cx="175" cy="253" r="3"/>
-    <circle class="dot" cx="245" cy="233" r="3"/>
-    <circle class="dot" cx="315" cy="202" r="3"/>
-    <circle class="dot" cx="385" cy="168" r="3"/>
-    <circle class="dot" cx="455" cy="125" r="3"/>
-    <circle class="dot" cx="525" cy="77" r="3"/>
-    <circle class="dot" cx="595" cy="40" r="3"/>
-    <circle class="dot" cx="665" cy="1" r="3"/>
-  </g>
+  // 畫圖
+  const ctx = document.getElementById('citationsCombo').getContext('2d');
+  new Chart(ctx, {
+    data: {
+      labels: years,
+      datasets: [
+        {
+          type: 'bar',
+          label: 'Citations / Year',
+          data: citesPerYear,
+          backgroundColor: '#d9e3ff',
+          borderColor: '#9ab4ff'
+        },
+        {
+          type: 'line',
+          label: 'Cumulative',
+          data: cumulative,
+          borderColor: '#3b82f6',
+          backgroundColor: 'rgba(59,130,246,0.12)',
+          fill: true,
+          tension: 0.4,
+          pointRadius: 3,
+          borderWidth: 2
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,   // ← 讓高度跟著外層 div
+      interaction: { mode: 'index', intersect: false },
+      datasets: { bar: { borderRadius: 8, barThickness: 'flex' } }, // 圓角＆自適應寬
+      scales: {
+        y: { beginAtZero: true, title: { display: true, text: 'Citations' },
+             grid: { color: 'rgba(0,0,0,0.06)' } },
+        x: { title: { display: true, text: 'Year' }, ticks: { maxRotation: 0 } }
+      },
+      plugins: {
+        legend: { position: 'bottom' },
+        // 啟用我們的數字插件並可調樣式
+        valueLabel: { color: '#334155', fontSize: 12, showBarLabels: true, showLineLabels: false }
+      }
+    }
+  });
+</script>
 
-  <!-- 圖例 -->
-  <rect x="580" y="350" width="14" height="14" fill="#cfd9f2"/>
-  <text x="600" y="362">Citations / Year</text>
-  <line x1="690" y1="357" x2="710" y2="357" stroke="#4A90E2" stroke-width="2"/>
-  <text x="715" y="362">Cumulative</text>
-</svg>
-
+<!--Citation Chart ends here-->
 
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
