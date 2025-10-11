@@ -4,6 +4,91 @@ permalink: /publications/
 author_profile: true
 ---
 
+---
+layout: single
+permalink: /publications/
+author_profile: true
+---
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin-bottom: 40px;">
+  <div style="flex: 1 1 48%; min-width: 300px;">
+    <h3 style="text-align:center;">Citations per Year</h3>
+    <canvas id="citationChart"></canvas>
+  </div>
+  <div style="flex: 1 1 48%; min-width: 300px;">
+    <h3 style="text-align:center;">Publications per Year</h3>
+    <canvas id="pubChart"></canvas>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  // === Citation Chart (Left) ===
+  const citationCtx = document.getElementById('citationChart').getContext('2d');
+  new Chart(citationCtx, {
+    type: 'line',
+    data: {
+      labels: ['2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
+      datasets: [{
+        label: 'Citations',
+        data: [0, 5, 12, 25, 40, 60, 95, 130, 180, 240, 300],
+        borderColor: '#4A90E2',
+        backgroundColor: 'rgba(74,144,226,0.15)',
+        fill: true,
+        tension: 0.25,
+        pointRadius: 3
+      }]
+    },
+    options: {
+      scales: {
+        y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
+        x: { title: { display: true, text: 'Year' } }
+      },
+      plugins: {
+        legend: { display: false }
+      }
+    }
+  });
+
+  // === Publications Chart (Right) ===
+  const pubCtx = document.getElementById('pubChart').getContext('2d');
+  new Chart(pubCtx, {
+    type: 'bar',
+    data: {
+      labels: ['2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
+      datasets: [
+        {
+          label: 'Journal Papers',
+          data: [0,2,0,0,2,1,1,2,0,1,2],
+          backgroundColor: '#D6B89C'
+        },
+        {
+          label: 'Conference Papers',
+          data: [0,1,2,1,3,1,1,1,0,0,0],
+          backgroundColor: '#A8B695'
+        },
+        {
+          label: 'Technical Reports',
+          data: [1,1,0,0,0,0,0,0,0,0,0],
+          backgroundColor: '#8392A7'
+        }
+      ]
+    },
+    options: {
+      responsive: true,
+      scales: {
+        y: { beginAtZero: true, title: { display: true, text: 'Publications' } },
+        x: { title: { display: true, text: 'Year' } }
+      },
+      plugins: {
+        legend: { position: 'bottom' }
+      }
+    }
+  });
+});
+</script>
+
 Publications
 ======
 
