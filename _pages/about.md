@@ -15,77 +15,6 @@ I’m <strong>Shih-Ming He</strong>, an Assistant Professor in the <strong>Depar
 My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CVD/MOCVD process development</strong>, and <strong>large-area transfer techniques</strong> toward reliable device integration.
 </p>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; align-items: center; margin: 30px 0;">
-  <div style="flex: 1 1 48%; min-width: 300px; background: #fafafa; border: 1px solid #eee; border-radius: 12px; padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
-    <h3 style="text-align:center; margin-top:0;">Citations per Year</h3>
-    <canvas id="citationChart" style="width:100%; height:300px;"></canvas>
-  </div>
-  <div style="flex: 1 1 48%; min-width: 300px; background: #fafafa; border: 1px solid #eee; border-radius: 12px; padding: 16px; box-shadow: 0 1px 4px rgba(0,0,0,0.05);">
-    <h3 style="text-align:center; margin-top:0;">Publications per Year</h3>
-    <canvas id="pubChart" style="width:100%; height:300px;"></canvas>
-  </div>
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script>
-setTimeout(() => {
-  const citationCtx = document.getElementById('citationChart')?.getContext('2d');
-  const pubCtx = document.getElementById('pubChart')?.getContext('2d');
-  if (!citationCtx || !pubCtx) return;
-
-  // === Citation Chart ===
-  new Chart(citationCtx, {
-    type: 'line',
-    data: {
-      labels: ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
-      datasets: [{
-        label: 'Citations',
-        data: [4, 24, 19, 20, 31, 34, 43, 48, 37, 39],
-        borderColor: '#4A90E2',
-        backgroundColor: 'rgba(74,144,226,0.15)',
-        fill: true,
-        tension: 0.3,
-        pointRadius: 3
-      }]
-    },
-    options: {
-      scales: {
-        y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
-        x: { title: { display: true, text: 'Year' } }
-      },
-      plugins: {
-        legend: { display: false },
-        tooltip: { enabled: true }
-      }
-    }
-  });
-
-  // === Publications Chart ===
-  new Chart(pubCtx, {
-    type: 'bar',
-    data: {
-      labels: ['2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
-      datasets: [
-        { label: 'Journal Papers', data: [0,2,0,0,2,1,1,2,0,1,2], backgroundColor: '#D6B89C' },
-        { label: 'Conference Papers', data: [0,1,2,1,3,1,1,1,0,0,0], backgroundColor: '#A8B695' },
-        { label: 'Technical Reports', data: [1,1,0,0,0,0,0,0,0,0,0], backgroundColor: '#8392A7' }
-      ]
-    },
-    options: {
-      responsive: true,
-      scales: {
-        y: { beginAtZero: true, title: { display: true, text: 'Publications' } },
-        x: { title: { display: true, text: 'Year' } }
-      },
-      plugins: {
-        legend: { position: 'bottom' },
-        tooltip: { enabled: true }
-      }
-    }
-  });
-}, 500);
-</script>
-
 <hr>
 
 <h1>At a glance</h1>
@@ -99,6 +28,72 @@ setTimeout(() => {
 </blockquote>
 
 <hr>
+
+<div style="margin:28px 0;">
+  <div style="background:#fafafa;border:1px solid #eee;border-radius:12px;padding:16px;box-shadow:0 1px 4px rgba(0,0,0,0.05);">
+    <h3 style="text-align:center;margin-top:0;">Citations: Yearly (bars) + Cumulative (line)</h3>
+    <canvas id="citationsCombo" style="width:100%;height:360px;"></canvas>
+  </div>
+</div>
+
+<script>
+  // 你的實際資料（2016–2025）
+  const years = ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'];
+  const citesPerYear = [4, 24, 19, 20, 31, 34, 43, 48, 37, 39];
+
+  // 產生累積引用
+  const cumulative = citesPerYear.reduce((acc, v, i) => {
+    acc.push(v + (acc[i-1] || 0));
+    return acc;
+  }, []);
+
+  // 畫圖函式（Chart.js 載入後會呼叫）
+  function renderCitationCombo() {
+    const el = document.getElementById('citationsCombo');
+    if (!el) return;
+    const ctx = el.getContext('2d');
+    new Chart(ctx, {
+      data: {
+        labels: years,
+        datasets: [
+          {
+            type: 'bar',
+            label: 'Citations / Year',
+            data: citesPerYear,
+            backgroundColor: '#cfd9f2',
+            borderColor: '#9bb4ea'
+          },
+          {
+            type: 'line',
+            label: 'Cumulative Citations',
+            data: cumulative,
+            borderColor: '#4A90E2',
+            backgroundColor: 'rgba(74,144,226,0.10)',
+            fill: true,
+            tension: 0.3,
+            pointRadius: 3,
+            yAxisID: 'y' // 用同一座標即可；若想雙軸可把這行改成 'y1' 並在 options 加 y1
+          }
+        ]
+      },
+      options: {
+        responsive: true,
+        interaction: { mode: 'index', intersect: false },
+        scales: {
+          y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
+          x: { title: { display: true, text: 'Year' } }
+          // 若要雙 y 軸：
+          // y1: { position: 'right', grid: { drawOnChartArea:false }, beginAtZero:true, title:{display:true,text:'Cumulative'} }
+        },
+        plugins: { legend: { position: 'bottom' } }
+      }
+    });
+  }
+</script>
+
+<!-- 先載 Chart.js，載入完成後再畫 -->
+<script src="https://cdn.jsdelivr.net/npm/chart.js"
+        onload="window.requestAnimationFrame(renderCitationCombo)"></script>
 
 <h1>Life Timeline</h1>
 <div class="timeline">
