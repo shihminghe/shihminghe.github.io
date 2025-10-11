@@ -4,12 +4,6 @@ permalink: /publications/
 author_profile: true
 ---
 
----
-layout: single
-permalink: /publications/
-author_profile: true
----
-
 Publications
 ======
 
