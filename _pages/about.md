@@ -29,63 +29,88 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <hr>
 
-<img alt="Citations combo"
-     style="width:100%;height:auto;border-radius:8px;"
-     src="https://quickchart.io/chart?width=960&height=420&c={
-       data:{labels:['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
-             datasets:[
-               {type:'bar',label:'Citations / Year',data:[4,24,19,20,31,34,43,48,37,39],backgroundColor:'#cfd9f2',borderColor:'#9bb4ea'},
-               {type:'line',label:'Cumulative',data:[4,28,47,67,98,132,175,223,260,299],borderColor:'#4A90E2',backgroundColor:'rgba(74,144,226,0.10)',fill:true,tension:0.3,pointRadius:3}
-             ]},
-       options:{plugins:{legend:{position:'bottom'}},scales:{y:{beginAtZero:true},x:{}}}
-     }" />
-
-<h1>Life Timeline</h1>
-<div class="timeline">
-  <div class="tl-item">
-    <div class="tl-date">2025.08.01</div>
-    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University, Taiwan, as Assistant Professor</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2025.05.01</div>
-    <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2024.12.01</div>
-    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council, Taiwan</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2023.10.01</div>
-    <div class="tl-content">Joined the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA, as a Postdoctoral Associate</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2023.09.01</div>
-    <div class="tl-content">Left the Optical Sciences Center, National Central University, Taiwan</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2023.04.27</div>
-    <div class="tl-content">Joined the Optical Sciences Center, National Central University, Taiwan, as Postdoctoral Research Fellow</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2022.12.06</div>
-    <div class="tl-content">Completed one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
-  </div>
-
-  <div class="tl-item">
-    <div class="tl-date">2022.01.03</div>
-    <div class="tl-content">Began one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
-  </div>
+<svg viewBox="0 0 800 400" xmlns="http://www.w3.org/2000/svg" style="max-width:100%;height:auto;background:#fafafa;border:1px solid #eee;border-radius:12px;padding:8px;">
+  <style>
+    text { font-family: system-ui, sans-serif; fill: #444; font-size: 12px; }
+    .axis path, .axis line { stroke: #ccc; shape-rendering: crispEdges; }
+    .bar { fill: #cfd9f2; }
+    .line { fill: none; stroke: #4A90E2; stroke-width: 2; }
+    .dot { fill: #4A90E2; }
+  </style>
   
-  <div class="tl-item">
-    <div class="tl-date">2021.11.27</div>
-    <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University, Taiwan</div>
-  </div>
+  <!-- 標題 -->
+  <text x="400" y="25" text-anchor="middle" font-size="16" font-weight="600">Citations per Year (bars) + Cumulative (line)</text>
+
+  <!-- 座標軸 -->
+  <g transform="translate(60,40)">
+    <!-- Y 軸線 -->
+    <line x1="0" y1="0" x2="0" y2="300" stroke="#ccc"/>
+    <!-- X 軸線 -->
+    <line x1="0" y1="300" x2="700" y2="300" stroke="#ccc"/>
+
+    <!-- Y 軸標籤 -->
+  <g>
+      <text x="-10" y="305" text-anchor="end">0</text>
+      <text x="-10" y="255" text-anchor="end">50</text>
+      <text x="-10" y="205" text-anchor="end">100</text>
+      <text x="-10" y="155" text-anchor="end">150</text>
+      <text x="-10" y="105" text-anchor="end">200</text>
+      <text x="-10" y="55" text-anchor="end">250</text>
+      <text x="-10" y="5" text-anchor="end">300</text>
+    </g>
+
+    <!-- 年份 -->
+  <g>
+      <text x="25" y="320">2016</text>
+      <text x="95" y="320">2017</text>
+      <text x="165" y="320">2018</text>
+      <text x="235" y="320">2019</text>
+      <text x="305" y="320">2020</text>
+      <text x="375" y="320">2021</text>
+      <text x="445" y="320">2022</text>
+      <text x="515" y="320">2023</text>
+      <text x="585" y="320">2024</text>
+      <text x="655" y="320">2025</text>
+    </g>
+
+    <!-- 柱狀圖：每年引用 -->
+   <g>
+      <!-- [4,24,19,20,31,34,43,48,37,39] -->
+      <rect class="bar" x="20"  y="296" width="30" height="4"/>
+      <rect class="bar" x="90"  y="252" width="30" height="48"/>
+      <rect class="bar" x="160" y="262" width="30" height="38"/>
+      <rect class="bar" x="230" y="260" width="30" height="40"/>
+      <rect class="bar" x="300" y="238" width="30" height="62"/>
+      <rect class="bar" x="370" y="232" width="30" height="68"/>
+      <rect class="bar" x="440" y="214" width="30" height="86"/>
+      <rect class="bar" x="510" y="204" width="30" height="96"/>
+      <rect class="bar" x="580" y="226" width="30" height="74"/>
+      <rect class="bar" x="650" y="222" width="30" height="78"/>
+    </g>
+
+    <!-- 折線：累積引用 [4,28,47,67,98,132,175,223,260,299] -->
+  <polyline class="line"
+      points="35,296 105,272 175,253 245,233 315,202 385,168 455,125 525,77 595,40 665,1"/>
+    <!-- 資料點 -->
+    <circle class="dot" cx="35" cy="296" r="3"/>
+    <circle class="dot" cx="105" cy="272" r="3"/>
+    <circle class="dot" cx="175" cy="253" r="3"/>
+    <circle class="dot" cx="245" cy="233" r="3"/>
+    <circle class="dot" cx="315" cy="202" r="3"/>
+    <circle class="dot" cx="385" cy="168" r="3"/>
+    <circle class="dot" cx="455" cy="125" r="3"/>
+    <circle class="dot" cx="525" cy="77" r="3"/>
+    <circle class="dot" cx="595" cy="40" r="3"/>
+    <circle class="dot" cx="665" cy="1" r="3"/>
+  </g>
+
+  <!-- 圖例 -->
+  <rect x="580" y="350" width="14" height="14" fill="#cfd9f2"/>
+  <text x="600" y="362">Citations / Year</text>
+  <line x1="690" y1="357" x2="710" y2="357" stroke="#4A90E2" stroke-width="2"/>
+  <text x="715" y="362">Cumulative</text>
+</svg>
+
 
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
