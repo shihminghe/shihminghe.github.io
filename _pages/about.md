@@ -29,14 +29,92 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <hr>
 
+---
+layout: single
+permalink: /
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+<h1>About Me</h1>
+<p>
+I’m <strong>Shih-Ming He</strong>, an Assistant Professor in the <strong>Department of Electronic Engineering</strong>, Chung Yuan Christian University (CYCU), Taiwan, where I lead the <strong>2D Semiconductor Materials with AI-driven Research &amp; Transfer (2SMART) Lab</strong>.
+</p>
+<p>
+My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CVD/MOCVD process development</strong>, and <strong>large-area transfer techniques</strong> toward reliable device integration.
+</p>
+
+<hr>
+
+<h2>At a glance</h2>
+<ul>
+  <li>Built and tuned <strong>CVD/MOCVD</strong> platforms for <strong>wafer-scale 2D materials</strong></li>
+  <li>Focus on <strong>transfer reliability</strong> &amp; <strong>process reproducibility</strong> for manufacturing</li>
+  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>autonomous process optimization</strong></li>
+</ul>
+<blockquote>
+  Caring about turning lab-scale breakthroughs into <strong>robust, scalable processes</strong> that teams can actually build on.
+</blockquote>
+
+<hr>
+
+<h2>Life Timeline</h2>
+<div class="timeline">
+  <div class="tl-item">
+    <div class="tl-date">2025.08.01</div>
+    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University, Taiwan, as Assistant Professor</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2025.05.01</div>
+    <div class="tl-content">Left the Research Laboratory of Electronics (RLE), Massachusetts Institute of Technology, USA</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2024.12.01</div>
+    <div class="tl-content">Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council, Taiwan</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2023.10.01</div>
+    <div class="tl-content">Joined the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA, as a Postdoctoral Associate</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2023.09.01</div>
+    <div class="tl-content">Left the Optical Sciences Center, National Central University, Taiwan</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2023.04.27</div>
+    <div class="tl-content">Joined the Optical Sciences Center, National Central University, Taiwan, as Postdoctoral Research Fellow</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2022.12.06</div>
+    <div class="tl-content">Completed one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
+  </div>
+
+  <div class="tl-item">
+    <div class="tl-date">2022.01.03</div>
+    <div class="tl-content">Began one-year alternative military service at Tainan Education and Nursing Institute, Taiwan</div>
+  </div>
+  
+  <div class="tl-item">
+    <div class="tl-date">2021.11.27</div>
+    <div class="tl-content">Earned Ph.D. in Energy Engineering, National Central University, Taiwan</div>
+  </div>
+
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
-    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan; hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology</div>
+    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan; hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2017.07.17</div>
-    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom, for a two-week collaboration</div>
+    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom for a two-week collaboration</div>
   </div>
 
   <div class="tl-item">
@@ -101,6 +179,9 @@ blockquote { margin: 12px 0 0 0; }
 }
 </style>
 
+<hr>
+
+<blockquote><em>Never say never. Everything happened with meaning.</em></blockquote>
 <hr>
 
 <blockquote><em>Never say never. Everything happened with meaning.</em></blockquote>
