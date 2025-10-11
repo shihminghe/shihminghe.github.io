@@ -29,62 +29,16 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <hr>
 
-<div style="margin:28px 0;">
-  <div style="background:#fafafa;border:1px solid #eee;border-radius:12px;padding:16px;box-shadow:0 1px 4px rgba(0,0,0,0.05);">
-    <h3 style="text-align:center;margin-top:0;">Citations: Yearly (bars) + Cumulative (line)</h3>
-    <canvas id="citationsCombo" style="width:100%;height:360px;"></canvas>
-  </div>
-</div>
-
-<script>
-  // 實際數據（2016–2025）
-  const years = ['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'];
-  const citesPerYear = [4, 24, 19, 20, 31, 34, 43, 48, 37, 39];
-  const cumulative = citesPerYear.reduce((a,v,i)=>{ a.push((a[i-1]||0)+v); return a; },[]);
-
-  function renderCitationCombo() {
-    const el = document.getElementById('citationsCombo');
-    if (!el || !window.Chart) return;
-    const ctx = el.getContext('2d');
-    new Chart(ctx, {
-      data: {
-        labels: years,
-        datasets: [
-          {
-            type: 'bar',
-            label: 'Citations / Year',
-            data: citesPerYear,
-            backgroundColor: '#cfd9f2',
-            borderColor: '#9bb4ea'
-          },
-          {
-            type: 'line',
-            label: 'Cumulative Citations',
-            data: cumulative,
-            borderColor: '#4A90E2',
-            backgroundColor: 'rgba(74,144,226,0.10)',
-            fill: true,
-            tension: 0.3,
-            pointRadius: 3
-          }
-        ]
-      },
-      options: {
-        responsive: true,
-        interaction: { mode: 'index', intersect: false },
-        scales: {
-          y: { beginAtZero: true, title: { display: true, text: 'Citations' } },
-          x: { title: { display: true, text: 'Year' } }
-        },
-        plugins: { legend: { position: 'bottom' } }
-      }
-    });
-  }
-</script>
-
-<!-- 關鍵：載 UMD 版（非 ESM），載入完成後再呼叫 render -->
-<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"
-        onload="renderCitationCombo()"></script>
+<img alt="Citations combo"
+     style="width:100%;height:auto;border-radius:8px;"
+     src="https://quickchart.io/chart?width=960&height=420&c={
+       data:{labels:['2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'],
+             datasets:[
+               {type:'bar',label:'Citations / Year',data:[4,24,19,20,31,34,43,48,37,39],backgroundColor:'#cfd9f2',borderColor:'#9bb4ea'},
+               {type:'line',label:'Cumulative',data:[4,28,47,67,98,132,175,223,260,299],borderColor:'#4A90E2',backgroundColor:'rgba(74,144,226,0.10)',fill:true,tension:0.3,pointRadius:3}
+             ]},
+       options:{plugins:{legend:{position:'bottom'}},scales:{y:{beginAtZero:true},x:{}}}
+     }" />
 
 <h1>Life Timeline</h1>
 <div class="timeline">
