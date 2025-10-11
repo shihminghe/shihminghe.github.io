@@ -29,37 +29,6 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <hr>
 
----
-layout: single
-permalink: /
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<h1>About Me</h1>
-<p>
-I’m <strong>Shih-Ming He</strong>, an Assistant Professor in the <strong>Department of Electronic Engineering</strong>, Chung Yuan Christian University (CYCU), Taiwan, where I lead the <strong>2D Semiconductor Materials with AI-driven Research &amp; Transfer (2SMART) Lab</strong>.
-</p>
-<p>
-My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CVD/MOCVD process development</strong>, and <strong>large-area transfer techniques</strong> toward reliable device integration.
-</p>
-
-<hr>
-
-<h2>At a glance</h2>
-<ul>
-  <li>Built and tuned <strong>CVD/MOCVD</strong> platforms for <strong>wafer-scale 2D materials</strong></li>
-  <li>Focus on <strong>transfer reliability</strong> &amp; <strong>process reproducibility</strong> for manufacturing</li>
-  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>autonomous process optimization</strong></li>
-</ul>
-<blockquote>
-  Caring about turning lab-scale breakthroughs into <strong>robust, scalable processes</strong> that teams can actually build on.
-</blockquote>
-
-<hr>
-
 <h2>Life Timeline</h2>
 <div class="timeline">
   <div class="tl-item">
