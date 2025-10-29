@@ -12,7 +12,7 @@ author_profile: true
 
 - *Spectroscopic and electrical characterizations of phosphorous-doped CVD graphene via low-damage ion implantation* <br>
   **New Diamond and Nano Carbons (NDNC) 2019**, May 12–17, Hualien, Taiwan <br>
-  **Shih-Ming He**, Cheng-Chun Huang, Wei-Yuan Woon, Ching-Yuan Su  
+  **Shih-Ming He**, Cheng-Chun Huang, Wei-Yen Woon, Ching-Yuan Su  
 
 - *Ultra-large suspended graphene for pressure sensors* <br>
   **Graphene 2017**, Mar. 28–31, Barcelona, Spain <br>
@@ -28,7 +28,7 @@ author_profile: true
 
 - *The electrical transportation and transistor performance of phosphorous-doped graphene via keV ion implanter* <br>
   **Graphene 2019**, Jun. 25–28, Rome, Italy <br>
-  **Shih-Ming He**, Cheng-Chun Huang, Wei-Yuan Woon, Ching-Yuan Su  
+  **Shih-Ming He**, Cheng-Chun Huang, Wei-Yen Woon, Ching-Yuan Su  
 
 - *Ultra-low damage of phosphorous-doped CVD graphene via low energy ion implantation* <br>
   **Graphene 2018**, Jun. 26–29, Dresden, Germany <br>
