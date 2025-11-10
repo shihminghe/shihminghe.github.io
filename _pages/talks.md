@@ -4,7 +4,11 @@ permalink: /talks/
 author_profile: true
 ---
 
-# International Oral Presentations
+# International Conference Oral Presentations
+
+- *From Biosensing to Autonomous Growth - AI-Assisted Bilayer Graphene Growth for Reliable and Scalable Device Integration* <br>
+  **International Conference on Engineering, Physics, MEMS-Biosensors and Applications (ICEBA 2025)**, Nov. 07, 2025, Taoyuan, Taiwan <br>
+  **Shih-Ming He**, Ching-Yuan Su, Ang-Yu Lu, Zhien Wang, Jiangtao Wang, Jing Kong  
 
 - *Fluoric self-assembled monolayer (FSAM) for enhancing electrical properties of graphene on arbitrary substrates* <br>
   **Materials Research Society (MRS) Fall**, Nov. 28–Dec. 4, 2020, Online <br>
@@ -24,7 +28,7 @@ author_profile: true
 
 <hr class="bold">
 
-# International Poster Presentations
+# International Conference Poster Presentations
 
 - *The electrical transportation and transistor performance of phosphorous-doped graphene via keV ion implanter* <br>
   **Graphene 2019**, Jun. 25–28, Rome, Italy <br>
@@ -40,7 +44,7 @@ author_profile: true
 
 <hr class="bold">
 
-# Domestic Presentations
+# Domestic Conference/Workshop Presentations
 
 - *Universal Transfer Process for 2D Materials* <br>
   **MIT Microsystems Annual Research Conference (MARC)**, Jan. 23–24, 2024, Bretton Woods, USA <br>
@@ -52,11 +56,15 @@ author_profile: true
 
 - *Synthesis of phosphorous-doped graphene by using tens keV ion implantation and their application on FET* <br>
   **Taiwan Vacuum Society Workshop (TVS-2019)**, Nov. 1, 2019, Hsinchu, Taiwan <br>
-  **Shih-Ming He**, Wei-Yuan Woon, Ching-Yuan Su  
+  **Shih-Ming He**, Wei-Yen Woon, Ching-Yuan Su  
 
 <hr class="bold">
 
 # Invited Talks
+
+- *From MiT to MIT: Never Say Never* <br>
+  **Invited Seminar**, Nov. 14, 2025, Department of Physics, Fu Jen Catholic University, New Taipei City, Taiwan <br>
+  **Shih-Ming He**  
 
 - *Culture Shock & Culture Shower* <br>
   **National Science and Technology Council (NSTC) Scholars Exchange Forum**, Dec. 14, 2024, Cambridge, MA, USA <br>
