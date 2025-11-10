@@ -63,6 +63,7 @@ Education
   <div class="cv-text">
     <div class="cv-date">2021</div>
     <div>Ph.D. in Energy Engineering, National Central University, Taiwan</div>
+    <div>Doctoral Thesis: The investigation of 2-D semiconductor synthesis and tunable electrical properties </div>
     <span style="opacity:.8">Advisor: Prof. Ching-Yuan Su</span></div>
   </div>
 
@@ -72,6 +73,8 @@ Education
   <div class="cv-text">
     <div class="cv-date">2014</div>
     <div>B.S. in Physics, Fu Jen Catholic University, Taiwan</div>
+    <div>Undergraduate Research Project: Using a Picomotor to precisely control the compensator rotation for investigating the correlation between angular displacement and interference fringe variation.</div>
+    <span style="opacity:.8">Advisor: Prof. Zhi-Ming Hsieh</span></div>
   </div>
 </div>
 
