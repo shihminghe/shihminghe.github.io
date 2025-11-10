@@ -63,7 +63,7 @@ author_profile: true
 # Invited Talks
 
 - *From MiT to MIT: Never Say Never* <br>
-  Invited Seminar, Nov. 14, 2025, Department of Physics, Fu Jen Catholic University, New Taipei City, Taiwan <br>
+  Invited Seminar, Department of Physics, Fu Jen Catholic University, Nov. 14, 2025, New Taipei City, Taiwan <br>
   **Shih-Ming He**  
 
 - *Culture Shock & Culture Shower* <br>
