@@ -60,10 +60,14 @@ author_profile: true
 
 <hr class="bold">
 
-# Invited Talks
+# Domestic Invited / Seminar Presentations
 
 - *From MiT to MIT: Never Say Never* <br>
   Invited Seminar, Department of Physics, Fu Jen Catholic University, Nov. 14, 2025, New Taipei City, Taiwan <br>
+  **Shih-Ming He**  
+
+- *AI-assisted CVD System for 2D Materials* <br>
+  Invited Seminar, CYCU–University of Wyoming Bi-weekly Quantum Forum, Nov. 12, 2025, Online <br>
   **Shih-Ming He**  
 
 - *Culture Shock & Culture Shower* <br>
