@@ -31,7 +31,7 @@ Work Experience
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2026.02 – present</div>
-    <div>Program Director <i>(starting 2026 Feb)</i>, Applied Artificial Intelligence Exploration Program, Chung Yuan Christian University, Taiwan</div>
+    <div>Program Director <i>(effective Feb. 2026)</i>, Applied Artificial Intelligence Exploration Program, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ Work Experience
 Service & Committee Memberships
 ======
 
-<h3 class="cv-subtitle">College-Level Committees</h3>
+<h2 class="cv-subtitle">College-Level Committees</h2>
 
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
@@ -78,7 +78,7 @@ Service & Committee Memberships
 
 <hr>
 
-<h3 class="cv-subtitle">Department-Level Committees</h3>
+<h2 class="cv-subtitle">Department-Level Committees</h2>
 
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
@@ -116,7 +116,7 @@ Education
   <div class="cv-text">
     <div class="cv-date">2014</div>
     <div>B.S. in Physics, Fu Jen Catholic University, Taiwan</div>
-    <div>Undergraduate Research Project: <i>Investigating the correlation between angular displacement and interference fringe variation via Picomotor-controlled compensator rotation</i></div>
+    <div>Undergraduate Research Project: <i>Correlation between angular displacement and interference fringe variation using a Picomotor-controlled compensator</i></div>
     <span style="opacity:.8">Advisor: Prof. Zhi-Ming Hsieh</span></div>
 </div>
 
