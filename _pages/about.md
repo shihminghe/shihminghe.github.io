@@ -34,13 +34,13 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2026.02.01</div>
-    <div class="tl-content">Appointed as Program Director of the Applied Artificial Intelligence Exploration Program at Chung Yuan Christian University, Taiwan</div>
+    <div class="tl-content">Appointed as a <strong>Program Director</strong> of the Applied Artificial Intelligence Exploration Program at Chung Yuan Christian University, Taiwan</div>
   </div>
 
   
   <div class="tl-item">
     <div class="tl-date">2025.08.01</div>
-    <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University, Taiwan, as Assistant Professor</div>
+    <div class="tl-content">Joined the Department of Electronic Engineering as <strong>Assistant Professor</strong>, Chung Yuan Christian University, Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -55,7 +55,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2023.10.01</div>
-    <div class="tl-content">Joined the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA, as a Postdoctoral Associate</div>
+    <div class="tl-content">Joined the Research Laboratory of Electronics as a <stong>Postdoctoral Associate</stong>, Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
@@ -65,7 +65,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2023.04.27</div>
-    <div class="tl-content">Joined the Optical Sciences Center, National Central University, Taiwan, as Postdoctoral Research Fellow</div>
+    <div class="tl-content">Joined the Optical Sciences Center as a <strong>Postdoctoral Research Fellow</strong>, National Central University, Taiwan</div>
   </div>
 
   <div class="tl-item">
@@ -86,12 +86,13 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
     <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan<br>
-      Hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, USA</div>
+      <span class="tl-sub">Hosted by the Department of Electrical Engineering and Computer Science, MIT, USA</span>
+    </div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2017.07.17</div>
-    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom, for a two-week experiment collaboration</div>
+    <div class="tl-content">Visited the Rutherford Appleton Laboratory for a two-week experimental research collaboration, United Kingdom</div>
   </div>
 
   <div class="tl-item">
