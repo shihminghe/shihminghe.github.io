@@ -72,7 +72,7 @@ Service & Committee Memberships
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2025.08 – 2026.07</div>
-    <div>Member, University of Wisconsin-Milwaukee. Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
+    <div>Member, University of Wisconsin-Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
@@ -97,9 +97,9 @@ Service & Committee Memberships
 <hr class="bold">
 
 /* Reduce spacing between committee categories */
-.cv-section h3 {
-  margin-top: 0.8rem !important;
-  margin-bottom: 0.4rem !important;
+  .cv-section h3 {
+  margin-top: 0.5rem !important;
+  margin-bottom: 0.3rem !important;
 }
 
 /* Optional: reduce space of hr inside service section */
