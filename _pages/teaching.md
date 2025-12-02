@@ -79,7 +79,7 @@ ul li {
 }
 em {
   display: block;       /* 獨立換行 */
-  margin-top: 8px;      /* 與上一段距離 */
+  margin-top: 4px;      /* 與上一段距離 */
   margin-bottom: 2px;   /* 與課程清單距離 */
   font-style: italic;   /* 斜體 */
 }
