@@ -66,8 +66,6 @@ Work Experience
 Service & Committee Memberships
 ======
 
-class="cv-section"
-
 <h3 class="cv-subtitle">College-Level Committees</h3>
 
 <div class="cv-item">
