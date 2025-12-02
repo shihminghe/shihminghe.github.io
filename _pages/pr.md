@@ -66,19 +66,19 @@ Work Experience
 Service & Committee Memberships
 ======
 
-<h2 class="cv-subtitle">College-Level Committees</h2>
+class="cv-section"
+
+<h3 class="cv-subtitle">College-Level Committees</h3>
 
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2025.08 – 2026.07</div>
-    <div>Member, UWM Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
+    <div>Member, University of Wisconsin-Milwaukee. Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
-<hr>
-
-<h2 class="cv-subtitle">Department-Level Committees</h2>
+<h3 class="cv-subtitle">Department-Level Committees</h3>
 
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
@@ -97,6 +97,22 @@ Service & Committee Memberships
 </div>
 
 <hr class="bold">
+
+/* Reduce spacing between committee categories */
+.cv-section h3 {
+  margin-top: 0.8rem !important;
+  margin-bottom: 0.4rem !important;
+}
+
+/* Optional: reduce space of hr inside service section */
+.cv-section hr {
+  margin: 0.8rem 0 !important;
+}
+
+/* Reduce spacing between individual cv items */
+.cv-item {
+  margin-bottom: 0.6rem !important;
+}
 
 Education
 ===
