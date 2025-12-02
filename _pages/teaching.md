@@ -72,15 +72,3 @@ author_profile: true
   </ul>
 
 <hr class="bold">
-
-<style>
-ul li {
-  margin-bottom: 0px;   /* 控制清單行距 */
-}
-em {
-  display: block;       /* 獨立換行 */
-  margin-top: 2px;      /* 與上一段距離 */
-  margin-bottom: 0px;   /* 與課程清單距離 */
-  font-style: italic;   /* 斜體 */
-}
-</style>
