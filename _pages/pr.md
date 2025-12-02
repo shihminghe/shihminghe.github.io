@@ -96,21 +96,6 @@ Service & Committee Memberships
 
 <hr class="bold">
 
-/* Reduce spacing between committee categories */
-  .cv-section h3 {
-  margin-top: 0.5rem !important;
-  margin-bottom: 0.3rem !important;
-}
-
-/* Optional: reduce space of hr inside service section */
-.cv-section hr {
-  margin: 0.8rem 0 !important;
-}
-
-/* Reduce spacing between individual cv items */
-.cv-item {
-  margin-bottom: 0.6rem !important;
-}
 
 Education
 ===
