@@ -22,6 +22,15 @@ author_profile: true
 .cv-item .cv-text { flex: 1; line-height: 1.5; }
 .cv-item .cv-date { font-weight: 700; margin-bottom: 2px; }
 hr.bold { border: 0; border-top: 2px solid #ddd; margin: 18px 0; }
+
+  .cv-subtitle {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 14px;    /* 小標題與上一段距離 */
+  margin-bottom: 6px;  /* 小標題與內容距離 */
+  color: #444;         /* 比主標淡一點，層次更好 */
+}
+
 </style>
 
 Work Experience
