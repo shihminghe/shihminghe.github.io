@@ -21,7 +21,6 @@ author_profile: true
 }
 .cv-item .cv-text { flex: 1; line-height: 1.5; }
 .cv-item .cv-date { font-weight: 700; margin-bottom: 2px; }
-hr.bold { border: 0; border-top: 2px solid #ddd; margin: 18px 0; }
 
   .cv-subtitle {
   font-size: 1.15rem;
