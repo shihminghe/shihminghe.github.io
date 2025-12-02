@@ -8,6 +8,13 @@ author_profile: true
 
 - **Department of Electronic Engineering, Chung Yuan Christian University (CYCU)**
 
+  <em>114-2 (Spring 2026)</em>  
+  <ul>
+    <li><i>Computer Science Laboratory (I)</i></li>
+    <li><i>Introduction to Computer Science (I)</i></li>
+    <li><i>Engineering Design Practicum(I)</i></li>
+  </ul>
+
   <em>114-1 (Fall 2025)</em>  
   <ul>
     <li><i>Computer Science Laboratory (I)</i></li>
