@@ -180,7 +180,22 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <!-- Style -->
 <style>
-.timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
+.timeline {
+  position: relative;
+  margin: 24px 0;
+  padding-left: 20px;
+}
+
+/* 垂直漸層線：上淡下深 */
+.timeline::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;              /* 線的位置，可微調 */
+  width: 3px;
+  background: linear-gradient(to bottom, #d4d4d8 0%, #6b7280 100%);
+}
 .tl-item { margin: 16px 0; position: relative; }
 .tl-item::before {
   content: ""; width: 12px; height: 12px; background: #9aa0a6; border-radius: 50%;
@@ -195,6 +210,9 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 }
 .tl-item.tl-extension .tl-date,
 .tl-item.tl-extension .tl-content {
+  display: none;
+}
+.tl-item.tl-extension::before {
   display: none;
 }
 
