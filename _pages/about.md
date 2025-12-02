@@ -55,7 +55,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2023.10.01</div>
-    <div class="tl-content">Joined the Research Laboratory of Electronics as a <stong>Postdoctoral Associate</stong>, Massachusetts Institute of Technology, USA</div>
+    <div class="tl-content">Joined the Research Laboratory of Electronics as a <strong>Postdoctoral Associate</strong>, Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
