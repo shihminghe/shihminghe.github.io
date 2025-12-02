@@ -31,6 +31,13 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
 <h2>Life Timeline</h2>
 <div class="timeline">
+
+  <div class="tl-item">
+    <div class="tl-date">2026.02.01</div>
+    <div class="tl-content">Appointed as Program Director of the Applied Artificial Intelligence Exploration Program at Chung Yuan Christian University, Taiwan</div>
+  </div>
+
+  
   <div class="tl-item">
     <div class="tl-date">2025.08.01</div>
     <div class="tl-content">Joined the Department of Electronic Engineering, Chung Yuan Christian University, Taiwan, as Assistant Professor</div>
@@ -78,17 +85,18 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 
   <div class="tl-item">
     <div class="tl-date">2019.12.01</div>
-    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan; hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, USA</div>
+    <div class="tl-content">Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan<br>
+      Hosted by the Department of Electrical Engineering and Computer Science, Massachusetts Institute of Technology, USA</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2017.07.17</div>
-    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom, for a two-week collaboration</div>
+    <div class="tl-content">Visited Rutherford Appleton Laboratory, United Kingdom, for a two-week experiment collaboration</div>
   </div>
 
   <div class="tl-item">
     <div class="tl-date">2016.11.15</div>
-    <div class="tl-content">Visited Shizuoka University, Japan, for a one-week academic exchange</div>
+    <div class="tl-content">Participated in a one-week academic exchange program at Shizuoka University, Japan</div>
   </div>
 
   <div class="tl-item">
