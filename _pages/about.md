@@ -186,12 +186,16 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   content: ""; width: 12px; height: 12px; background: #9aa0a6; border-radius: 50%;
   position: absolute; left: -27px; top: 6px;
 }
+
 .tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
 .tl-content { line-height: 1.7; }
 
 /* extension (line without text) */
 .tl-item.tl-extension {
   min-height: 40px;
+}
+.tl-item.tl-extension::before {
+  display: none;   /* ← 這裡讓圓點消失 */  
 }
 .tl-item.tl-extension .tl-date,
 .tl-item.tl-extension .tl-content {
