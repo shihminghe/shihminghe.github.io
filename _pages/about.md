@@ -203,21 +203,29 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   position: relative;
 }
 
-/* 預設的節點樣式 */
+/* 預設節點 */
 .tl-item::before {
   content: "";
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: #f97316;           /* 節點顏色：橘色，可換 */
-  border: 2px solid #fefefe;     /* 白色邊框，讓點更清楚 */
+  background: #f97316;           /* 節點顏色 */
+  border: 2px solid #fefefe;     /* 白邊讓點比較清楚 */
   position: absolute;
-  left: -7px;                    /* 微調到線的中間，你可小調整 */
+  left: 0;                       /* 對齊 timeline 的線 */
   top: 6px;
+  transform: translateX(-50%);   /* 把圓心移到線的正中間 */
   transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
-/* 最下面那個 tl-extension 不要有點 */
+/* hover 放大 + 發光，但記得保留 translateX(-50%) */
+.tl-item:hover::before {
+  transform: translateX(-50%) scale(1.25);
+  box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.25);
+  background: #ea580c;
+}
+
+/* 最底下 extension 沒有點 */
 .tl-item.tl-extension::before {
   display: none;
 }
