@@ -182,11 +182,49 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 <style>
 .timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
 .tl-item { margin: 16px 0; position: relative; }
-.tl-item::before {
-  content: ""; width: 12px; height: 12px; background: #9aa0a6; border-radius: 50%;
-  position: absolute; left: -27px; top: 6px;
+/* 原點換色 */  
+.tl-item {
+  margin: 16px 0;
+  position: relative;
 }
 
+/* 預設的節點樣式 */
+.tl-item::before {
+  content: "";
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #f97316;           /* 節點顏色：橘色，可換 */
+  border: 2px solid #fefefe;     /* 白色邊框，讓點更清楚 */
+  position: absolute;
+  left: -7px;                    /* 微調到線的中間，你可小調整 */
+  top: 6px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+/* 最下面那個 tl-extension 不要有點 */
+.tl-item.tl-extension::before {
+  display: none;
+}
+
+/* hover 動畫：滑過時節點放大＋發光 */
+.tl-item:hover::before {
+  transform: scale(1.25);
+  box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.25);
+  background: #ea580c;           /* hover 時稍微變深一點 */
+}
+
+/* 滑過時，文字略做強調（可選） */
+.tl-item:hover .tl-date {
+  color: #c2410c;                /* 日期變稍微深一點的橘色 */
+}
+
+.tl-item:hover .tl-content {
+  background: #f9fafb;
+  border-radius: 8px;
+  padding: 4px 8px;
+}
+/* 原點換色結束 */
 .tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
 .tl-content { line-height: 1.7; }
 
