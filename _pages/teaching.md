@@ -10,8 +10,8 @@ author_profile: true
 
   <em>114-2 (Spring 2026)</em>  
   <ul>
-    <li><i>Computer Science Laboratory (I)</i></li>
-    <li><i>Introduction to Computer Science (I)</i></li>
+    <li><i>Computer Science Laboratory (II)</i></li>
+    <li><i>Introduction to Computer Science (II)</i></li>
     <li><i>Engineering Design Practicum(I)</i></li>
   </ul>
 
