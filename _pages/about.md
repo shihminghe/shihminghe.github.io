@@ -173,29 +173,13 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   </div>
 </div>
 
-<!-- extend line below -->
 <div class="tl-item tl-extension" style="margin-top: 40px;"></div>
-
-</div>
 
 <!-- Style -->
 <style>
-.timeline {
-  position: relative;
-  margin: 24px 0;
-  padding-left: 20px;
-}
-
-/* 垂直漸層線：上淡下深 */
-.timeline::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;              /* 線的位置，可微調 */
-  width: 3px;
-  background: linear-gradient(to bottom, #d4d4d8 0%, #6b7280 100%);
-}
+/* Timeline */
+.timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
+  
 .tl-item { margin: 16px 0; position: relative; }
 .tl-item::before {
   content: ""; width: 12px; height: 12px; background: #9aa0a6; border-radius: 50%;
@@ -204,23 +188,13 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 .tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
 .tl-content { line-height: 1.7; }
 
-/* extension (line without text) */
-.tl-item.tl-extension {
-  min-height: 40px;
-}
-.tl-item.tl-extension .tl-date,
-.tl-item.tl-extension .tl-content {
-  display: none;
-}
-.tl-item.tl-extension::before {
-  display: none;
-}
-
-/* mobile tweaks */
+/* Spacing & mobile tweaks */
+blockquote { margin: 12px 0 0 0; }
 @media (max-width: 640px) {
   .timeline { padding-left: 16px; }
   .tl-item::before { left: -24px; }
   .tl-date { display: block; margin-bottom: 2px; }
+  
 }
 </style>
 
