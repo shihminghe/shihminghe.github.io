@@ -197,6 +197,9 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 .tl-item.tl-extension .tl-content {
   display: none;
 }
+.tl-item.tl-extension::before {
+  display:none;
+}
 
 /* mobile tweaks */
 @media (max-width: 640px) {
