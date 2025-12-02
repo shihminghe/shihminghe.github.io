@@ -76,20 +76,20 @@ author_profile: true
 <style>
 /* 學期那一行（114-2, 106-1...） */
 .cv-term {
-  margin-top: 8px;      /* 與上一個區塊的距離 */
-  margin-bottom: 3px;   /* 與下面課程清單距離 */
+  margin-top: 10px;      /* 與上一個區塊的距離 */
+  margin-bottom: 6px;   /* 與下面課程清單距離 */
   font-style: italic;
 }
 
 /* 每組課程清單 */
 .cv-courses {
   margin-top: 0;        /* 貼近 cv-term */
-  margin-bottom: 10px;  /* 每個學期區塊之間距離 */
+  margin-bottom: 14px;  /* 每個學期區塊之間距離 */
 }
 
 /* 課程與課程之間的行距 */
 .cv-courses li {
-  margin-bottom: 3px;
+  margin-bottom: 4px;
   line-height: 1.45;
 }
 
