@@ -192,81 +192,57 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
   position: absolute;
   top: 0;
   bottom: 0;
-  left: 0;              /* 線的位置，可微調 */
+  left: 0;
   width: 3px;
   background: linear-gradient(to bottom, #d4d4d8 0%, #6b7280 100%);
 }
-.tl-item { margin: 16px 0; position: relative; }
-/* 原點換色 */  
+
+/* Timeline item */
 .tl-item {
   margin: 16px 0;
   position: relative;
 }
 
-/* 預設節點 */
+/* 節點（橘色圓點，不放大、不變色） */
 .tl-item::before {
   content: "";
   width: 12px;
   height: 12px;
   border-radius: 50%;
   background: #f97316;           /* 節點顏色 */
-  border: 2px solid #fefefe;     /* 白邊讓點比較清楚 */
+  border: 2px solid #ffffff;     /* 白色邊框 */
   position: absolute;
-  left: 0;                       /* 對齊 timeline 的線 */
+  left: 0;                       /* 對齊時間線 */
   top: 6px;
-  transform: translateX(-50%);   /* 把圓心移到線的正中間 */
-  transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+  transform: translateX(-50%);   /* 圓心對齊線 */
 }
 
-/* hover 放大 + 發光，但記得保留 translateX(-50%) */
-.tl-item:hover::before {
-  transform: translateX(-50%) scale(1.25);
-  box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.25);
-  background: #ea580c;
+/* 日期 & 內容 */
+.tl-date {
+  font-weight: 700;
+  color: #e67e22;
+  margin-bottom: 4px;
+}
+.tl-content {
+  line-height: 1.7;
 }
 
-/* 最底下 extension 沒有點 */
-.tl-item.tl-extension::before {
-  display: none;
-}
-
-/* hover 動畫：滑過時節點放大＋發光 */
-.tl-item:hover::before {
-  transform: scale(1.25);
-  box-shadow: 0 0 0 4px rgba(249, 115, 22, 0.25);
-  background: #ea580c;           /* hover 時稍微變深一點 */
-}
-
-/* 滑過時，文字略做強調（可選） */
-.tl-item:hover .tl-date {
-  color: #c2410c;                /* 日期變稍微深一點的橘色 */
-}
-
-.tl-item:hover .tl-content {
-  background: #f9fafb;
-  border-radius: 8px;
-  padding: 4px 8px;
-}
-/* 原點換色結束 */
-.tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
-.tl-content { line-height: 1.7; }
-
-/* extension (line without text) */
+/* 最底部延伸，不顯示圓點與文字 */
 .tl-item.tl-extension {
   min-height: 40px;
 }
 .tl-item.tl-extension::before {
-  display: none;   /* ← 這裡讓圓點消失 */  
+  display: none;
 }
 .tl-item.tl-extension .tl-date,
 .tl-item.tl-extension .tl-content {
   display: none;
 }
 
-/* mobile tweaks */
+/* 手機版調整 */
 @media (max-width: 640px) {
   .timeline { padding-left: 16px; }
-  .tl-item::before { left: -24px; }
+  .tl-item::before { left: -24px; transform: none; }
   .tl-date { display: block; margin-bottom: 2px; }
 }
 </style>
