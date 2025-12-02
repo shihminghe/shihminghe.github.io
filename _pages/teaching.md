@@ -75,11 +75,11 @@ author_profile: true
 
 <style>
 ul li {
-  margin-bottom: 4px;   /* 控制清單行距 */
+  margin-bottom: 2px;   /* 控制清單行距 */
 }
 em {
   display: block;       /* 獨立換行 */
-  margin-top: 4px;      /* 與上一段距離 */
+  margin-top: 2px;      /* 與上一段距離 */
   margin-bottom: 2px;   /* 與課程清單距離 */
   font-style: italic;   /* 斜體 */
 }
