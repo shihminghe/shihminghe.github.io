@@ -21,7 +21,7 @@ My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CV
 <ul>
   <li>Built and tuned <strong>CVD/MOCVD</strong> platforms for <strong>wafer-scale 2D materials</strong></li>
   <li>Focus on <strong>transfer reliability</strong> &amp; <strong>process reproducibility</strong> for manufacturing</li>
-  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>autonomous process optimization</strong></li>
+  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>automated process optimization</strong></li>
 </ul>
 <blockquote>
   Caring about turning lab-scale breakthroughs into <strong>robust, scalable processes</strong> that teams can actually build on.
