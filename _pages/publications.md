@@ -4,7 +4,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
+Journal Publications
 ======
 
 **2025**  
@@ -85,7 +85,7 @@ Preprints
     
 <hr class="bold">
 
-Conference Proceeding
+Conference Proceedings
 ======
 **2022**  
 - <b>Heteroepitaxy of III-nitrides on polycrystalline and amorphous substrates</b><br>
