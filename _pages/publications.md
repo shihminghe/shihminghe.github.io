@@ -8,11 +8,6 @@ Publications
 ======
 
 **2025**  
-- <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
-  <i><u>arXiv preprint arXiv:2509.21908</u></i> [cond-mat.mtrl-sci] (2025)<br>
-  Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
-  <a href="https://doi.org/10.48550/arXiv.2509.21908" target="_blank">https://doi.org/10.48550/arXiv.2509.21908</a>
-
 - <b>A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures</b><br>
   <i><u>Chemical Engineering Journal</u></i>, 522, 166830 (2025) <br>
   Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, <b>Shih-Ming He</b>, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong&#42;, Yu-Lun Chueh&#42;<br>
@@ -44,12 +39,6 @@ Publications
   <b>Shih-Ming He</b>, Zhi-Long Lin, Wei-Jie Lin, Kai-Xiang Xu, Yi-Hsien Chen, Jyh-Chen Chen, Ching-Yuan Su&#42;<br>
   <a href="https://doi.org/10.1016/j.jtice.2021.08.035" target="_blank">https://doi.org/10.1016/j.jtice.2021.08.035</a>
 
-- <b>Graphene under extreme electromagnetic field: energetic ion acceleration by direct irradiation of ultra intense laser on few layer suspended graphene</b><br>
-  <i><u>Research Square, Preprint, Version 1, posted 17 Jun.</u></i> (2021)<br>
-  Yasuhiro Kuramitsu, Takumi Minami, Takamasa Hihara, Kentaro Sakai, Takahiro Nishimoto, Shogo Isayama, Yu-Tzu Liao, Kuan-Ting Wu, Wei-Yen Woon, Shih-Hung Chen, Yao-Li Liu, <b>Shih-Ming He</b>, Ching-Yuan Su, Masato Ota, Shunsuke Egashira, Alessio Morace, Youichi Sakawa, Hideaki Habara, Ryosuke Kodama, Leonard Dohl, Nigel Woolsey, Michel Koenig, Masato Kanasaki, Takafumi Asai, Tomoya Yamauchi, Keiji Oda, Kotaro Kondo, Hiromitsu Kiriyama, Yuji Fukuda<br>
-  <a href="https://doi.org/10.21203/rs.3.rs-373515/v1" target="_blank">https://doi.org/10.21203/rs.3.rs-373515/v1</a>
-  
-
 **2020**  
 - <b>Designed catalytic protocol for enhancing HER performance of P, N-co-doped graphene: The correlation of manipulating the dopants allocations and heteroatomic structure</b><br>
   <i><u>Journal of Physical Chemistry C</u></i>, 124 (47), 25701–25711 (2020)<br>
@@ -78,6 +67,22 @@ Publications
   Jheng-Yuan Syu, Yu-Min Chen, Kai-Xiang Xu, <b>Shih-Ming He</b>, Wu-Ching Hung, Chien-Liang Chang, Ching-Yuan Su&#42;<br>
   <a href="https://doi.org/10.1039/C6RA04449B" target="_blank">https://doi.org/10.1039/C6RA04449B</a>
 
+<hr class="bold">
+
+Preprint Paper
+======
+**2025**  
+- <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
+  <i><u>arXiv preprint arXiv:2509.21908</u></i> [cond-mat.mtrl-sci] (2025)<br>
+  Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
+  <a href="https://doi.org/10.48550/arXiv.2509.21908" target="_blank">https://doi.org/10.48550/arXiv.2509.21908</a>
+
+**2021**  
+- <b>Graphene under extreme electromagnetic field: energetic ion acceleration by direct irradiation of ultra intense laser on few layer suspended graphene</b><br>
+  <i><u>Research Square, Preprint, Version 1, posted 17 Jun.</u></i> (2021)<br>
+  Yasuhiro Kuramitsu, Takumi Minami, Takamasa Hihara, Kentaro Sakai, Takahiro Nishimoto, Shogo Isayama, Yu-Tzu Liao, Kuan-Ting Wu, Wei-Yen Woon, Shih-Hung Chen, Yao-Li Liu, <b>Shih-Ming He</b>, Ching-Yuan Su, Masato Ota, Shunsuke Egashira, Alessio Morace, Youichi Sakawa, Hideaki Habara, Ryosuke Kodama, Leonard Dohl, Nigel Woolsey, Michel Koenig, Masato Kanasaki, Takafumi Asai, Tomoya Yamauchi, Keiji Oda, Kotaro Kondo, Hiromitsu Kiriyama, Yuji Fukuda<br>
+  <a href="https://doi.org/10.21203/rs.3.rs-373515/v1" target="_blank">https://doi.org/10.21203/rs.3.rs-373515/v1</a>
+    
 <hr class="bold">
 
 Conference Paper
