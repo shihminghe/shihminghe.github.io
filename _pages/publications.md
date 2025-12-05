@@ -69,7 +69,7 @@ Publications
 
 <hr class="bold">
 
-Preprint Paper
+Preprints
 ======
 **2025**  
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
@@ -85,7 +85,7 @@ Preprint Paper
     
 <hr class="bold">
 
-Conference Paper
+Conference Proceeding
 ======
 **2022**  
 - <b>Heteroepitaxy of III-nitrides on polycrystalline and amorphous substrates</b><br>
