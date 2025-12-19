@@ -8,7 +8,7 @@ Journal Publications
 ======
 
 **2025**  
-- <b>A Novel Surface-Enhanced Raman Spectroscopy (SERS)-Based Strategy for Rapid and Sensitive Detection of NRR Products Using Janus WSSe/WS₂ Heterostructures</b><br>
+- <b>Scalable fabrication of Janus WSSe/WS₂ heterostructures as ultrasensitive detection platform for electrochemical ammonia products by surface-enhanced raman spectroscopy (SERS)</b><br>
   <i><u>Chemical Engineering Journal</u></i>, 522, 166830 (2025) <br>
   Yu-Ren Peng, Tianyi Zhang, Tilo H. Yang, Shin-Yi Tang, <b>Shih-Ming He</b>, Pei-Husan Wang, Tzi-Yi Yang, Hung-Ti Chen, Shih-Syuan Huang, Yuan-Chun Chen, Hao-Chung Kuo, Jing Kong&#42;, Yu-Lun Chueh&#42;<br>
   <a href="https://doi.org/10.1016/j.cej.2025.166830" target="_blank">https://doi.org/10.1016/j.cej.2025.166830</a>
