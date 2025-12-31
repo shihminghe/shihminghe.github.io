@@ -4,7 +4,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Teaching Philosophy
+# Teaching Philosophy
 
 My teaching emphasizes hands-on learning, system-level thinking, and the integration of programming, hardware, and physical principles. 
 I aim to train students to bridge theory and practice, particularly in semiconductor devices, materials, and experimental systems.
