@@ -22,7 +22,7 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 materials, integrating AI-assisted process optimization, advanced transfer strategies, 
 and plasma-enhanced growth techniques.
 
-- Autonomous CVD/PECVD/MOCVD synthesis platforms with closed-loop control
+- Autonomated CVD/PECVD/MOCVD synthesis platforms with closed-loop control
 - Bayesian optimization and data-driven workflows for process window definition
 - Large-area transfer and layer-controlled heterostructure assembly
 - Plasma-assisted low-temperature growth for next-generation electronics
