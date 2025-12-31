@@ -7,25 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-<h1>About Me</h1>
+<h1>About Me / Profile Summary</h1>
 <p>
-I’m <strong>Shih-Ming He</strong>, an Assistant Professor in the <strong>Department of Electronic Engineering</strong>, Chung Yuan Christian University (CYCU), Taiwan, where I lead the <strong>2D Semiconductor Materials with AI-driven Research &amp; Transfer (2SMART) Lab</strong>.
-</p>
-<p>
-My work bridges <strong>2D semiconductor materials</strong>, <strong>scalable CVD/MOCVD process development</strong>, and <strong>large-area transfer techniques</strong> toward reliable device integration.
+I am an Assistant Professor working on two-dimensional semiconductor materials, with a focus on scalable CVD/MOCVD synthesis, automated process development, and AI-assisted optimization for advanced electronic and optoelectronic devices. 
+My research integrates materials chemistry, plasma processes, and system-level automation 
+to enable reproducible, low-temperature, and manufacturable 2D materials.
 </p>
 
 <hr>
 
-<h1>At a glance</h1>
-<ul>
-  <li>Built and tuned <strong>CVD/MOCVD</strong> platforms for <strong>wafer-scale 2D materials</strong></li>
-  <li>Focus on <strong>transfer reliability</strong> &amp; <strong>process reproducibility</strong> for manufacturing</li>
-  <li>Interested in <strong>AI-driven synthesis</strong> and <strong>automated process optimization</strong></li>
-</ul>
-<blockquote>
-  Caring about turning lab-scale breakthroughs into <strong>robust, scalable processes</strong> that teams can actually build on.
-</blockquote>
+## Current Research Focus
+
+My research centers on scalable and automated synthesis of two-dimensional semiconductor 
+materials, integrating AI-assisted process optimization, advanced transfer strategies, 
+and plasma-enhanced growth techniques.
+
+- Autonomous CVD/PECVD/MOCVD synthesis platforms with closed-loop control
+- Bayesian optimization and data-driven workflows for process window definition
+- Large-area transfer and layer-controlled heterostructure assembly
+- Plasma-assisted low-temperature growth for next-generation electronics
 
 <hr>
 
