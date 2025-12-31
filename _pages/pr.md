@@ -194,7 +194,7 @@ Conference Travel Grants
  <img src="/images/graphene 2019.png" alt="graphene 2019" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2019</div>
-    <div>Graphene 2019, Rome, Italy</div>
+    <div>Conference Travel Grant, Graphene 2019, Rome, Italy</div>
   </div>
 </div>
 
@@ -202,7 +202,7 @@ Conference Travel Grants
   <img src="/images/graphene 2018.png" alt="graphene 2018" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2018</div>
-    <div>Graphene 2018, Dresden, Germany</div>
+    <div>Conference Travel Grant, Graphene 2018, Dresden, Germany</div>
   </div>
 </div>
 
