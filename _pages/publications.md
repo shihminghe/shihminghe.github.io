@@ -106,6 +106,113 @@ Technical Reports
 **2015**  
 - <b>The Synthesis Technology for Large-Area and High-Quality Graphene Film</b><br>
   <i><u>Journal of the Vacuum Society of the R.O.C.</u></i><br>
-  <b>Shih-Ming He</b>, Ching-Yuan Su  
+  <b>Shih-Ming He</b>, Ching-Yuan Su
 
 <hr class="bold">
+  
+<div style="position: relative; height:380px;">
+  <canvas id="pubChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels"></script>
+
+<script>
+
+const years = ['2015','2016','2017','2018','2019','2020','2021','2022','2023','2024','2025'];
+
+const journal =  [0,2,0,0,2,1,1,2,0,1,0];
+const reports =  [1,1,0,0,0,0,0,0,0,0,0];
+const conf    =  [0,1,2,1,3,1,1,1,0,0,0];
+const preprint=  [0,0,0,0,0,0,0,0,1,0,1];   // ← 新增
+
+Chart.register(ChartDataLabels);
+
+new Chart(document.getElementById('pubChart'), {
+  type: 'bar',
+  data: {
+    labels: years,
+    datasets: [
+
+      {
+        label: 'Journal Papers',
+        data: journal,
+        backgroundColor: '#D8B59B',
+        stack: 'total',
+        borderRadius: 10
+      },
+
+      {
+        label: 'Technical Reports',
+        data: reports,
+        backgroundColor: '#5E7E8B',
+        stack: 'total',
+        borderRadius: 10
+      },
+
+      {
+        label: 'International Conference Proceedings',
+        data: conf,
+        backgroundColor: '#9FAE83',
+        stack: 'total',
+        borderRadius: 10
+      },
+
+      {
+        label: 'Preprints',
+        data: preprint,
+        backgroundColor: '#C9A7EB',
+        stack: 'total',
+        borderRadius: 10
+      }
+
+    ]
+  },
+
+  options: {
+
+    responsive: true,
+    maintainAspectRatio: false,
+
+    plugins: {
+
+      legend: {
+        position: 'top',
+        align: 'start'
+      },
+
+      datalabels: {
+        color: 'white',
+        font: {weight:'bold', size:14},
+        formatter: v => v>0 ? v : '',
+        anchor: 'center',
+        align: 'center'
+      }
+
+    },
+
+    scales: {
+
+      x: {
+        stacked: true,
+        grid: {display:false}
+      },
+
+      y: {
+        stacked: true,
+        beginAtZero: true,
+        title: {
+          display: true,
+          text: 'Publications per Year'
+        },
+        ticks: {precision:0}
+      }
+
+    }
+
+  }
+});
+
+</script>
+
+<hr class="bold"
