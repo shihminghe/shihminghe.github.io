@@ -40,10 +40,8 @@ Work Experience
   <div class="cv-text">
     <div class="cv-date">2026.02 – present</div>
     <div>Program Director, Applied Artificial Intelligence Exploration Program, Chung Yuan Christian University, Taiwan</div>
-    <br>
     <div class="cv-date">2026.02 – present</div>
     <div>Joint Appointment Faculty, College of Semiconductor Technology, Chung Yuan Christian University, Taiwan</div>
-    <br>
     <div class="cv-date">2025.08 – present</div>
     <div>Assistant Professor, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
   </div>
