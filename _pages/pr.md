@@ -74,13 +74,11 @@ Service & Committee Memberships
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
 
-  <h4 class="cv-subtitle">College-Level Committees</h4>
-
+  <div class="cv-role-title">College-Level Committees</div>
   <div class="cv-date">2025.08 – 2026.07</div>
   <div>Member, University of Wisconsin-Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
 
-  <h4 class="cv-subtitle">Department-Level Committees</h4>
-
+  <div class="cv-role-title" style="margin-top: 16px;">Department-Level Committees</div>
   <div class="cv-date">2025.08 – 2026.07</div>
   <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
 
