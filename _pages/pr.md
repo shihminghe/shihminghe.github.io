@@ -70,7 +70,7 @@ Work Experience
 Service & Committee Memberships
 ======
 
-<div class="cv-role-main">University Service</div>
+<h3 class="cv-role-main">University Service</h3>
 
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
