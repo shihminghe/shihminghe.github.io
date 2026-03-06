@@ -70,10 +70,10 @@ Work Experience
 Service & Committee Memberships
 ======
 
+<h3 class="cv-title">University Service</h3>
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
-  <div class="cv-role-main">University Service</div>
   
   <div class="cv-role-sub">College-Level Committees</div>
   <div class="cv-date">2025.08 – 2026.07</div>
