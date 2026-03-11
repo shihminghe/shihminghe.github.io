@@ -73,16 +73,39 @@ Service & Committee Memberships
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2025.08 – 2026.07</div>
-    <div>Member, University of Wisconsin-Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
-    <div class="cv-date">2025.08 – 2026.07</div>
-    <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
-    <div class="cv-date">2025.08 – 2026.07</div>
-    <div>Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan/div>
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, University of Wisconsin–Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+
   </div>
 </div>
 
 <hr class="bold">
+
+Academic Service
+=====
+
+<div class="cv-item">
+  <img src="/images/kansai.png" alt="Kansai University" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026</div>
+    <div>Judge, International Symposium on Electrical Engineering and Computer Science (ISEECS), Kansai University, Japan</div>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026</div>
+    <div>Judge, Undergraduate Project Competition, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+  </div>
+</div>
 
 
 Education
