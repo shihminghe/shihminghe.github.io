@@ -107,6 +107,7 @@ Academic Service
   </div>
 </div>
 
+<hr class="bold">
 
 Education
 ===
