@@ -95,7 +95,7 @@ Academic Service
   <img src="/images/KansaU.jpg" alt="KansaU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2026</div>
-    <div>Judge, International Symposium on Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan</div>
+    <div>Judge, The 9<sup>th</sup> International Symposium on Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
