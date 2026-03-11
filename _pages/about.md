@@ -23,7 +23,7 @@ materials, integrating AI-assisted process optimization, advanced transfer strat
 and plasma-enhanced growth techniques.
 
 - Autonomated CVD/PECVD/MOCVD synthesis platforms with closed-loop control
-- Bayesian optimization and data-driven workflows for process window definition
+- Optimization and data-driven workflows for process window definition
 - Large-area transfer and layer-controlled heterostructure assembly
 - Plasma-assisted low-temperature growth for next-generation electronics
 
