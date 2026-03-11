@@ -70,28 +70,18 @@ Work Experience
 Service & Committee Memberships
 ======
 
-<h3 class="cv-role-main">University Service</h3>
-
 <div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-role-sub">College-Level Committees</div>
     <div class="cv-date">2025.08 – 2026.07</div>
-    <div class="cv-entry">
-      Member, University of Wisconsin-Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan
+    <div>Member, University of Wisconsin-Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
+    <div class="cv-date">2025.08 – 2026.07</div>
+    <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+    <div class="cv-date">2025.08 – 2026.07</div>
+    <div>Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan/div>
   </div>
 </div>
-    <div class="cv-role-sub section-gap">Department-Level Committees</div>
-    <div class="cv-date">2025.08 – 2026.07</div>
-    <div class="cv-entry">
-      Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan
-    </div>
-    <div class="cv-date">2025.08 – 2026.07</div>
-    <div class="cv-entry">
-      Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan
-    </div>
-  </div>
-</div>
+
 <hr class="bold">
 
 
