@@ -11,7 +11,7 @@ Journal Publications
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
   <i><u>Small Science</u></i>, (2026) <br>
   Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, Shih-Ming He, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
-  <a href="https://doi.org/10.1016/j.cej.2025.166830" target="_blank">https://doi.org/10.1016/j.cej.2025.166830</a>
+  <a href="https://doi.org/10.1002/smsc.202500609" target="_blank">https://doi.org/10.1002/smsc.202500609</a>
   
 **2025**  
 - <b>Scalable fabrication of Janus WSSe/WS₂ heterostructures as ultrasensitive detection platform for electrochemical ammonia products by surface-enhanced raman spectroscopy (SERS)</b><br>
