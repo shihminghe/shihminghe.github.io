@@ -10,7 +10,7 @@ Journal Publications
 **2026**  
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
   <i><u>Small Science</u></i>, (2026) <br>
-  Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, Shih-Ming He, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
+  Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
   <a href="https://doi.org/10.1002/smsc.202500609" target="_blank">https://doi.org/10.1002/smsc.202500609</a>
   
 **2025**  
