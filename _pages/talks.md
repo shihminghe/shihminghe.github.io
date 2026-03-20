@@ -62,7 +62,7 @@ author_profile: true
 
 # Domestic Invited / Seminar Presentations
 
-- *2D Materials Beyond the Lab Towards Scalable and Autonomous Manufacturing* <br>
+- *2D Materials Beyond the Lab: Towards Scalable and Autonomous Manufacturing* <br>
   Invited Seminar, Department of Electronic Engineering, Chung Yuan Christian University, Apr. 07, 2026, Tauyuan City, Taiwan <br>
   **Shih-Ming He**  
 
