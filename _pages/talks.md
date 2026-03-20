@@ -62,6 +62,10 @@ author_profile: true
 
 # Domestic Invited / Seminar Presentations
 
+- *2D Materials Beyond the Lab Towards Scalable and Autonomous Manufacturing* <br>
+  Invited Seminar, Department of Electronic Engineering, Chung Yuan Christian University, Apr. 07, 2026, Tauyuan City, Taiwan <br>
+  **Shih-Ming He**  
+
 - *From MiT to MIT: Never Say Never* <br>
   Invited Seminar, Department of Physics, Fu Jen Catholic University, Nov. 14, 2025, New Taipei City, Taiwan <br>
   **Shih-Ming He**  
