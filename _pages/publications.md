@@ -115,3 +115,13 @@ Technical Reports
   <b>Shih-Ming He</b>, Ching-Yuan Su
 
 <hr class="bold">
+
+Patents
+======
+**2025**  
+- <b>US Patent Pending, Application No. 63/822,804</b><br>
+  <i>Filed June 12, 2025</i><br>
+  Inventors: Jing Kong, Zachariah Hennighausen, Abhishek Mukherjee, <b>Shih-Ming He</b>
+
+
+<hr class="bold">
