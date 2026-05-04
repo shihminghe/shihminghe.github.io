@@ -62,6 +62,10 @@ author_profile: true
 
 # Domestic Invited / Seminar Presentations
 
+- *If AI Can Learn Everything, What Should We Still Learn?* <br>
+  Invited Seminar, Department of Chemical Engineering and Materials Science, Yuan Ze University, May 20, 2026, Tauyuan City, Taiwan <br>
+  **Shih-Ming He**
+  
 - *2D Materials Beyond the Lab: Towards Scalable and Autonomous Manufacturing* <br>
   Invited Seminar, Department of Electronic Engineering, Chung Yuan Christian University, Apr. 07, 2026, Tauyuan City, Taiwan <br>
   **Shih-Ming He**  
