@@ -132,7 +132,7 @@ Selected Research Projects
 </div>
 
 <div class="cv-item">
-  <img src="/images/TSMC.svg.png" alt="TSMC" class="cv-logo">
+  <img src="/images/Tsmc.svg.png" alt="TSMC" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2020 – 2021</div>
     <div>
