@@ -99,7 +99,7 @@ My research centers on scalable and automated synthesis of two-dimensional semic
   </div>
 </div>
 
-<div class="tl-item academic">
+<div class="tl-item exchange">
   <div class="tl-date">2019.12.01</div>
   <div class="tl-content">
     Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan<br>
@@ -216,23 +216,32 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 
 .tl-date {
   font-weight: 700;
-  color: #e67e22;
+  color: #d97706;
   margin-bottom: 6px;
   letter-spacing: 0.3px;
 }
 
 .tl-content {
   line-height: 1.75;
-  color: #333;
+  color: inherit;
 }
 
-@media (max-width: 640px) {
+@media (prefers-color-scheme: dark) {
+
   .timeline {
-    padding-left: 18px;
+    border-left: 3px solid #4b5563;
   }
 
   .tl-item::before {
-    left: -27px;
+    border: 3px solid #1f2937;
+  }
+
+  .tl-content {
+    color: #e5e7eb;
+  }
+
+  .tl-date {
+    color: #f59e0b;
   }
 }
 </style>
