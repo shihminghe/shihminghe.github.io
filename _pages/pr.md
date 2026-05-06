@@ -213,7 +213,7 @@ Selected Research Projects
       Industry-Academia Collaborative Research Project
     </div>
     <span style="opacity:.8">
-      Taiwan Semiconductor Manufacturing Company (TSMC), Taiwan
+      National Central University × Taiwan Semiconductor Manufacturing Company (TSMC), Taiwan
     </span>
   </div>
 </div>
