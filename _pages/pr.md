@@ -65,50 +65,8 @@ Work Experience
 
 <hr class="bold">
 
-Service & Committee Memberships
-======
-
-<div class="cv-item">
-  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
-  <div class="cv-text">
-
-  <div class="cv-date">2025.08 – 2026.07</div>
-  <div>Member, University of Wisconsin–Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
-
-  <div class="cv-date">2025.08 – 2026.07</div>
-  <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
-
-  <div class="cv-date">2025.08 – 2026.07</div>
-  <div>Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
-
-  </div>
-</div>
-
-<hr class="bold">
-
-Academic Service
-=====
-
-<div class="cv-item">
-  <img src="/images/KansaU.jpg" alt="KansaU" class="cv-logo">
-  <div class="cv-text">
-    <div class="cv-date">2026</div>
-    <div>Judge, The 9<sup>th</sup> International Symposium on Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan</div>
-  </div>
-</div>
-
-<div class="cv-item">
-  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
-  <div class="cv-text">
-    <div class="cv-date">2025</div>
-    <div>Judge, Undergraduate Project Competition, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
-  </div>
-</div>
-
-<hr class="bold">
-
 Education
-===
+=====
 
 <div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
@@ -159,8 +117,43 @@ Visiting Research and Academic Exchanges
 </div>
 
 <hr class="bold">
-  
-Fellowships
+
+Selected Research Projects
+======
+
+<div class="cv-item">
+  <img src="/images/NSTC.png" alt="NSTC" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026 – 2027</div>
+    <div>
+      Principal Investigator, AI-Assisted Fully Automated CVD for Precise Stacking Control and Growth Mechanism of Multilayer 2D Materials, National Science and Technology Council, Taiwan
+    </div>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/TSMC.svg.png" alt="TSMC" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2020 – 2021</div>
+    <div>
+      Graduate Student Research Assistant, Industry-Academia Collaborative Research Project, Taiwan Semiconductor Manufacturing Company,  Taiwan
+    </div>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2019</div>
+    <div>
+      Core Team Member (CIO), High-Quality Graphene for Epitaxial Semiconductor Technologies, Germination Program, National Central University, Taiwan
+    </div>
+  </div>
+</div>
+
+<hr class="bold">
+
+Fellowships & Grants
 ======
 
 <div class="cv-item">
@@ -178,11 +171,6 @@ Fellowships
     <div>Graduate Students Study Abroad Program, Ministry of Science and Technology, Taiwan</div>
   </div>
 </div>
-
-<hr class="bold">
-  
-Conference Travel Grants
-======
 
 <div class="cv-item">
  <img src="/images/graphene 2019.png" alt="graphene 2019" class="cv-logo">
@@ -208,10 +196,9 @@ Conference Travel Grants
   </div>
 </div>
 
-
 <hr class="bold">
 
-Awards
+Awards & Honors
 ======
 
 <div class="cv-item">
@@ -241,6 +228,56 @@ Awards
   <div class="cv-text">
     <div class="cv-date">2016</div>
     <div>Best Presentation Award, International Conference on Machining, Materials and Mechanical Technologies (IC3MT)</div>
+  </div>
+</div>
+
+<hr class="bold">
+
+University Service & Committee Memberships
+======
+
+<div class="cv-item">
+  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
+  <div class="cv-text">
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, University of Wisconsin–Milwaukee Dual Bachelor’s Degree Program Committee, College of Engineering, Chung Yuan Christian University, Taiwan</div>
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, Curriculum Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+
+  <div class="cv-date">2025.08 – 2026.07</div>
+  <div>Member, Academic Affairs Committee, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
+
+  </div>
+</div>
+
+<hr class="bold">
+
+Academic Service & Professional Activities
+=====
+
+<div class="cv-item">
+  <img src="/images/CYCU.jpg" alt="CYCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026</div>
+    <div>Reviewer, Undergraduate Admission and Transfer Application Review, Department of Electronic Engineering,, Chung Yuan Christian University, Taiwan</div>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/KansaU.jpg" alt="KansaU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026</div>
+    <div>Judge, The 9<sup>th</sup> International Symposium on Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan</div>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2025</div>
+    <div>Judge, Undergraduate Project Competition, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
