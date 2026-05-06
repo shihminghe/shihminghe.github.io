@@ -151,7 +151,9 @@ Visiting Research & Academic Exchanges
     <div class="cv-date">2017.07.17 – 2017.07.26</div>
     <div>
       Visiting Researcher<br>
-      Rutherford Appleton Laboratory, Didcot, United Kingdom
+       <span style="opacity:.8">
+         Rutherford Appleton Laboratory, Didcot, United Kingdom
+       </span>
     </div>
 
   </div>
@@ -163,7 +165,9 @@ Visiting Research & Academic Exchanges
     <div class="cv-date">2016.11.15 – 2016.11.23</div>
     <div>
       Academic Exchange<br>
-      Shizuoka University, Shizuoka, Japan
+      <span style="opacity:.8">
+        Shizuoka University, Shizuoka, Japan
+      </span>
     </div>
 
   </div>
@@ -176,7 +180,9 @@ Visiting Research & Academic Exchanges
     <div class="cv-date">2015.07.13 – 2015.07.24</div>
     <div>
       Academic Exchange<br>
-      Hiroshima University, Hiroshima, Japan
+      <span style="opacity:.8">
+        Hiroshima University, Hiroshima, Japan
+      </span>
     </div>
 
   </div>
@@ -274,7 +280,9 @@ Fellowships & Grants
     <div class="cv-date">2019</div>
     <div>
       Conference Travel Grant<br>
-      Graphene 2019, Rome, Italy
+      <span style="opacity:.8">
+        Graphene 2019, Rome, Italy
+      </span>
     </div>
 
   </div>
@@ -286,7 +294,9 @@ Fellowships & Grants
     <div class="cv-date">2018</div>
     <div>
       Conference Travel Grant<br>
-      Graphene 2018, Dresden, Germany
+      <span style="opacity:.8">
+        Graphene 2018, Dresden, Germany
+      </span>
     </div>
 
   </div>
