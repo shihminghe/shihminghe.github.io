@@ -180,32 +180,59 @@ and plasma-enhanced growth techniques.
 
 <!-- Style -->
 <style>
-.timeline { border-left: 3px solid #9aa0a6; margin: 24px 0; padding-left: 20px; }
-.tl-item { margin: 16px 0; position: relative; }
-.tl-item::before {
-  content: ""; width: 12px; height: 12px; background: #9aa0a6; border-radius: 50%;
-  position: absolute; left: -27px; top: 6px;
+.timeline {
+  border-left: 3px solid #c7cbd1;
+  margin: 32px 0;
+  padding-left: 26px;
 }
-.tl-date { font-weight: 700; color: #e67e22; margin-bottom: 4px; }
-.tl-content { line-height: 1.7; }
 
-/* extension (line without text) */
+.tl-item {
+  position: relative;
+  padding: 18px 0;
+}
+
+.tl-item::before {
+  content: "";
+  width: 11px;
+  height: 11px;
+  background: #e67e22;
+  border: 3px solid white;
+  box-shadow: 0 0 0 2px #e67e22;
+  border-radius: 50%;
+  position: absolute;
+  left: -34px;
+  top: 24px;
+}
+
+.tl-date {
+  font-weight: 700;
+  color: #e67e22;
+  margin-bottom: 6px;
+  letter-spacing: 0.3px;
+}
+
+.tl-content {
+  line-height: 1.75;
+  color: #333;
+}
+
+/* extension */
 .tl-item.tl-extension {
   min-height: 40px;
 }
-.tl-item.tl-extension .tl-date,
-.tl-item.tl-extension .tl-content {
+
+.tl-item.tl-extension::before {
   display: none;
 }
-.tl-item.tl-extension::before {
-  display:none;
-}
 
-/* mobile tweaks */
 @media (max-width: 640px) {
-  .timeline { padding-left: 16px; }
-  .tl-item::before { left: -24px; }
-  .tl-date { display: block; margin-bottom: 2px; }
+  .timeline {
+    padding-left: 18px;
+  }
+
+  .tl-item::before {
+    left: -27px;
+  }
 }
 </style>
 
