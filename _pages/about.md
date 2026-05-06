@@ -223,7 +223,7 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 
 .tl-content {
   line-height: 1.75;
-  color: #1f2937 !important;
+  color: unset !important;
   opacity: 1 !important;
 }
 
@@ -235,11 +235,6 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 
   .tl-item::before {
     border: 3px solid #1f2937;
-  }
-
-  .tl-content {
-    color: #e5e7eb !important;
-    opacity: 1 !important;
   }
 
   .tl-date {
