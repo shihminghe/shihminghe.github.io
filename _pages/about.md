@@ -19,7 +19,7 @@ My research integrates materials chemistry, plasma processes, and system-level a
 
 My research centers on scalable and automated synthesis of two-dimensional semiconductor materials, integrating AI-assisted process optimization, advanced transfer strategies, and plasma-enhanced growth techniques.
 
-- Autonomated CVD/PECVD/MOCVD synthesis platforms with closed-loop control
+- Automated CVD/PECVD/MOCVD synthesis platforms with closed-loop control
 - Optimization and data-driven workflows for process window definition
 - Large-area transfer and layer-controlled heterostructure assembly
 - Plasma-assisted low-temperature growth for next-generation electronics
@@ -170,6 +170,8 @@ My research centers on scalable and automated synthesis of two-dimensional semic
   </div>
 </div>
 
+</div>
+
 <!-- Style -->
 <style>
 .timeline {
@@ -206,15 +208,6 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 .tl-content {
   line-height: 1.75;
   color: #333;
-}
-
-/* extension */
-.tl-item.tl-extension {
-  min-height: 40px;
-}
-
-.tl-item.tl-extension::before {
-  display: none;
 }
 
 @media (max-width: 640px) {
