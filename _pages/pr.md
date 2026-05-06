@@ -258,10 +258,10 @@ Academic Service & Professional Activities
 =====
 
 <div class="cv-item">
-  <img src="/images/CYCU.jpg" alt="CYCU" class="cv-logo">
+  <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2026</div>
-    <div>Interviewer Reviewer, Undergraduate Admission and Transfer Application Review, Department of Electronic Engineering,, Chung Yuan Christian University, Taiwan</div>
+    <div>Interviewer and Reviewer, Undergraduate Admission and Transfer Application Review, Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</div>
   </div>
 </div>
 
