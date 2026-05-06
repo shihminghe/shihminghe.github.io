@@ -423,7 +423,7 @@ Academic Service & Professional Activities
       Electrical Engineering and Computer Science
     </div>
     <span style="opacity:.8">
-      Chung Yuan Christian University, Taiwan
+      College of Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan
     </span>
 
   </div>
