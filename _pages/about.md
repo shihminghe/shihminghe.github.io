@@ -65,7 +65,7 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 </div>
 
 <div class="tl-item academic">
-  <div class="tl-date">2023.09.01</div>
+  <div class="tl-date">2023.09.31</div>
   <div class="tl-content">
     Left the Optical Sciences Center, National Central University, Taiwan
   </div>
