@@ -320,7 +320,7 @@ Academic Service, Leadership & Outreach
   <div class="cv-text">
     <div class="cv-date">2026</div>
     <div>Judge, The 9<sup>th</sup> International Symposium on Electrical Engineering and Computer Science</div>
-    <span>College of Electrical Engineering and Computer Sciense, Chung Yuan Christian University, Taiwan</span>
+    <span>College of Electrical Engineering and Computer Science, Chung Yuan Christian University, Taiwan</span>
   </div>
 </div>
 
@@ -372,7 +372,16 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2015</div>
+    <div class="cv-date">2015 – 2017</div>
+    <div>Program Administrative Assistant</div>
+    <span>Industrial Innovation Platform Program, Ministry of Economic Affairs, Taiwan</span>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2015 – 2016</div>
     <div>Research Laboratory Coordinator</div>
     <span>Nano Device & Energy Material Lab, National Central University, Taiwan</span>
   </div>
@@ -381,7 +390,7 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/FJCU.png" alt="Fu Jen Catholic University" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2011</div>
+    <div class="cv-date">2011 – 2012</div>
     <div>Committee Member, Department Student Association</div>
     <span>Department of Physics, Fu Jen Catholic University, Taiwan</span>
   </div>
