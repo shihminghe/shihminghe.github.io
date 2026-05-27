@@ -349,6 +349,15 @@ Academic Service, Leadership & Outreach
 </div>
 
 <div class="cv-item">
+  <img src="/images/MIT.png" alt="MIT" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2024</div>
+    <div>Lab Tour Presenter, SUPREME Annual Review</div>
+    <span>NanoMaterials and Electronics Group, Massachusetts Institute of Technology (MIT), USA</span>
+  </div>
+</div>
+
+<div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2015-2021, 2023</div>
@@ -361,7 +370,7 @@ Academic Service, Leadership & Outreach
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2017</div>
-    <div>Ceremony Host, Department 40th Anniversary Celebration</div>
+    <div>Ceremony Host, Department 40<sup>th</sup> Anniversary Celebration</div>
     <span>Department of Mechanical Engineering, National Central University, Taiwan</span>
   </div>
 </div>
@@ -374,6 +383,5 @@ Academic Service, Leadership & Outreach
     <span>Department of Physics, Fu Jen Catholic University, Taiwan</span>
   </div>
 </div>
-
 
 <hr class="bold">
