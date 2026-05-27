@@ -292,11 +292,7 @@ University Service & Committee Memberships
     <div class="cv-date">2025.08 – 2026.07</div>
     <div>Member, University of Wisconsin–Milwaukee Dual Bachelor’s Degree Program Committee</div>
     <span>College of Engineering, Chung Yuan Christian University, Taiwan</span>
-    <div class="cv-date" style="margin-top:10px;">2025.08 – 2026.07</div>
-    <div>Member, Curriculum Committee</div>
-    <span>Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</span>
-    <div class="cv-date" style="margin-top:10px;">2025.08 – 2026.07</div>
-    <div>Member, Academic Affairs Committee</div>
+    <div>Member, Curriculum Committee and Academic Affairs Committee</div>
     <span>Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</span>
   </div>
 </div>
