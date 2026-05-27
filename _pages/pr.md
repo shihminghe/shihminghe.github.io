@@ -344,7 +344,7 @@ Academic Service, Leadership & Outreach
   <div class="cv-text">
     <div class="cv-date">2024-2025</div>
     <div>Information & Technology Coordinator, Westgate Executive Committee</div>
-    <span>Massachusetts Institute of Technology (MIT), USA</span>
+    <span>Massachusetts Institute of Technology, USA</span>
   </div>
 </div>
 
@@ -353,7 +353,7 @@ Academic Service, Leadership & Outreach
   <div class="cv-text">
     <div class="cv-date">2024</div>
     <div>Lab Tour Presenter, SUPREME Annual Review</div>
-    <span>NanoMaterials and Electronics Group, Massachusetts Institute of Technology (MIT), USA</span>
+    <span>NanoMaterials and Electronics Group, Massachusetts Institute of Technology, USA</span>
   </div>
 </div>
 
@@ -372,6 +372,15 @@ Academic Service, Leadership & Outreach
     <div class="cv-date">2017</div>
     <div>Ceremony Host, Department 40<sup>th</sup> Anniversary Celebration</div>
     <span>Department of Mechanical Engineering, National Central University, Taiwan</span>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2015</div>
+    <div>Research Laboratory Coordinator</div>
+    <span>Nano Device & Energy Material Lab, National Central University, Taiwan</span>
   </div>
 </div>
 
