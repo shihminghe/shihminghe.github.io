@@ -344,7 +344,7 @@ Academic Service, Leadership & Outreach
   <div class="cv-text">
     <div class="cv-date">2024-2025</div>
     <div>Information & Technology Coordinator, Westgate Executive Committee</div>
-    <span>Massachusetts Institute of Technology, USA</span>
+    <span>MIT Westgate Community, Massachusetts Institute of Technology, USA</span>
   </div>
 </div>
 
