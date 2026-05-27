@@ -354,7 +354,7 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2015 – 2021, 2023</div>
+    <div class="cv-date">2015 – 2023</div>
     <div>Laboratory Tour Guide and Academic Outreach Activities</div>
     <span>Graduate Institute of Energy Engineering, National Central University, Taiwan</span>
   </div>
