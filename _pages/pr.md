@@ -360,7 +360,7 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2017/div>
+    <div class="cv-date">2017</div>
     <div>Ceremony Host, Department 40th Anniversary Celebration</div>
     <span>Department of Mechanical Engineering, National Central University, Taiwan</span>
   </div>
