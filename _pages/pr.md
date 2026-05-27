@@ -303,7 +303,7 @@ University Service & Committee Memberships
 
 <hr class="bold">
 
-Academic Service & Professional Activities
+Academic Service, Leadership & Outreach
 ======
 
 <div class="cv-item">
@@ -338,5 +338,42 @@ Academic Service & Professional Activities
     <span>Department of Electronic Engineering, Chung Yuan Christian University, Taiwan</span>
   </div>
 </div>
+
+<div class="cv-item">
+  <img src="/images/MIT.png" alt="MIT" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2024-2025</div>
+    <div>Information & Technology Coordinator, Westgate Executive Committee</div>
+    <span>Massachusetts Institute of Technology (MIT), USA</span>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2015-2021, 2023</div>
+    <div>Laboratory Tour Guide and Academic Outreach Activities</div>
+    <span>Graduate Institute of Energy Engineering, National Central University, Taiwan</span>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2017/div>
+    <div>Ceremony Host, Department 40th Anniversary Celebration</div>
+    <span>Department of Mechanical Engineering, National Central University, Taiwan</span>
+  </div>
+</div>
+
+<div class="cv-item">
+  <img src="/images/FJCU.png" alt="Fu Jen Catholic University" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2011</div>
+    <div>Committee Member, Department Student Association</div>
+    <span>Department of Physics, Fu Jen Catholic University, Taiwan</span>
+  </div>
+</div>
+
 
 <hr class="bold">
