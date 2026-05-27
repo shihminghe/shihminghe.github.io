@@ -342,7 +342,7 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/MIT.png" alt="MIT" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2024-2025</div>
+    <div class="cv-date">2024 – 2025</div>
     <div>Information & Technology Coordinator, Westgate Executive Committee</div>
     <span>MIT Westgate Community, Massachusetts Institute of Technology, USA</span>
   </div>
@@ -360,7 +360,7 @@ Academic Service, Leadership & Outreach
 <div class="cv-item">
   <img src="/images/NCULogo.png" alt="NCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2015-2021, 2023</div>
+    <div class="cv-date">2015 – 2021, 2023</div>
     <div>Laboratory Tour Guide and Academic Outreach Activities</div>
     <span>Graduate Institute of Energy Engineering, National Central University, Taiwan</span>
   </div>
