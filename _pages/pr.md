@@ -63,9 +63,7 @@ Work Experience
   <div class="cv-text">
     <div class="cv-date">2026.02 – present</div>
     <div>Program Director, Applied Artificial Intelligence Exploration Program</div>
-    <span>Chung Yuan Christian University, Taiwan</span>
-
-    <div class="cv-date" style="margin-top:10px;">2025.08 – present</div>
+    <div class="cv-date">2025.08 – present</div>
     <div>Assistant Professor, Department of Electronic Engineering</div>
     <span>Chung Yuan Christian University, Taiwan</span>
   </div>
