@@ -84,19 +84,19 @@ Preprints
 ======
 **2026**  
 - <b>False Summit and Silent Drift: A Failure Taxonomy and Efficiency Analysis of LLM-Assisted Multiphysics Simulation in an Open-Source Framework</b><br>
-  <i><u>arXiv preprint arXiv:2606.21841 </u></i> [physics.comp-ph] (2026)<br>
+  <i><u>arXiv, arXiv:2606.21841 </u></i> [physics.comp-ph] (2026)<br>
   Chi-Chun Chiang, <b>Shih-Ming He</b>&#42;<br>
   <a href="https://doi.org/10.48550/arXiv.2606.21841" target="_blank">https://doi.org/10.48550/arXiv.2606.21841</a>
 
 **2025**  
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
-  <i><u>arXiv preprint arXiv:2509.21908</u></i> [cond-mat.mtrl-sci] (2025)<br>
+  <i><u>arXiv, arXiv:2509.21908</u></i> [cond-mat.mtrl-sci] (2025)<br>
   Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
   <a href="https://doi.org/10.48550/arXiv.2509.21908" target="_blank">https://doi.org/10.48550/arXiv.2509.21908</a>
 
 **2021**  
 - <b>Graphene under extreme electromagnetic field: energetic ion acceleration by direct irradiation of ultra intense laser on few layer suspended graphene</b><br>
-  <i><u>Research Square, Preprint, Version 1, posted 17 Jun.</u></i> (2021)<br>
+  <i><u>Research Square, Version 1, posted 17 Jun.</u></i> (2021)<br>
   Yasuhiro Kuramitsu, Takumi Minami, Takamasa Hihara, Kentaro Sakai, Takahiro Nishimoto, Shogo Isayama, Yu-Tzu Liao, Kuan-Ting Wu, Wei-Yen Woon, Shih-Hung Chen, Yao-Li Liu, <b>Shih-Ming He</b>, Ching-Yuan Su, Masato Ota, Shunsuke Egashira, Alessio Morace, Youichi Sakawa, Hideaki Habara, Ryosuke Kodama, Leonard Dohl, Nigel Woolsey, Michel Koenig, Masato Kanasaki, Takafumi Asai, Tomoya Yamauchi, Keiji Oda, Kotaro Kondo, Hiromitsu Kiriyama, Yuji Fukuda<br>
   <a href="https://doi.org/10.21203/rs.3.rs-373515/v1" target="_blank">https://doi.org/10.21203/rs.3.rs-373515/v1</a>
     
