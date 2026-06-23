@@ -8,6 +8,11 @@ Journal Publications
 ======
 
 **2026**  
+- <b>Oxygen Vacancy Driven Sub-Band Gap Luminescence in Multilayer SnSe2/Graphene Heterostructures</b><br>
+  <i><u>ACS Applied Nano Materials</u></i> (2026) <br>
+  Ding-Rui Chen, Yuan-Chih Hung, Tian-Hsin Wang, Yuan-Yu Liu, Peng-Yu Lai, Ji-Wei Ci, Ying-Yu Wang, Ching-Hsueh Chiu, Chen-Fang Kang, <b>Shih-Ming He</b>, Wu-Yih Uen, Yann-Wen Lan, Ya-Ping Hsieh, Chi-Te Liang, Nobuyuki Aoki, Gil-Ho Kim, Da-Ren Hang&#42;, Dung-Sheng Tsai&#42;, Chiashain Chuang&#42;<br>
+  <a href="https://doi.org/10.1021/acsanm.6c01414" target="_blank">https://doi.org/10.1021/acsanm.6c01414</a>
+
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
   <i><u>Small Science</u></i>, 6, e202500609 (2026) <br>
   Zhien Wang, Jiangtao Wang&#42;, Diego Exposito, Andrey Krayev, <b>Shih-Ming He</b>, Xudong Zheng, Zachariah Hennighausen, Ivan Brihuega, Se-Young Jeong&#42;, Jing Kong&#42;<br>
@@ -77,6 +82,12 @@ Journal Publications
 
 Preprints
 ======
+**2026**  
+- <b>False Summit and Silent Drift: A Failure Taxonomy and Efficiency Analysis of LLM-Assisted Multiphysics Simulation in an Open-Source Framework</b><br>
+  <i><u>arXiv preprint arXiv:2606.21841 </u></i> [physics.comp-ph] (2026)<br>
+  Chi-Chun Chiang, <b>Shih-Ming He</b>&#42;<br>
+  <a href="https://doi.org/10.48550/arXiv.2606.21841" target="_blank">https://doi.org/10.48550/arXiv.2606.21841</a>
+
 **2025**  
 - <b>Beyond Seamless: Unexpected Defective Merging in Single-Orientation Graphene</b><br>
   <i><u>arXiv preprint arXiv:2509.21908</u></i> [cond-mat.mtrl-sci] (2025)<br>
