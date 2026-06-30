@@ -11,11 +11,9 @@ The site includes:
 - About Me
 - Professional Record
 - Publications
-- Research Projects
 - Talks & Presentations
 - Teaching
 - Portfolio
-- Open-Source Resources
 
 Main content files are in `/_pages`, with layouts in `/_layouts` and configuration in `_config.yml`.
 
