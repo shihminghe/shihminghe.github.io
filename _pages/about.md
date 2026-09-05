@@ -59,14 +59,14 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
 <div class="tl-item academic">
   <div class="tl-date">2025.05.01</div>
   <div class="tl-content">
-    Completed postdoctoral research at the <strong>Research Laboratory of Electronics</strong>, Massachusetts Institute of Technology, USA
+    Completed postdoctoral research at the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA
   </div>
 </div>
 
 <div class="tl-item academic">
   <div class="tl-date">2024.12.01</div>
   <div class="tl-content">
-    Awarded Postdoctoral Research Abroad Fellowship from National Science and Technology Council, Taiwan
+    Awarded <strong>Postdoctoral Research Abroad Fellowship</strong> from National Science and Technology Council, Taiwan
   </div>
 </div>
 
@@ -80,7 +80,7 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
 <div class="tl-item academic">
   <div class="tl-date">2023.09.30</div>
   <div class="tl-content">
-    Completed postdoctoral research at the <strong>Optical Sciences Center</strong>, National Central University, Taiwan
+    Completed postdoctoral research at the Optical Sciences Center, National Central University, Taiwan
   </div>
 </div>
 
@@ -108,14 +108,14 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
 <div class="tl-item academic">
   <div class="tl-date">2021.11.27</div>
   <div class="tl-content">
-    Earned Ph.D. in Energy Engineering, National Central University, Taiwan
+    Earned a <strong>Ph.D. in Energy Engineering</strong>, National Central University, Taiwan
   </div>
 </div>
 
 <div class="tl-item exchange">
   <div class="tl-date">2019.12.01</div>
   <div class="tl-content">
-    Awarded Graduate Students Study Abroad Fellowship from Ministry of Science and Technology, Taiwan<br>
+    Awarded <strong>Graduate Students Study Abroad Fellowship</strong> from Ministry of Science and Technology, Taiwan<br>
     <span class="tl-sub">Hosted by the Department of Electrical Engineering and Computer Science, MIT, USA</span>
   </div>
 </div>
@@ -172,7 +172,7 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
 <div class="tl-item academic">
   <div class="tl-date">2014.06.30</div>
   <div class="tl-content">
-    Graduated with B.S. in Physics, Fu Jen Catholic University, Taiwan
+    Graduated with <strong>B.S. in Physics</strong>, Fu Jen Catholic University, Taiwan
   </div>
 </div>
 
