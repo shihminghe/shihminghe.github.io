@@ -12,7 +12,7 @@ site_theme               : "default" # Currently available options are "default"
 title                    : "Shih-Ming He"
 title_separator          : "-"
 name                     : &name "Shih-Ming He"
-description              : &description "Assistant Professor at CYCU Electronic Engineering, focusing on 2D semiconductor materials, scalable CVD/MOCVD process development, and universal transfer techniques for device applications."
+description              : &description "Senior Research Engineer specializing in 2D semiconductor materials, scalable CVD/MOCVD process development, multiphysics modeling, semiconductor process engineering, and AI-assisted process optimization."
 url                      : "https://shihminghe.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shihminghe/shihminghe.github.io"
@@ -25,19 +25,19 @@ author:
   avatar           : "headshot.png"
   name             : "Shih-Ming He"
   pronouns         : "he/his" # example: "she/her"  
-  bio              : "Assistant Professor"
-  location         : "Taoyuan, Taiwan"
-  employer         : "Chung Yuan Christian University"
-  uri              : "https://el.cycu.edu.tw/en/portfolio-item/shih-ming-he/" # URL
-  email            : "smhe@cycu.edu.tw" 
+  bio              : "Senior Research Engineer"
+  location         : "Singapore"
+  employer         : "Nexstrom Pte. Ltd."
+  uri              : "https://nexstrom.com" # URL
+  email            : "shihming.he@gmail.com" 
 
   # Academic websites
   academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : "https://arxiv.org/a/he_s_6"
   googlescholar    : "https://scholar.google.com/citations?user=yDcEKCMAAAAJ&hl"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/0000-0003-1093-6091"
+  orcid            : "https://orcid.org/0000-0003-1093-6091"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Shih-Ming-He" # URL
@@ -304,7 +304,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Singapore # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
