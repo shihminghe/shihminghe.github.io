@@ -56,7 +56,7 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
 </div>
 
 <div class="tl-item academic">
-  <div class="tl-date">2025.05.01</div>
+  <div class="tl-date">2025.04.30</div>
   <div class="tl-content">
     Completed postdoctoral research at the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA
   </div>
