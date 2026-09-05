@@ -91,14 +91,14 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
   </div>
 </div>
 
-<div class="tl-item other">
+<div class="tl-item life">
   <div class="tl-date">2022.12.06</div>
   <div class="tl-content">
     Completed one-year alternative military service at Tainan Education and Nursing Institute, Taiwan
   </div>
 </div>
 
-<div class="tl-item other">
+<div class="tl-item life">
   <div class="tl-date">2022.01.03</div>
   <div class="tl-content">
     Began one-year alternative military service at Tainan Education and Nursing Institute, Taiwan
@@ -155,14 +155,14 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
   </div>
 </div>
 
-<div class="tl-item other">
+<div class="tl-item life">
   <div class="tl-date">2014.07.24</div>
   <div class="tl-content">
     Completed an 18-day round-island cycling trip in Taiwan
   </div>
 </div>
 
-<div class="tl-item other">
+<div class="tl-item life">
   <div class="tl-date">2014.07.07</div>
   <div class="tl-content">
     Began round-island cycling trip in Taiwan
@@ -214,7 +214,7 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
   background: #16a085;
   box-shadow: 0 0 0 2px #16a085;
 }
-  
+
 /* Academic / Career */
 .tl-item.academic::before {
   background: #e67e22;
@@ -227,10 +227,10 @@ My work focuses on bridging fundamental 2D materials research with semiconductor
   box-shadow: 0 0 0 2px #2c5aa0;
 }
 
-/* Other Life Events */
-.tl-item.other::before {
-  background: #6f7f8f;
-  box-shadow: 0 0 0 2px #6f7f8f;
+/* Personal / Life Events */
+.tl-item.life::before {
+  background: #8e44ad;
+  box-shadow: 0 0 0 2px #8e44ad;
 }
 
 .tl-date {
