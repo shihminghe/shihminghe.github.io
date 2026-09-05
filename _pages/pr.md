@@ -62,7 +62,7 @@ Work Experience
   <img src="/images/Nexstrom.png" alt="Nexstrom" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2026.08 – present</div>
-    <div><strong>Senior Research Engineer</strong></div>
+    <div>Senior Research Engineer</div>
     <span>Nexstrom, Singapore</span>
   </div>
 </div>
