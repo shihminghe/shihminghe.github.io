@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 <h1>About Me / Profile Summary</h1>
-<p>
+
 I am a Senior Research Engineer specializing in two-dimensional semiconductor materials, scalable CVD/MOCVD process development, and multiphysics modeling. My work encompasses materials synthesis, reaction engineering, reactor and process simulation, large-area material transfer, and AI-assisted process optimization. I aim to translate fundamental materials research into reproducible and manufacturable semiconductor processes.
-</p>
 
 <hr>
 
