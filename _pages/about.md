@@ -9,30 +9,43 @@ redirect_from:
 
 <h1>About Me / Profile Summary</h1>
 <p>
-I am an Assistant Professor working on two-dimensional semiconductor materials, with a focus on scalable CVD/MOCVD synthesis, automated process development, and AI-assisted optimization for advanced electronic and optoelectronic devices. 
-My research integrates materials chemistry, plasma processes, and system-level automation to enable reproducible, low-temperature, and manufacturable 2D materials.
+I am a Senior Research Engineer specializing in two-dimensional semiconductor materials, scalable CVD/MOCVD process development, and multiphysics modeling. My work encompasses materials synthesis, reaction engineering, reactor and process simulation, large-area material transfer, and AI-assisted process optimization. I aim to translate fundamental materials research into reproducible and manufacturable semiconductor processes.
 </p>
 
 <hr>
 
 ## Current Research Focus
 
-My research centers on scalable and automated synthesis of two-dimensional semiconductor materials, integrating AI-assisted process optimization, advanced transfer strategies, and plasma-enhanced growth techniques.
+My work focuses on bridging fundamental 2D materials research with semiconductor process engineering, combining experimental process development, physics-based simulation, and data-driven optimization.
 
-- Automated CVD/PECVD/MOCVD synthesis platforms with closed-loop control
-- Optimization and data-driven workflows for process window definition
-- Large-area transfer and layer-controlled heterostructure assembly
-- Plasma-assisted low-temperature growth for next-generation electronics
+- Scalable CVD/MOCVD process development for two-dimensional semiconductor materials and next-generation electronic applications
+- Multiphysics reactor and process modeling, including fluid flow, heat and mass transfer, gas-phase chemistry, and surface reaction kinetics
+- AI-assisted and data-driven process optimization for process-window exploration, parameter tuning, and accelerated development
+- Large-area material transfer and integration toward reproducible, wafer-scale semiconductor manufacturing
 
 <hr>
 
 <h2>Life Timeline</h2>
 <div class="timeline">
 
+<div class="tl-item industry">
+  <div class="tl-date">2026.08.06</div>
+  <div class="tl-content">
+    Joined <strong>Nexstrom</strong> as a <strong>Senior Research Engineer</strong>, Singapore
+  </div>
+</div>
+
+<div class="tl-item academic">
+  <div class="tl-date">2026.07.31</div>
+  <div class="tl-content">
+    Concluded my faculty appointment at Chung Yuan Christian University, Taiwan
+  </div>
+</div>
+
 <div class="tl-item academic">
   <div class="tl-date">2026.02.01</div>
   <div class="tl-content">
-    Appointed as a <strong>Program Director</strong> of the Applied Artificial Intelligence Exploration Program at Chung Yuan Christian University, Taiwan
+    Appointed <strong>Program Director</strong> of the Applied Artificial Intelligence Exploration Program at Chung Yuan Christian University, Taiwan
   </div>
 </div>
 
@@ -46,7 +59,7 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 <div class="tl-item academic">
   <div class="tl-date">2025.05.01</div>
   <div class="tl-content">
-    Left the Research Laboratory of Electronics, Massachusetts Institute of Technology, USA
+    Completed postdoctoral research at the <strong>Research Laboratory of Electronics</strong>, Massachusetts Institute of Technology, USA
   </div>
 </div>
 
@@ -65,9 +78,9 @@ My research centers on scalable and automated synthesis of two-dimensional semic
 </div>
 
 <div class="tl-item academic">
-  <div class="tl-date">2023.09.31</div>
+  <div class="tl-date">2023.09.30</div>
   <div class="tl-content">
-    Left the Optical Sciences Center, National Central University, Taiwan
+    Completed postdoctoral research at the <strong>Optical Sciences Center</strong>, National Central University, Taiwan
   </div>
 </div>
 
@@ -196,6 +209,12 @@ My research centers on scalable and automated synthesis of two-dimensional semic
   top: 24px;
 }
 
+/* Industry / Career */
+.tl-item.industry::before {
+  background: #16a085;
+  box-shadow: 0 0 0 2px #16a085;
+}
+  
 /* Academic / Career */
 .tl-item.academic::before {
   background: #e67e22;
