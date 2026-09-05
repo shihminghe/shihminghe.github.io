@@ -13,7 +13,7 @@ I am a Senior Research Engineer specializing in two-dimensional semiconductor ma
 
 <hr>
 
-## Current Research Focus
+## Research & Engineering Focus
 
 My work focuses on bridging fundamental 2D materials research with semiconductor process engineering, combining experimental process development, physics-based simulation, and data-driven optimization.
 
