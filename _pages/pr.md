@@ -59,11 +59,20 @@ Work Experience
 ======
 
 <div class="cv-item">
+  <img src="/images/Nexstrom.png" alt="Nexstrom" class="cv-logo">
+  <div class="cv-text">
+    <div class="cv-date">2026.08 – present</div>
+    <div><strong>Senior Research Engineer</strong></div>
+    <span>Nexstrom, Singapore</span>
+  </div>
+</div>
+
+<div class="cv-item">
   <img src="/images/CYCU.png" alt="CYCU" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2026.02 – present</div>
+    <div class="cv-date">2026.02 – 2026.07</div>
     <div>Program Director, Applied Artificial Intelligence Exploration Program</div>
-    <div class="cv-date">2025.08 – present</div>
+    <div class="cv-date">2025.08 – 2026.07</div>
     <div>Assistant Professor, Department of Electronic Engineering</div>
     <span>Chung Yuan Christian University, Taiwan</span>
   </div>
@@ -164,7 +173,7 @@ Selected Research Projects
 <div class="cv-item">
   <img src="/images/NSTC.png" alt="NSTC" class="cv-logo">
   <div class="cv-text">
-    <div class="cv-date">2026 – 2027</div>
+    <div class="cv-date">2026</div>
     <div>Principal Investigator</div>
     <div>AI-Assisted Fully Automated CVD for Controlled Stacking and Growth of Multilayer 2D Materials</div>
     <span>National Science and Technology Council, Taiwan</span>
@@ -200,7 +209,7 @@ Fellowships & Grants
   <img src="/images/NSTC.png" alt="NSTC" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2024</div>
-    <div>Postdoctoral Research Abroad Program</div>
+    <div>Postdoctoral Research Abroad Fellowship</div>
     <span>National Science and Technology Council, Taiwan</span>
   </div>
 </div>
@@ -209,7 +218,7 @@ Fellowships & Grants
   <img src="/images/MOST.png" alt="MOST" class="cv-logo">
   <div class="cv-text">
     <div class="cv-date">2020</div>
-    <div>Graduate Students Study Abroad Program</div>
+    <div>Graduate Students Study Abroad Fellowship</div>
     <span>Ministry of Science and Technology, Taiwan</span>
   </div>
 </div>
