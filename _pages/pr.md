@@ -13,10 +13,10 @@ author_profile: true
 }
 
 .cv-item .cv-logo {
-  width: 42px;
-  height: 36px;
+  width: 32px;
+  height: 32px;
   object-fit: contain;
-  flex: 0 0 42px;
+  flex: 0 0 32px;
   margin-top: 2px;
 }
 
